@@ -3,6 +3,7 @@ import argparse
 from Bio import Seq
 from Bio import SeqIO
 from Bio import SeqRecord
+from Bio.Alphabet import generic_dna
 
 """This robot is used to extract user specified CDSs (a list file) from the Roary output of pangenome fasta file 
 Xiao 29-03-2019"""
@@ -29,16 +30,21 @@ def main():
 # get the dictionary of trimmed pangenome fasta
     seq_records_dict=SeqIO.index("temp_xiao_fei_robot","fasta")
     print(len(seq_records_dict))
-    print(list(seq_records_dict.keys()))
+    #print(list(seq_records_dict.keys()))
 
 # extract the seq_records according the key_list
     #key_list=["sodC_1","group_3250"]
     with open(args.extract,'r') as f:
         key_list=[line.rstrip('\n') for line in f]
     extract_seq_records=[]
+    extract_seq_records_translate=[]
     for key in key_list:
         extract_seq_records.append(seq_records_dict[key])
-    SeqIO.write(extract_seq_records,args.output,"fasta")    
+        temp=seq_records_dict[key]
+        temp.seq=temp.seq.translate(table="Bacterial", to_stop=True)
+        extract_seq_records_translate.append(temp)
+    SeqIO.write(extract_seq_records,args.output,"fasta")
+    SeqIO.write(extract_seq_records_translate,"temp_CDS.fasta", "fasta")    
 
 
 if __name__ == '__main__':
