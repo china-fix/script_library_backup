@@ -10,6 +10,7 @@ from Bio import SeqIO
 from Bio import SeqRecord
 from Bio import Seq
 import copy
+import subprocess
 
 
 def parse_args():
@@ -18,13 +19,13 @@ def parse_args():
     parser.add_argument('--DB', required=True, type=str, metavar='FILENAME', help="the database name in the command blastn -db")
     parser.add_argument('--WASH_LIST', required=True, type=str, metavar='FILENAME', help="the filename list you want to wash and get the upstream of CDS only")
     parser.add_argument('--CUT', default=100, type=int, metavar='up-stream cut length', help="the length(bp) you want to cut upstream of the CDS")
-#    parser.add_argument('--output', required=True, type=str, metavar='FILENAME', help="Output filename")
+    parser.add_argument('--OUT', default="xiao_robot_extract_beside_CDS", type=str, metavar='directory', help="Output directory name")
     return parser.parse_args()
 
 
 def main():
     args=parse_args()
-
+    subprocess.run(["mkdir", "./"+args.OUT], check=True)
 #doing blast
     do_blastn=NcbiblastnCommandline(query=args.CDS, outfmt=5, db=args.DB, out="temp_blastout.xml")
     stdout, stderr = do_blastn()
@@ -66,7 +67,8 @@ def main():
             for extracting in extracted_results:
                 if extracting[0] == seq_record.description:
                     new_seq_record = copy.deepcopy(seq_record)
-                    new_seq_record.description = seq_record.description + "---FIX---" + extracting[3]
+                    #new_seq_record.description = seq_record.description + "---FIX---" + extracting[3]
+                    new_seq_record.description = wash_name + "---FIX---" + extracting[3]
                     new_seq_record.seq = seq_record.seq[int(extracting[1])-1 : int(extracting[2])-1] #remeber this is 0-base system
                     if len(new_seq_record.seq) == args.CUT:  #clean the ones which cannot fully cut with the cutting length, this can be happened at the two ends of one contig
                         new_seq_records.append(new_seq_record)
@@ -75,6 +77,7 @@ def main():
                 else:
                     pass
         SeqIO.write(new_seq_records,"washed_"+wash_name, "fasta")
+        subprocess.run(["mv", "washed_"+wash_name, "./"+args.OUT], check=True)
     print("dear xiao, you washing step is finished version 1.0, enjoy!")
    
 if __name__ == '__main__':
