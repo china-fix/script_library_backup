@@ -70,12 +70,16 @@ def main():
             else:
                 print(return_code)
                 raise Exception("xiao robot meet some erros at the snp-sites command in step 3")
+    '''for vcf_filter in vcf_filter_list:
+        print(vcf_filter[5:-4], file=open("temp_vcf_filter_list", "a") )  
+    for vcf_unfilter in vcf_unfilter_list:
+        print(vcf_unfilter[5:-4], file=open("temp_vcf_unfilter_list", "a") ) '''
     print("#############################################################")
     print("step 3.SNP calling with snp-sites, output the vcf files passed")
 
 
     #_4.read and analysis the vcf files and get the scores
-    # the function of this part is to get compare each SNP between each group and if the average difference if more than 0.75 score as 1,then sum the score in each CDS
+    # the function of this part is to get compare each SNP between each group and if the average difference is more than 0.75, add score as 1,then sum the scores in each CDS
     for vcf_filter in vcf_filter_list:
         with open("./"+args.OUT + "/"+ vcf_filter) as VCF_FILTER:
             vcf_reader = vcf.Reader(VCF_FILTER)
@@ -90,20 +94,22 @@ def main():
                         score_1 = vcf_record.genotype(name_1 + "---FIX---" + name_1_follow)["GT"]
                         group_score_1 += float(score_1)
                         group_1_num += 1
+                with open(args.GROUP_2) as group_2:
                     group_score_2 = 0
                     group_2_num = 0
-                with open(args.GROUP_2) as group_2:
                     for name_2 in group_2.read().splitlines():
                         name_2 = name_2.split("ashed_")[1] 
                         name_2_follow = vcf_filter[5:-4]
                         score_2 = vcf_record.genotype(name_2 + "---FIX---" + name_2_follow)["GT"]
-                        group_score_2 +=float(score_1)
+                        group_score_2 +=float(score_2)
                         group_2_num +=1
                 final_score = abs(group_score_1/group_1_num - group_score_2/group_2_num)
-            if final_score > 0.75:
-                analysis_score += 1
+                if final_score > 0.75:
+                    analysis_score += 1
             #print(vcf_filter[5:-4] + "---FIX---" + str(analysis_score))
-            print(vcf_filter[5:-4] + "---FIX---" + str(analysis_score), file=open(args.OUT+".XIAO", "a"))  
+            print(vcf_filter[5:-4] + "---FIX---" + str(analysis_score), file=open(args.OUT+".XIAO", "a"))
+    for vcf_unfilter in vcf_unfilter_list:
+        print(vcf_unfilter[5:-4] + "---FIX---NO_SNP", file=open(args.OUT+".XIAO", "a") )  
     subprocess.run(["rm", "-r", "./"+args.OUT], check=True)
     print("step 4.read and analysis the vcf files and get the scores passed")
     print("please check the file called " + args.OUT + ".XIAO")
