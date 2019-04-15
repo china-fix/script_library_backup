@@ -51,6 +51,7 @@ def main():
                     else:
                         extracted_result=[title, hsp.sbjct_start, hsp.sbjct_start+args.CUT, blast_record.query] #remeber this is 1-base system
                         extracted_results.append(extracted_result)
+                    break # this means if it get one hsp larger than 0.95 than out of the for alignment.hsps loop avoid two or more hsp with same id
                 else:
                     pass
     print("extract information from blast.xml output lists of result [title, cutlocation1, cutlocation2, CDSname] passed")
