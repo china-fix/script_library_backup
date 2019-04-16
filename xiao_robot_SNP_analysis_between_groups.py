@@ -88,29 +88,46 @@ def main():
                 with open(args.GROUP_1) as group_1:
                     group_score_1 = 0
                     group_1_num = 0
+                    error_1 = None
                     for name_1 in group_1.read().splitlines():
                         name_1 = name_1.split("ashed_")[1] 
                         name_1_follow = vcf_filter[5:-4]
-                        score_1 = vcf_record.genotype(name_1 + "---FIX---" + name_1_follow)["GT"]
-                        group_score_1 += float(score_1)
-                        group_1_num += 1
+                        try:
+                            score_1 = vcf_record.genotype(name_1 + "---FIX---" + name_1_follow)["GT"]
+                            group_score_1 += float(score_1)
+                            group_1_num += 1
+                        except KeyError as ve_1:
+                            error_1 = ve_1
+                            continue
                 with open(args.GROUP_2) as group_2:
                     group_score_2 = 0
                     group_2_num = 0
+                    error_2 = None
                     for name_2 in group_2.read().splitlines():
                         name_2 = name_2.split("ashed_")[1] 
                         name_2_follow = vcf_filter[5:-4]
-                        score_2 = vcf_record.genotype(name_2 + "---FIX---" + name_2_follow)["GT"]
-                        group_score_2 +=float(score_2)
-                        group_2_num +=1
+                        try:
+                            score_2 = vcf_record.genotype(name_2 + "---FIX---" + name_2_follow)["GT"]
+                            group_score_2 +=float(score_2)
+                            group_2_num +=1
+                        except KeyError as ve_2:
+                            error_2 = ve_2
+                            continue
                 final_score = abs(group_score_1/group_1_num - group_score_2/group_2_num)
                 if final_score > 0.75:
                     analysis_score += 1
+        
+        if not (error_1 == None):
+            print("warning: " + str(error_1) + "cut with problem")
+        if not (error_2 == None):
+            print("warning: " + str(error_2) + "cut with problem")
+
             #print(vcf_filter[5:-4] + "---FIX---" + str(analysis_score))
             print(vcf_filter[5:-4] + "---FIX---" + str(analysis_score), file=open(args.OUT+".XIAO", "a"))
     for vcf_unfilter in vcf_unfilter_list:
         print(vcf_unfilter[5:-4] + "---FIX---NO_SNP", file=open(args.OUT+".XIAO", "a") )  
     subprocess.run(["rm", "-r", "./"+args.OUT], check=True)
+    print("####################################################################")
     print("step 4.read and analysis the vcf files and get the scores passed")
     print("please check the file called " + args.OUT + ".XIAO")
 
