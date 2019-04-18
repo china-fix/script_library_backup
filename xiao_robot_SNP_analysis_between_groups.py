@@ -57,6 +57,7 @@ def main():
     with open(args.CDS_LIST) as cds_list:
         vcf_filter_list=[]
         vcf_unfilter_list=[]
+        vcf_unfilter_error_list=[]
         for cds in cds_list.read().splitlines():
             return_code = subprocess.run(["snp-sites", "-v" , "-otemp_" + cds.split(' ')[0] + ".vcf", "temp_" + cds.split(' ')[0] + ".best.fas"]).returncode
             if float(return_code) == 0:
@@ -65,8 +66,13 @@ def main():
                 vcf_filter_list.append("temp_" + cds.split(' ')[0] + ".vcf")
             elif float(return_code) == 1:
                 print("in "+ cds.split(' ')[0])
-                subprocess.run(["rm", "temp_" + cds.split(' ')[0] + ".best.fas"], check=True)
-                vcf_unfilter_list.append("temp_" + cds.split(' ')[0] + ".vcf")
+                try:
+                    subprocess.run(["rm", "temp_" + cds.split(' ')[0] + ".best.fas"], check=True)
+                    vcf_unfilter_list.append("temp_" + cds.split(' ')[0] + ".vcf")
+                except subprocess.CalledProcessError:
+                    vcf_unfilter_error_list.append("temp_" + cds.split(' ')[0] + ".vcf")
+                    pass
+                
             else:
                 print(return_code)
                 raise Exception("xiao robot meet some erros at the snp-sites command in step 3")
@@ -84,6 +90,7 @@ def main():
         with open("./"+args.OUT + "/"+ vcf_filter) as VCF_FILTER:
             vcf_reader = vcf.Reader(VCF_FILTER)
             analysis_score = 0
+            zero_record = "###passed"
             for vcf_record in vcf_reader: 
                 with open(args.GROUP_1) as group_1:
                     group_score_1 = 0
@@ -98,7 +105,7 @@ def main():
                             group_1_num += 1
                         except KeyError as ve_1:
                             error_1 = ve_1
-                            continue
+                            pass
                 with open(args.GROUP_2) as group_2:
                     group_score_2 = 0
                     group_2_num = 0
@@ -112,8 +119,15 @@ def main():
                             group_2_num +=1
                         except KeyError as ve_2:
                             error_2 = ve_2
-                            continue
-                final_score = abs(group_score_1/group_1_num - group_score_2/group_2_num)
+                            pass
+                try:
+                    final_score = abs(group_score_1/group_1_num - group_score_2/group_2_num)
+                except ZeroDivisionError:
+                    final_score = 1
+                    zero_record = "###No_cut_caused_group_missing_problem"
+                    pass
+                    
+
                 if final_score > 0.75:
                     analysis_score += 1
         
@@ -122,10 +136,12 @@ def main():
         if not (error_2 == None):
             print("warning: " + str(error_2) + "cut with problem")
 
-            #print(vcf_filter[5:-4] + "---FIX---" + str(analysis_score))
-            print(vcf_filter[5:-4] + "---FIX---" + str(analysis_score), file=open(args.OUT+".XIAO", "a"))
+        #print(vcf_filter[5:-4] + "---FIX---" + str(analysis_score))
+        print(vcf_filter[5:-4] + "---FIX---" + str(analysis_score) + "---FIX---" + zero_record, file=open(args.OUT+".XIAO", "a"))
     for vcf_unfilter in vcf_unfilter_list:
-        print(vcf_unfilter[5:-4] + "---FIX---NO_SNP", file=open(args.OUT+".XIAO", "a") )  
+        print(vcf_unfilter[5:-4] + "---FIX---NO_SNP---FIX---passed", file=open(args.OUT+".XIAO", "a") )  
+    for vcf_unfilter_error in vcf_unfilter_error_list:
+        print(vcf_unfilter_error[5:-4] + "---FIX---NO_CDS_GET---FIX---Unpassed", file=open(args.OUT+".XIAO", "a") )  
     subprocess.run(["rm", "-r", "./"+args.OUT], check=True)
     print("####################################################################")
     print("step 4.read and analysis the vcf files and get the scores passed")
