@@ -17,6 +17,7 @@ def parse_args():
     parser.add_argument('--STRAIN_LIST', required=True, type=str, metavar='FILENAME', help="the strain list you want to extract from the fasta files (each file comtain all the CDS of a strain)")
     parser.add_argument('--GROUP_1', required=True, type=str, metavar='FILENAME', help="the strain (fasta files name) list you want to caculate as one group")
     parser.add_argument('--GROUP_2', required=True, type=str, metavar='FILENAME', help="the strain (fasta files name) list you want to caculate as one group")
+    parser.add_argument('--TEMP_SAVE', action='store_const', const=True, metavar='SAVE_SOME_TEMP', help="this command help to save some temp infomation or files")
     #parser.add_argument('--CUT', default=100, type=int, metavar='up-stream cut length', help="the length(bp) you want to cut upstream of the CDS")
     parser.add_argument('--OUT', default="xiao_robot_SNP_analysis_between_groups", type=str, metavar='directory', help="Output directory name")
     return parser.parse_args()
@@ -24,6 +25,8 @@ def parse_args():
 def main():
     args=parse_args()
     subprocess.run(["mkdir", "./"+args.OUT], check=True)
+    if args.TEMP_SAVE:
+        subprocess.run(["mkdir", "./TEMP_SAVE"], check=True)
 
     #_1. extract specific CDS from strains and combine according different CDS
     with open(args.CDS_LIST) as cds_list:
@@ -41,13 +44,16 @@ def main():
                         else:
                             pass
             SeqIO.write(new_seq_records,"temp_" + cds.split(' ')[0], "fasta")
-            #subprocess.run(["mv", "temp_" + cds.split(' ')[0], "./"+args.OUT], check=True)
+            if args.TEMP_SAVE:
+                subprocess.run(["cp", "temp_" + cds.split(' ')[0], "./TEMP_SAVE"], check=True)
     print("step 1. extract specific CDS from strains and combine according different CDS passed")
 
     #_2.Alignment with PRANK
     with open(args.CDS_LIST) as cds_list:
         for cds in cds_list.read().splitlines():
             subprocess.run(["prank", "-d=" + "temp_" + cds.split(' ')[0], "-o=" + "temp_" + cds.split(' ')[0]], check=True) # 3.7 python can change to capture_output=True
+            if args.TEMP_SAVE:
+                subprocess.run(["cp", "temp_" + cds.split(' ')[0] + ".best.fas", "./TEMP_SAVE"], check=True)
             subprocess.run(["rm", "temp_" + cds.split(' ')[0]], check=True)
             #subprocess.run(["mv", "temp_" + cds.split(' ')[0] + ".best.fas", "./"+args.OUT], check=True)
     print("#############################################################")
@@ -62,6 +68,8 @@ def main():
             return_code = subprocess.run(["snp-sites", "-v" , "-otemp_" + cds.split(' ')[0] + ".vcf", "temp_" + cds.split(' ')[0] + ".best.fas"]).returncode
             if float(return_code) == 0:
                 subprocess.run(["rm", "temp_" + cds.split(' ')[0] + ".best.fas"], check=True)
+                if args.TEMP_SAVE:
+                    subprocess.run(["cp", "temp_" + cds.split(' ')[0] + ".vcf", "./TEMP_SAVE"], check=True)
                 subprocess.run(["mv", "temp_" + cds.split(' ')[0] + ".vcf", "./"+args.OUT], check=True)
                 vcf_filter_list.append("temp_" + cds.split(' ')[0] + ".vcf")
             elif float(return_code) == 1:
@@ -82,6 +90,21 @@ def main():
         print(vcf_unfilter[5:-4], file=open("temp_vcf_unfilter_list", "a") ) '''
     print("#############################################################")
     print("step 3.SNP calling with snp-sites, output the vcf files passed")
+    if args.TEMP_SAVE:
+        with open("temp_vcf_filter_list", "w") as f:
+            for s in vcf_filter_list:
+                f.write(str(s) +"\n")
+        with open("temp_vcf_unfilter_list", "w") as f:
+            for s in vcf_unfilter_list:
+                f.write(str(s) +"\n")
+        with open("temp_vcf_unfilter_error_list", "w") as f:
+            for s in vcf_unfilter_error_list:
+                f.write(str(s) +"\n")
+        subprocess.run(["mkdir", "./TEMP_SAVE/FILTER_LOG"], check=True)
+        subprocess.run(["mv", "temp_vcf_filter_list", "./TEMP_SAVE/FILTER_LOG"], check=True)
+        subprocess.run(["mv", "temp_vcf_unfilter_list", "./TEMP_SAVE/FILTER_LOG"], check=True)
+        subprocess.run(["mv", "temp_vcf_unfilter_error_list", "./TEMP_SAVE/FILTER_LOG"], check=True)
+
 
 
     #_4.read and analysis the vcf files and get the scores
