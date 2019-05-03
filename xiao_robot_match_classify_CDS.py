@@ -36,7 +36,7 @@ def filter_matching(cutoff):
         # Do something with blast_record
         for alignment in blast_record.alignments:
             hsp = alignment.hsps[0]
-            if  hsp.identities / hsp.align_length >= cutoff and hsp.query_start == 1 and hsp.query_end == blast_record.query_letters:
+            if  hsp.identities / hsp.align_length >= cutoff and hsp.expect <= 1e-10 : #and hsp.query_start == 1 and hsp.query_end == blast_record.query_letters:
                 matched_result=blast_record.query
                 matched_list.append(matched_result)
             else:
