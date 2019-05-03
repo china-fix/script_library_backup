@@ -46,15 +46,15 @@ def main():
             for hsp in alignment.hsps:
                 if hsp.identities / hsp.align_length >= 0.95:
                     if hsp.sbjct_start - hsp.sbjct_end <=0:
-                        extracted_result=[title, hsp.sbjct_start-args.CUT, hsp.sbjct_start, blast_record.query] #remeber this is 1-base system
+                        extracted_result=[title, hsp.sbjct_start-args.CUT, hsp.sbjct_start, blast_record.query, 0] #remeber this is 1-base system
                         extracted_results.append(extracted_result)
                     else:
-                        extracted_result=[title, hsp.sbjct_start, hsp.sbjct_start+args.CUT, blast_record.query] #remeber this is 1-base system
+                        extracted_result=[title, hsp.sbjct_start, hsp.sbjct_start+args.CUT, blast_record.query, 1] #remeber this is 1-base system
                         extracted_results.append(extracted_result)
                     break # this means if it get one hsp larger than 0.95 than out of the for alignment.hsps loop avoid two or more hsp with same id
                 else:
                     pass
-    print("extract information from blast.xml output lists of result [title, cutlocation1, cutlocation2, CDSname] passed")
+    print("extract information from blast.xml output lists of result [title, cutlocation1, cutlocation2, CDSname, strands(0 or 1)] passed")
     #print(extracted_results)
     
 # using the extracted_results to extract the seq information
@@ -71,6 +71,8 @@ def main():
                     #new_seq_record.description = seq_record.description + "---FIX---" + extracting[3]
                     new_seq_record.description = wash_name + "---FIX---" + extracting[3]
                     new_seq_record.seq = seq_record.seq[int(extracting[1])-1 : int(extracting[2])-1] #remeber this is 0-base system
+                    if extracting[4] == 1:
+                        new_seq_record.seq = new_seq_record.seq.reverse_complement()
                     if len(new_seq_record.seq) == args.CUT:  #clean the ones which cannot fully cut with the cutting length, this can be happened at the two ends of one contig
                         new_seq_records.append(new_seq_record)
                     else:
@@ -79,7 +81,7 @@ def main():
                     pass
         SeqIO.write(new_seq_records,"washed_"+wash_name, "fasta")
         subprocess.run(["mv", "washed_"+wash_name, "./"+args.OUT], check=True)
-    print("dear xiao, you washing step is finished version 1.0, enjoy!")
+    print("dear xiao, you washing step is finished version 1.1, enjoy!")
    
 if __name__ == '__main__':
     sys.exit(main())
