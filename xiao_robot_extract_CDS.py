@@ -47,14 +47,15 @@ def main():
             for hsp in alignment.hsps:
                 if hsp.identities / hsp.align_length >= 0.98:
                     if hsp.sbjct_start - hsp.sbjct_end <=0:
-                        extracted_result=[title, hsp.sbjct_start, hsp.sbjct_end, blast_record.query] #remeber this is 1-base system
+                        extracted_result=[title, hsp.sbjct_start, hsp.sbjct_end, blast_record.query, 0] #remeber this is 1-base system
                         extracted_results.append(extracted_result)
                     else:
-                        extracted_result=[title, hsp.sbjct_end, hsp.sbjct_start, blast_record.query] #remeber this is 1-base system
+                        #print("tesingingingingingi")
+                        extracted_result=[title, hsp.sbjct_end, hsp.sbjct_start, blast_record.query, 1] #remeber this is 1-base system
                         extracted_results.append(extracted_result)
                 else:
                     pass
-    print("extract information from blast.xml output lists of result [title, start_location, end_location, CDSname] passed")
+    print("extract information from blast.xml output lists of result [title, start_location, end_location, CDSname, strand(1 or 0)] passed")
     #print(extracted_results)
     
 # using the extracted_results to extract the seq information
@@ -70,13 +71,16 @@ def main():
                     new_seq_record = copy.deepcopy(seq_record)
                     #new_seq_record.description = seq_record.description + "---FIX---" + extracting[3]
                     new_seq_record.description = wash_name + "---FIX---" + extracting[3]
-                    new_seq_record.seq = seq_record.seq[int(extracting[1])-1 : int(extracting[2])-1] #remeber this is 0-base system
+                    new_seq_record.seq = seq_record.seq[int(extracting[1])-1 : int(extracting[2])] #remeber this is 0-base system
+                    if extracting[4] == 1:
+                        #print("testingingingingingi")
+                        new_seq_record.seq = new_seq_record.seq.reverse_complement()
                     new_seq_records.append(new_seq_record)
                 else:
                     pass
         SeqIO.write(new_seq_records,"washed_"+wash_name, "fasta")
         subprocess.run(["mv", "washed_"+wash_name, "./"+args.OUT], check=True)
-    print("dear xiao, you washing step is finished version 1.1, enjoy!")
+    print("dear xiao, you washing step is finished version 1.2, enjoy!")
    
 if __name__ == '__main__':
     sys.exit(main())
