@@ -10,6 +10,7 @@ import argparse
 from Bio import SeqIO
 import copy
 import vcf
+import os
 
 def parse_args():
     parser=argparse.ArgumentParser(description="Welcome to use Xiao_Fei_Robot")
@@ -18,6 +19,7 @@ def parse_args():
     parser.add_argument('--GROUP_1', required=True, type=str, metavar='FILENAME', help="the strain (fasta files name) list you want to caculate as one group")
     parser.add_argument('--GROUP_2', required=True, type=str, metavar='FILENAME', help="the strain (fasta files name) list you want to caculate as one group")
     parser.add_argument('--TEMP_SAVE', action='store_const', const=True, metavar='SAVE_SOME_TEMP', help="this command help to save some temp infomation or files")
+    parser.add_argument('--FAST', action='store_const', const=True, metavar='FAST ALIGNMENT WITH MAFFT', help="this command help to use mafft to do a fast alignment")
     #parser.add_argument('--CUT', default=100, type=int, metavar='up-stream cut length', help="the length(bp) you want to cut upstream of the CDS")
     parser.add_argument('--OUT', default="xiao_robot_SNP_analysis_between_groups", type=str, metavar='directory', help="Output directory name")
     return parser.parse_args()
@@ -51,9 +53,21 @@ def main():
     #_2.Alignment with PRANK
     with open(args.CDS_LIST) as cds_list:
         for cds in cds_list.read().splitlines():
-            subprocess.run(["prank", "-d=" + "temp_" + cds.split(' ')[0], "-o=" + "temp_" + cds.split(' ')[0]], check=True) # 3.7 python can change to capture_output=True
-            if args.TEMP_SAVE:
-                subprocess.run(["cp", "temp_" + cds.split(' ')[0] + ".best.fas", "./TEMP_SAVE"], check=True)
+            if args.FAST:
+                try:
+                    #subprocess.run(["mafft",  "temp_" + cds.split(' ')[0] + ">" + "temp_" + cds.split(' ')[0]+".best.fas"], check=True) # 3.7 python can change to capture_output=True
+                    os.system("mafft " + "temp_" + cds.split(' ')[0] + " > " + "temp_" + cds.split(' ')[0]+".best.fas")
+                    if args.TEMP_SAVE:
+                        subprocess.run(["cp", "temp_" + cds.split(' ')[0] + ".best.fas", "./TEMP_SAVE"], check=True)
+                except subprocess.CalledProcessError:
+                    pass
+            else:
+                try:
+                    subprocess.run(["prank", "-d=" + "temp_" + cds.split(' ')[0], "-o=" + "temp_" + cds.split(' ')[0]], check=True) # 3.7 python can change to capture_output=True
+                    if args.TEMP_SAVE:
+                        subprocess.run(["cp", "temp_" + cds.split(' ')[0] + ".best.fas", "./TEMP_SAVE"], check=True)
+                except subprocess.CalledProcessError:
+                    pass
             subprocess.run(["rm", "temp_" + cds.split(' ')[0]], check=True)
             #subprocess.run(["mv", "temp_" + cds.split(' ')[0] + ".best.fas", "./"+args.OUT], check=True)
     print("#############################################################")
