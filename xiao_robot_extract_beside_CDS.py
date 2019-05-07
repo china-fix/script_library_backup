@@ -44,7 +44,7 @@ def main():
         for alignment in blast_record.alignments:
             title=alignment.title.split(' ',1)[1]
             for hsp in alignment.hsps:
-                if hsp.identities / hsp.align_length >= 0.95:
+                if hsp.identities / hsp.align_length >= 0.90:
                     if hsp.sbjct_start - hsp.sbjct_end <=0:
                         extracted_result=[title, hsp.sbjct_start-args.CUT, hsp.sbjct_start, blast_record.query, 0] #remeber this is 1-base system
                         extracted_results.append(extracted_result)
