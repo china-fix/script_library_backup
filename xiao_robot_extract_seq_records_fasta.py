@@ -44,7 +44,7 @@ def main():
         temp.seq=temp.seq.translate(table="Bacterial", to_stop=True)
         extract_seq_records_translate.append(temp)
     SeqIO.write(extract_seq_records,args.output,"fasta")
-    SeqIO.write(extract_seq_records_translate,"temp_CDS.fasta", "fasta")    
+    SeqIO.write(extract_seq_records_translate,args.output+".p", "fasta")    
 
 
 if __name__ == '__main__':
