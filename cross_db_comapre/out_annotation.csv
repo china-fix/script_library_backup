@@ -1,0 +1,127 @@
+STM0723	sugar ABC transporter ATP-binding protein
+STM2095	glucose-1-phosphate thymidylyltransferase
+STM0795	8-amino-7-oxononanoate synthase
+STM3709	glycine C-acetyltransferase
+STM2104	phosphomannomutase
+STM3724	3-deoxy-D-manno-octulosonic acid transferase
+STM2086	mannosyl transferase
+STM0228	acyl-[acyl-carrier-protein
+STM3920	UDP-N-acetylglucosamine 2-epimerase
+STM3712	lipopolysaccharide heptosyltransferase 1
+STM3711	ADP-heptose--LPS heptosyltransferase
+STM3723	lipopolysaccharide core biosynthesis protein
+STM2108	GDP-fucose synthetase
+STM2105	mannose-1-phosphate
+STM2084	mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+STM3717	lipopolysaccharide 1,2-glucosyltransferase
+STM3718	lipopolysaccharide 1,3-galactosyltransferase
+STM0988	3-deoxy-manno-octulosonate cytidylyltransferase
+STM3862	UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase
+STM0644	threonine-phosphate decarboxylase
+STM1598	GntR family transcriptional regulator
+STM0603	methionine aminotransferase
+STM2803	DNA-binding transcriptional regulator
+STM3665	valine--pyruvate transaminase
+STM2073	histidinol-phosphate transaminase
+STM4248	aromatic amino acid aminotransferase
+STM0998	aromatic amino acid aminotransferase
+STM2331	aminotransferase
+STM1557	putative aminotransferase
+STM2436	transcriptional regulator PtsJ
+STM2402	alanine transaminase
+STM3707	putative glycosyltransferase
+STM0725	glycosyl transferase
+STM3714	UDP-glucose--(glucosyl)LPS alpha-1,2-glucosyltransferase
+STM3722	glucosyltransferase I RfaG
+STM0776	UDP-glucose 4-epimerase
+PSLT052	plasmid partition protein A
+STM2116	putative tyrosine-protein kinase
+STM2106	putative glycosyl transferase
+STM2117	protein tyrosine phosphatase
+STM3925	dTDP-4-amino-4,6-dideoxygalactose transaminase
+STM2090	lipopolysaccharide biosynthesis protein RfbH
+STM2297	putative DegT/DnrJ/EryC1/StrS family
+STM0128	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+STM1890	murein DD-endopeptidase MepM
+STM1375	murein L,D-transpeptidase
+STM2795	peptidoglycan-binding protein LysM
+STM0260	murein transglycosylase D
+STM1215	L,D-transpeptidase
+STM2925	lipoprotein NlpD
+STM3038	putative metalloendopeptidase
+STM4021	sugar isomerase
+STM0310	phosphoheptose isomerase
+STM3266	putative phosphoheptose isomerase
+STM2401	lipid A biosynthesis palmitoleoyl acyltransferase
+STM1889	lipid A biosynthesis (KDO)2-(lauroyl)-lipid IVA acyltransferase
+STM1155	lipid A biosynthesis lauroyl acyltransferase
+STM0721	glycosyltransferase family 1 protein
+STM2083	phosphomannomutase
+STM2933	adenylyl-sulfate kinase
+STM0248	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+STM2074	bifunctional imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+STM1617	epimerase
+STM4080	epimerase
+STM3483	ribulose-phosphate 3-epimerase
+STM0558	putative glycosyltransferase
+STM2298	undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+STM4205	glycosyltransferase
+STM0226	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+STM2109	GDP-mannose 4,6-dehydratase
+STM2098	GalU regulator GalF
+STM1752	UTP--glucose-1-phosphate uridylyltransferase
+STM3572	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD
+STM2276	2-octaprenyl-6-hydroxy phenol methylase
+STM1080	23S rRNA (cytosine(1962)-C(5))-methyltransferase
+STM3109	tRNA (guanosine(46)-N7)-methyltransferase TrmB
+STM0796	malonyl-ACP O-methyltransferase BioC
+STM1608	tellurite resistance methyltransferase TehB
+STM2926	protein-L-isoaspartate O-methyltransferase
+STM2957	23S rRNA (uracil(1939)-C(5))-methyltransferase
+STM4129	tRNA (uridine(54)-C5)-methyltransferase TrmA
+STM3386	adenine-specific DNA-methyltransferase
+STM3297	23S rRNA (uridine(2552)-2'-O)-methyltransferase
+STM0991	tRNA uridine 5-oxyacetic acid(34) methyltransferase CmoM
+STM1775	release factor-specific protein-(glutamine-N5) methyltransferase
+STM1835	23S rRNA (guanine(745)-N(1))-methyltransferase
+STM1906	tRNA 5-methoxyuridine(34)/uridine 5-oxyacetic acid(34) synthase CmoB
+STM3873	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+STM1850	16S rRNA (cytosine(1407)-C(5))-methyltransferase RsmF
+STM3220	23S rRNA (guanine(1835)-N(2))-methyltransferase
+STM0259	SAM-dependent methyltransferase
+STM3408	16S rRNA (cytosine(967)-C(5))-methyltransferase
+STM0262	putative SAM-dependent methyltransferase
+STM3970	ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+STM1905	carboxy-S-adenosyl-L-methionine synthase CmoA
+STM1427	cyclopropane-fatty-acyl-phospholipid synthase
+STM0166	putrescine aminopropyltransferase
+STM2642	tRNA (adenosine(37)-N6)-methyltransferase TrmM
+STM2030	precorrin-6Y C5,15-methyltransferase (decarboxylating) subunit CbiT
+STM1918	chemotaxis protein-glutamate O-methyltransferase
+STM3383	ribosomal protein L11 methyltransferase
+STM0882	23S rRNA (uracil(747)-C(5))-methyltransferase
+STM1061	23S rRNA (guanine(2445)-N(2))/(guanine(2069)-N(7))-methyltransferase
+STM4556	16S rRNA (guanine(1207)-N(2))-methyltransferase
+STM4500	putative SAM-dependent methyltransferase
+STM2385	ribosomal protein L3 N(5)-glutamine methyltransferase
+STM3593	16S rRNA (guanine(1516)-N(2))-methyltransferase
+STM0227	3-hydroxyacyl-[acyl-carrier-protein
+STM0221	(2E,6E)-farnesyl- diphosphate-specific ditrans,polycis-undecaprenyl-diphosphate synthase
+STM3792	L-fucose:H+ symporter permease
+STM4541	phosphoglycerol transferase I
+STM0680	asparagine synthetase B
+STM2107	GDP-mannose mannosyl hydrolase
+STM1572	phosphoporin PhoE
+STM1530	phosphoporin PhoE
+STM1473	hypothetical protein
+STM0320	phosphoporin PhoE
+STM0999	phosphoporin PhoE
+STM1995	putative porin
+STM3315	D-arabinose 5-phosphate isomerase
+STM2838	putative polysialic acid capsule expression protein
+STM2930	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+STM1675	oxidoreductase
+STM2171	SDR family oxidoreductase
+STM3922	dTDP-glucose 4,6-dehydratase
+STM2097	dTDP-glucose 4,6-dehydratase
+STM3725	pantetheine-phosphate adenylyltransferase

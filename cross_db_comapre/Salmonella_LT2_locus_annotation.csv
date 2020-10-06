@@ -1,0 +1,4548 @@
+STM0001	thr operon leader peptide
+STM0002	bifunctional aspartate kinase/homoserine dehydrogenase I
+STM0003	homoserine kinase
+STM0004	threonine synthase
+STM0005	peroxide stress protein YaaA
+STM0006	sodium:alanine symporter family protein
+STM0007	transaldolase
+STM0008	molybdopterin adenylyltransferase
+STM0009	hypothetical protein
+STM0010	hypothetical protein
+STM0011	hypothetical protein
+STM0012	molecular chaperone DnaK
+STM0013	molecular chaperone DnaJ
+STM0014	hypothetical protein
+STM0015	hypothetical protein
+STM0016	hypothetical protein
+STM0017	hypothetical protein
+STM0018	chitinase
+STM0019	chitinase
+STM0020	hypothetical protein
+STM0021	fimbrial protein
+STM0022	fimbrial chaperone protein
+STM0023	outer membrane usher protein
+STM0024	fimbrial protein
+STM0025	fimbrial protein
+STM0026	fimbrial protein
+STM0027	fimbrial chaparone
+STM0028	hypothetical protein
+STM0029	transcriptional regulator
+STM0030	putative LysR family transcriptional regulator
+STM0031	transcriptional regulator
+STM0032	putative arylsulfatase
+STM0033	multifunctional 2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'-nucleotidase/3'-nucleotidase
+STM0034	hypothetical protein
+STM0035	putative arylsulfatase
+STM0036	anaerobic sulfatase maturase
+STM0037	putative cytoplasmic protein
+STM0038	putative arylsulfatase
+STM0039	Na(+)/H(+) antiporter NhaA
+STM0040	transcriptional activator of nhaA
+STM0041	family 31 glucosidase
+STM0042	MFS transporter
+STM0043	30S ribosomal protein S20
+STM0044	hypothetical protein
+STM0045	riboflavin biosynthesis protein RibF
+STM0046	isoleucine--tRNA ligase
+STM0047	signal peptidase II
+STM0048	peptidylprolyl isomerase
+STM0049	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+STM0050	putative nitrite reductase
+STM0051	ribonucleoside hydrolase RihC
+STM0052	response regulator
+STM0053	histidine kinase
+STM0054	oxaloacetate decarboxylase subunit beta
+STM0055	oxaloacetate decarboxylase subunit alpha
+STM0056	oxaloacetate decarboxylase subunit gamma
+STM0057	citrate:sodium symporter
+STM0058	putative citrate lyase synthetase
+STM0059	citrate lyase acyl carrier protein
+STM0060	citrate (pro-3S)-lyase subunit beta
+STM0061	citrate lyase subunit alpha
+STM0062	holo-ACP synthase CitX
+STM0063	triphosphoribosyl-dephospho-CoA synthase CitG
+STM0064	4-hydroxy-tetrahydrodipicolinate reductase
+STM0065	putative viral protein
+STM0066	carbamoyl phosphate synthase small subunit
+STM0067	carbamoyl phosphate synthase large subunit
+STM0068	CaiF/GrlA family transcriptional regulator
+STM0069	phenylacetic acid degradation protein PaaY
+STM0070	carnitinyl-CoA dehydratase
+STM0071	crotonobetaine/carnitine-CoA ligase
+STM0072	L-carnitine CoA-transferase
+STM0073	crotonobetainyl-CoA--carnitine CoA-transferase
+STM0074	L-carnitine:gamma-butyrobetaine antiporter
+STM0075	electron transfer flavoprotein
+STM0076	nitrogen fixation protein FixB
+STM0077	oxidoreductase
+STM0078	ferredoxin family protein
+STM0079	MFS transporter
+STM0080	hypothetical protein
+STM0081	hypothetical protein
+STM0082	hypothetical protein
+STM0083	hypothetical protein
+STM0084	phosphatase
+STM0085	glutathione-regulated potassium-efflux system ancillary protein KefF
+STM0086	glutathione-regulated potassium-efflux system protein KefC
+STM0087	dihydrofolate reductase
+STM0088	bis(5'-nucleosyl)-tetraphosphatase (symmetrical)
+STM0089	Co2+/Mg2+ efflux protein ApaG
+STM0090	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase
+STM0091	4-hydroxythreonine-4-phosphate dehydrogenase PdxA
+STM0092	peptidylprolyl isomerase SurA
+STM0093	LPS assembly protein LptD
+STM0094	molecular chaperone DjlA
+STM0095	bifunctional tRNA pseudouridine(32) synthase/ribosomal large subunit pseudouridine synthase RluA
+STM0096	RNA polymerase-binding ATPase
+STM0097	DNA polymerase II
+STM0098	putative secreted protein
+STM0099	hypothetical protein
+STM0100	DUF4751 domain-containing protein
+STM0101	L-ribulose-5-phosphate 4-epimerase
+STM0102	L-arabinose isomerase
+STM0103	ribulokinase
+STM0104	DNA-binding transcriptional regulator AraC
+STM0105	hypothetical protein
+STM0106	thiamine ABC transporter ATP-binding protein
+STM0107	thiamine/thiamine pyrophosphate ABC transporter permease ThiP
+STM0108	thiamine ABC transporter substrate binding subunit
+STM0109	transcriptional regulator SgrR
+STM0110	3-isopropylmalate dehydratase small subunit
+STM0111	3-isopropylmalate dehydratase large subunit
+STM0112	3-isopropylmalate dehydrogenase
+STM0113	2-isopropylmalate synthase
+STM0114	leu operon leader peptide
+STM0115	transcriptional regulator LeuO
+STM0116	valine sensitive acetolactate synthase III, large subunit
+STM0117	acetolactate synthase small subunit
+STM0118	DNA-binding transcriptional regulator FruR
+STM0119	cell division/cell wall cluster transcriptional repressor MraZ
+STM0120	16S rRNA (cytosine(1402)-N(4))-methyltransferase
+STM0121	cell division protein FtsL
+STM0122	peptidoglycan glycosyltransferase FtsI
+STM0123	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+STM0124	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+STM0125	phospho-N-acetylmuramoyl-pentapeptide-transferase
+STM0126	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+STM0127	cell division protein FtsW
+STM0128	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+STM0129	UDP-N-acetylmuramate--L-alanine ligase
+STM0130	D-alanine--D-alanine ligase
+STM0131	cell division protein FtsQ
+STM0132	cell division protein FtsA
+STM0133	cell division protein FtsZ
+STM0134	UDP-3-O-[3-hydroxymyristoyl
+STM0135	putative inner membrane protein
+STM0136	preprotein translocase subunit SecA
+STM0137	8-oxo-dGTP diphosphatase
+STM0138	DNA gyrase inhibitor YacG
+STM0139	cell division protein ZapD
+STM0140	dephospho-CoA kinase
+STM0141	GMP reductase
+STM0142	type IV pilin biogenesis protein
+STM0143	type II secretion system protein GspE
+STM0144	prepilin peptidase-dependent pilin
+STM0145	nicotinate-nucleotide diphosphorylase
+STM0146	N-acetylmuramoyl-L-alanine amidase
+STM0147	regulatory signaling modulator protein AmpE
+STM0148	alpha-N-arabinofuranosidase
+STM0149	MFS transporter
+STM0150	APC family aromatic amino acid transporter
+STM0151	transcriptional regulator PdhR
+STM0152	pyruvate dehydrogenase (acetyl-transferring), homodimeric type
+STM0153	pyruvate dehydrogenase complex dihydrolipoyllysine-residue acetyltransferase
+STM0154	dihydrolipoyl dehydrogenase
+STM0155	hypothetical protein
+STM0156	hypothetical protein
+STM0157	hypothetical protein
+STM0158	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+STM0159	putative restriction endonuclease
+STM0160	UPF0231 family protein
+STM0161	2-keto-3-deoxygluconate permease
+STM0162	hypothetical protein
+STM0163	4-hydroxythreonine-4-phosphate dehydrogenase PdxA
+STM0164	DeoR family transcriptional regulator
+STM0165	S-adenosylmethionine decarboxylase
+STM0166	putrescine aminopropyltransferase
+STM0167	hypothetical protein
+STM0168	putative multicopper oxidase
+STM0169	pyrroloquinoline quinone-dependent dehydrogenase
+STM0170	hypoxanthine phosphoribosyltransferase
+STM0171	carbonate dehydratase
+STM0172	multidrug ABC transporter ATP-binding protein
+STM0173	ABC transporter permease
+STM0174	fimbrial protein StiH
+STM0175	fimbrial assembly protein
+STM0176	long polar fimbrial chaperone LpfB
+STM0177	fimbrial protein StiA
+STM0178	PTS sugar transporter subunit IIA
+STM0179	hypothetical protein
+STM0180	aspartate 1-decarboxylase
+STM0181	pantoate--beta-alanine ligase
+STM0182	3-methyl-2-oxobutanoate hydroxymethyltransferase
+STM0183	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+STM0184	polynucleotide adenylyltransferase
+STM0185	putative glutamyl t-RNA synthetase
+STM0186	RNA polymerase-binding protein DksA
+STM0187	sugar fermentation stimulation protein SfsA
+STM0188	2'-5' RNA ligase
+STM0189	ATP-dependent helicase
+STM0190	penicillin-binding protein 1B
+STM0191	ferrichrome porin FhuA
+STM0192	iron-hydroxamate transporter ATP-binding subunit
+STM0193	iron-hydroxamate transporter substrate-binding subunit
+STM0194	Fe3+-hydroxamate ABC transporter permease FhuB
+STM0195	fimbrial protein
+STM0196	outer membrane usher protein
+STM0197	fimbrial protein
+STM0198	fimbrial protein
+STM0199	fimbrial protein
+STM0200	fimbrial protein
+STM0201	hypothetical protein
+STM0202	glutamate-1-semialdehyde-2,1-aminomutase
+STM0203	chloride channel protein
+STM0204	putative HesB-like domain protein
+STM0205	hypothetical protein
+STM0206	vitamin B12 ABC transporter substrate-binding protein BtuF
+STM0207	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+STM0208	dGTPase
+STM0209	serine endoprotease
+STM0210	carbohydrate diacid regulon transcriptional regulator CdaR
+STM0211	hypothetical protein
+STM0212	MFS transporter
+STM0213	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+STM0214	[protein-PII
+STM0215	type I methionyl aminopeptidase
+STM0216	30S ribosomal protein S2
+STM0217	translation elongation factor Ts
+STM0218	UMP kinase
+STM0219	ribosome recycling factor
+STM0220	1-deoxy-D-xylulose-5-phosphate reductoisomerase
+STM0221	(2E,6E)-farnesyl- diphosphate-specific ditrans,polycis-undecaprenyl-diphosphate synthase
+STM0222	phosphatidate cytidylyltransferase
+STM0223	RIP metalloprotease RseP
+STM0224	outer membrane protein assembly factor BamA
+STM0225	molecular chaperone
+STM0226	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+STM0227	3-hydroxyacyl-[acyl-carrier-protein
+STM0228	acyl-[acyl-carrier-protein
+STM0229	lipid-A-disaccharide synthase
+STM0230	ribonuclease HII
+STM0231	DNA polymerase III subunit alpha
+STM0232	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+STM0233	chitinase
+STM0234	lysine decarboxylase LdcC
+STM0235	VOC family protein
+STM0236	tRNA lysidine(34) synthetase TilS
+STM0237	Rho-binding antiterminator
+STM0238	putative cytoplasmic protein
+STM0239	hypothetical protein
+STM0240	aminoacyl-tRNA hydrolase
+STM0242	proline--tRNA ligase
+STM0243	tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO
+STM0244	Rcs stress response system protein RcsF
+STM0245	methionine ABC transporter substrate-binding protein MetQ
+STM0246	DL-methionine transporter permease subunit
+STM0247	D-methionine ABC transporter, ATP-binding protein
+STM0248	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+STM0255	2,5-didehydrogluconate reductase B
+STM0256	putative LysR family transcriptional regulator
+STM0257	MFS sugar transporter
+STM0258	putative cytoplasmic protein
+STM0259	SAM-dependent methyltransferase
+STM0260	murein transglycosylase D
+STM0261	hydroxyacylglutathione hydrolase
+STM0262	putative SAM-dependent methyltransferase
+STM0263	ribonuclease HI
+STM0264	DNA polymerase III, epsilon subunit
+STM0266	hypothetical protein
+STM0267	sciB domain protein
+STM0268	type VI secretion protein
+STM0269	hypothetical protein
+STM0270	impE family protein
+STM0271	hypothetical protein
+STM0272	ClpV1 family T6SS ATPase
+STM0273	type VI secretion system-associated protein
+STM0274	EvpB family type VI secretion protein
+STM0274A	invasol SirA
+STM0275	putative cytoplasmic protein
+STM0276	Hcp1 family type VI secretion system effector
+STM0277	hypothetical protein
+STM0278	putative periplasmic protein
+STM0279	Hcp1 family type VI secretion system effector
+STM0280	type VI secretion system-associated lipoprotein
+STM0281	type VI secretion system-associated protein
+STM0282	hypothetical protein
+STM0283	hypothetical protein
+STM0284	putative shiga-like toxin A subunit
+STM0285	hypothetical protein
+STM0286	hypothetical protein
+STM0287	putative periplasmic protein
+STM0288	putative cytoplasmic protein
+STM0289	type VI secretion protein Vgr
+STM0290	hypothetical protein
+STM0291	putative RHS-family protein
+STM0292	putative RHS-family protein
+STM0293	hypothetical protein
+STM0294	phosphotriesterase
+STM0295	putative cytoplasmic protein
+STM0296	putative cytoplasmic protein
+STM0299	putative outer membrane protein
+STM0300	putative fimbriae assembly chaparone
+STM0301	pilin outer membrane usher protein SafC
+STM0302	pilin structural protein SafD
+STM0303	carbohydrate transporter
+STM0304	transcriptional regulator
+STM0305	hypothetical protein
+STM0306	adhesin
+STM0307	hypothetical protein
+STM0308	putative amidohydrolase
+STM0309	putative acyl-CoA dehydrogenase
+STM0310	phosphoheptose isomerase
+STM0311	class II glutamine amidotransferase
+STM0312	transpeptidase
+STM0313	DNA polymerase IV
+STM0315	peptide chain release factor H
+STM0316	cytosol nonspecific dipeptidase
+STM0317	xanthine phosphoribosyltransferase
+STM0318	fermentation/respiration switch protein
+STM0319	sigma factor-binding protein Crl
+STM0320	phosphoporin PhoE
+STM0321	glutamate 5-kinase
+STM0322	glutamate-5-semialdehyde dehydrogenase
+STM0324	putative inner membrane protein
+STM0325	transposase
+STM0327	hypothetical protein
+STM0328	putative permease
+STM0329	3-isopropylmalate dehydratase large subunit
+STM0330	3-isopropylmalate dehydratase small subunit
+STM0331	5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase
+STM0332	hydrolase
+STM0333	putative LysR family transcriptional regulator
+STM0334	putative cytoplasmic protein
+STM0335	hypothetical protein
+STM0336	fimbrial assembly protein
+STM0337	fimbrial protein
+STM0338	fimbrial assembly protein
+STM0339	fimbrial chaperone protein StbB
+STM0340	fimbrial protein
+STM0341	putative inner membrane protein
+STM0342	putative periplasmic protein
+STM0343	putative diguanylate cyclase/phosphodiesterase domain 1
+STM0344	putative response regulator
+STM0345	hypothetical protein
+STM0346	hypothetical protein
+STM0347	transcriptional regulator
+STM0348	hypothetical protein
+STM0349	hypothetical protein
+STM0350	homology to outer membrane efflux protein
+STM0351	multidrug efflux RND transporter permease subunit
+STM0352	efflux transporter periplasmic adaptor subunit
+STM0353	copper-translocating P-type ATPase
+STM0354	Cu(I)-responsive transcriptional regulator
+STM0355	heavy metal transport/detoxification protein
+STM0356	MFS transporter
+STM0357	restriction endonuclease
+STM0358	DNA restriction (DNA helicase)
+STM0359	hypothetical protein
+STM0360	cytochrome ubiquinol oxidase subunit I
+STM0361	cytochrome BD2 subunit II
+STM0362	DUF2474 domain-containing protein
+STM0363	AraC family transcriptional regulator
+STM0364	ferrioxamine receptor
+STM0365	hypothetical protein
+STM0366	hypothetical protein
+STM0367	propionate catabolism operon regulatory protein PrpR
+STM0368	methylisocitrate lyase
+STM0369	2-methylcitrate synthase
+STM0370	2-methylcitrate dehydratase
+STM0371	propionate--CoA ligase
+STM0372	delta-aminolevulinic acid dehydratase
+STM0373	autotransporter outer membrane beta-barrel domain-containing protein
+STM0374	transcriptional regulator
+STM0375	penicillin- binding protein
+STM0376	peptide transporter
+STM0377	hypothetical protein
+STM0378	hypothetical protein
+STM0379	hypothetical protein
+STM0380	D-alanine--D-alanine ligase A
+STM0381	hypothetical protein
+STM0382	multidrug transporter subunit MdtG
+STM0383	putative cytoplasmic protein
+STM0384	hypothetical protein
+STM0385	diguanylate cyclase AdrA
+STM0386	pyrroline-5-carboxylate reductase
+STM0387	hypothetical protein
+STM0388	shikimate kinase II
+STM0389	hypothetical protein
+STM0390	AroM protein
+STM0391	hypothetical protein
+STM0392	recombination-associated protein RdgC
+STM0393	fructokinase
+STM0394	MFS transporter AraJ
+STM0395	exonuclease subunit SbcC
+STM0396	exonuclease subunit SbcD
+STM0397	phosphate regulon transcriptional regulatory protein PhoB
+STM0398	two-component system sensor histidine kinase PhoR
+STM0399	branched-chain amino acid transport system II carrier protein
+STM0400	proline-specific permease ProY
+STM0401	maltodextrin glucosidase
+STM0402	peroxiredoxin
+STM0403	ACP phosphodiesterase
+STM0404	S-adenosylmethionine-tRNA ribosyltransferase-isomerase
+STM0405	tRNA guanosine(34) transglycosylase Tgt
+STM0406	preprotein translocase subunit YajC
+STM0407	protein-export membrane protein SecD
+STM0408	protein-export membrane protein SecF
+STM0409	glyoxalase
+STM0410	DNA-binding transcriptional regulator
+STM0411	HNH endonuclease
+STM0412	putative inner membrane protein
+STM0413	nucleoside-specific channel-forming protein Tsx
+STM0414	hypothetical protein
+STM0415	transcriptional regulator NrdR
+STM0416	riboflavin biosynthesis protein RibD
+STM0417	6,7-dimethyl-8-ribityllumazine synthase
+STM0418	N utilization substance protein B
+STM0419	thiamine-phosphate kinase
+STM0420	phosphatidylglycerophosphatase A
+STM0421	oxidoreductase
+STM0422	1-deoxy-D-xylulose-5-phosphate synthase
+STM0423	(2E,6E)-farnesyl diphosphate synthase
+STM0424	exodeoxyribonuclease VII small subunit
+STM0425	tRNA 4-thiouridine(8) synthase ThiI
+STM0426	2-aminoethylphosphonate ABC transport system, membrane component PhnV
+STM0427	2-aminoethylphosphonate ABC transporter permease subunit
+STM0428	2-aminoethylphosphonate ABC transport system ATP-binding subunit PhnT
+STM0429	2-aminoethylphosphonate ABC transporter substrate-binding protein
+STM0430	phosphonate utilization transcriptional regulator PhnR
+STM0431	2-aminoethylphosphonate--pyruvate transaminase
+STM0432	2-aminoethylphosphonate transport
+STM0433	DJ-1 family protein
+STM0434	2-dehydropantoate 2-reductase
+STM0435	putative cytoplasmic protein
+STM0436	putative MFS family transporter
+STM0436A	IS903 transposase
+STM0437	hypothetical protein
+STM0438	putative TPR repeat protein
+STM0439	protoheme IX farnesyltransferase
+STM0440	cytochrome o ubiquinol oxidase subunit IV
+STM0441	cytochrome o ubiquinol oxidase subunit III
+STM0442	cytochrome o ubiquinol oxidase subunit I
+STM0443	cytochrome o ubiquinol oxidase subunit II
+STM0444	muropeptide transporter AmpG
+STM0445	hypothetical protein
+STM0446	BolA family transcriptional regulator
+STM0447	trigger factor
+STM0448	ATP-dependent Clp endopeptidase, proteolytic subunit ClpP
+STM0449	ATP-dependent protease ATP-binding subunit ClpX
+STM0450	endopeptidase La
+STM0451	DNA-binding protein HU
+STM0452	peptidylprolyl isomerase
+STM0453	hypothetical protein
+STM0454	thioesterase
+STM0455	7-cyano-7-deazaguanine synthase QueC
+STM0456	peptide ABC transporter substrate-binding protein
+STM0457	thiamin pyrimidine pyrophosphate hydrolase
+STM0458	putative cysteine synthase/cystathionine beta-synthase
+STM0459	transcriptional regulator
+STM0460	multidrug ABC transporter permease/ATP-binding protein
+STM0461	multidrug ABC transporter permease/ATP-binding protein
+STM0462	transcriptional regulator
+STM0463	ammonium transporter
+STM0464	acyl-CoA thioesterase II
+STM0465	hypothetical protein
+STM0466	putative methyltransferase
+STM0468	hypothetical protein
+STM0469	50S ribosomal protein L31
+STM0470	50S ribosomal protein L36
+STM0471	hypothetical protein
+STM0472	maltose O-acetyltransferase
+STM0473	transcriptional regulator
+STM0474	Hha toxicity attenuator
+STM0475	aminoglycoside/multidrug transporter permease
+STM0476	efflux transporter periplasmic adaptor subunit
+STM0477	DNA-binding transcriptional repressor AcrR
+STM0478	hypothetical protein
+STM0479	putative transposase
+STM0480	DUF2496 domain-containing protein
+STM0481	primosomal replication protein N
+STM0482	putative phage gene 58
+STM0483	adenine phosphoribosyltransferase
+STM0484	DNA polymerase III subunit gamma/tau
+STM0485	YbaB/EbfC family nucleoid-associated protein
+STM0486	recombination protein RecR
+STM0487	molecular chaperone HtpG
+STM0488	adenylate kinase
+STM0489	ferrochelatase
+STM0490	acetylesterase
+STM0491	inosine/guanosine kinase
+STM0492	Kef family K(+) transporter
+STM0493	MFS transporter
+STM0494	bifunctional UDP-sugar hydrolase/5'-nucleotidase
+STM0495	aminoacyl-tRNA deacylase
+STM0496	polysaccharide biosynthesis protein GumN
+STM0497	hypothetical protein
+STM0498	Cu+ exporting ATPase
+STM0499	Cu(I)-responsive transcriptional regulator
+STM0500	hypothetical protein
+STM0501	paraslipin
+STM0502	iron ABC transporter ATP-binding protein FetA
+STM0503	iron export ABC transporter permease subunit FetB
+STM0504	co-chaperone YbbN
+STM0505	putative oxidoreductase
+STM0506	multifunctional acyl-CoA thioesterase I/protease I/lysophospholipase L1
+STM0507	ABC transporter ATP-binding protein
+STM0508	ABC transporter permease
+STM0509	hypothetical protein
+STM0510	metal ABC transporter substrate-binding protein
+STM0511	methionine ABC transporter ATP-binding protein
+STM0512	methionine ABC transporter permease
+STM0513	tRNA 2-selenouridine(34) synthase MnmH
+STM0514	transcriptional regulator
+STM0515	ureidoglycolate hydrolase
+STM0516	transcriptional regulator
+STM0517	glyoxylate carboligase
+STM0518	hydroxypyruvate isomerase
+STM0519	2-hydroxy-3-oxopropionate reductase
+STM0520	MFS transporter
+STM0521	putative cytoplasmic protein
+STM0522	putative NCS1 family, allantoin transport protein
+STM0523	allantoinase
+STM0524	uracil/xanthine transporter
+STM0525	glycerate kinase
+STM0526	(S)-ureidoglycine aminohydrolase
+STM0527	allantoate amidohydrolase
+STM0528	ureidoglycolate dehydrogenase
+STM0529	acyl-CoA synthetase FdrA
+STM0530	hypothetical protein
+STM0531	carboxylase
+STM0532	putative carbamate kinase
+STM0533	5-(carboxyamino)imidazole ribonucleotide synthase
+STM0534	5-(carboxyamino)imidazole ribonucleotide mutase
+STM0535	UDP-2,3-diacylglucosamine diphosphatase
+STM0536	peptidylprolyl isomerase
+STM0537	cysteine tRNA synthetase
+STM0538	hypothetical protein
+STM0539	hypothetical protein
+STM0540	hypothetical protein
+STM0541	ribosome-associated protein
+STM0542	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+STM0543	type-1 fimbrial protein subunit A
+STM0544	fimbrial protein FimI
+STM0545	fimbrial chaperone protein FimC
+STM0546	outer membrane usher protein
+STM0547	fimbrial adhesin FimH
+STM0548	adhesin
+STM0549	DNA-binding response regulator
+STM0550	fimbriae Y protein
+STM0551	diguanylate cyclase
+STM0552	helix-turn-helix transcriptional regulator
+STM0554	homology to integrase protein of phage
+STM0557	putative inner membrane protein
+STM0558	putative glycosyltransferase
+STM0559	translocase
+STM0561	ATP-binding protein
+STM0562	putative transport protein
+STM0563	AraC family transcriptional regulator
+STM0564	pyridine nucleotide-disulfide oxidoreductase
+STM0565	hypothetical protein
+STM0566	hypothetical protein
+STM0567	DNA repair protein
+STM0568	phenylalanine transporter
+STM0569	miniconductance mechanosensitive channel
+STM0570	autotransporter outer membrane beta-barrel domain-containing protein
+STM0571	hypothetical protein
+STM0572	phosphosugar isomerase
+STM0573	putative inner membrane protein
+STM0574	PTS mannose transporter subunit IID
+STM0575	PTS mannose transporter subunit IICD
+STM0576	PTS mannose/fructose/sorbose transporter subunit IIB
+STM0577	PTS mannose transporter subunit IIAB
+STM0578	NAD(P)H nitroreductase
+STM0579	hypothetical protein
+STM0580	TetR family transcriptional regulator
+STM0581	DNA-binding transcriptional regulator RamA
+STM0582	hypothetical protein
+STM0583	glutamate--cysteine ligase
+STM0584	phosphopantetheinyltransferase
+STM0585	outer membrane receptor protein
+STM0586	enterochelin esterase
+STM0587	MbtH family protein
+STM0588	non-ribosomal peptide synthetase
+STM0589	LPS O-antigen length regulator
+STM0590	iron-enterobactin transporter ATP-binding protein
+STM0591	ferric enterobactin transporter
+STM0592	iron-enterobactin transporter
+STM0593	MFS transporter
+STM0594	Fe2+-enterobactin ABC transporter substrate-binding protein
+STM0595	isochorismate synthase EntC
+STM0596	2,3-dihydroxybenzoate-AMP ligase
+STM0597	isochorismatase
+STM0598	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+STM0599	thioesterase
+STM0600	carbon starvation protein A
+STM0601	hypothetical protein
+STM0602	oxidoreductase
+STM0603	methionine aminotransferase
+STM0604	hypothetical protein
+STM0605	phosphoadenosine phosphosulfate reductase
+STM0606	putative LysR family transcriptional regulator
+STM0607	thiol:disulfide interchange protein DsbG
+STM0608	peroxiredoxin
+STM0609	alkyl hydroperoxide reductase subunit F
+STM0610	molecular chaperone
+STM0611	DMSO reductase
+STM0612	DMSO reductase
+STM0613	hydrogenase
+STM0614	universal stress protein UspG
+STM0615	glutathione-dependent formaldehyde dehydrogenase
+STM0616	nucleoside diphosphate kinase regulator
+STM0617	ribonuclease I
+STM0618	anion permease
+STM0619	triphosphoribosyl-dephospho-CoA synthase
+STM0620	2-(5'-triphosphoribosyl)-3'-dephospho CoA synthase
+STM0621	citrate lyase subunit alpha
+STM0622	citrate (pro-3S)-lyase subunit beta
+STM0623	citrate lyase acyl carrier protein
+STM0624	[citrate (pro-3S)-lyase
+STM0625	histidine kinase
+STM0626	response regulator
+STM0627	anaerobic C4-dicarboxylate transporter DcuC
+STM0628	PhoPQ-activated gene
+STM0629	cold-shock protein
+STM0630	fluoride ion transporter CrcB
+STM0631	putative hydrolase
+STM0632	Sec-independent protein translocase TatE
+STM0633	lipoyl synthase
+STM0634	putative LysR family transcriptional regulator
+STM0635	putative ligase in lipoate biosynthesis
+STM0636	hypothetical protein
+STM0637	serine-type D-Ala-D-Ala carboxypeptidase
+STM0638	rare lipoprotein A
+STM0639	rod shape-determining protein RodA
+STM0640	penicillin-binding protein 2
+STM0641	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH
+STM0642	ribosome silencing factor
+STM0643	alpha-ribazole phosphatase
+STM0644	threonine-phosphate decarboxylase
+STM0645	putative nicotinic acid mononucleotide adenylyltransferase
+STM0646	DNA polymerase III subunit delta
+STM0647	LPS assembly lipoprotein LptE
+STM0648	leucine tRNA synthetase
+STM0649	putative hydrolase N-terminus
+STM0650	putative hydrolase C-terminus
+STM0651	2-keto-3-deoxygluconate permease
+STM0652	Fis family transcriptional regulator
+STM0653	hypothetical protein
+STM0654	hypothetical protein
+STM0655	hypothetical protein
+STM0656	molecular chaperone DnaJ
+STM0657	hypothetical protein
+STM0658	molecular chaperone DnaJ
+STM0659	molecular chaperone HscC
+STM0660	hypothetical protein
+STM0661	pyrimidine-specific ribonucleoside hydrolase RihA
+STM0662	arginine transporter ATP-binding subunit
+STM0663	amino acid ABC transporter permease
+STM0664	amino acid ABC transporter permease
+STM0665	glutamate/aspartate transporter
+STM0666	apolipoprotein N-acyltransferase
+STM0667	magnesium/cobalt efflux protein
+STM0668	rRNA maturation RNase YbeY
+STM0669	putative phosphate starvation-inducible protein, ATP-binding
+STM0670	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB
+STM0671	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+STM0672	hypothetical protein
+STM0680	asparagine synthetase B
+STM0681	UMP phosphatase
+STM0682	transcriptional regulator
+STM0683	N-acetylglucosamine-6-phosphate deacetylase
+STM0684	glucosamine-6-phosphate deaminase
+STM0685	PTS N-acetyl glucosamine transporter subunit IIABC
+STM0686	glutamine--tRNA ligase
+STM0687	chitoporin
+STM0688	hypothetical protein
+STM0689	citrate-proton symporter
+STM0690	tricarballylate utilization protein B
+STM0691	FAD-binding dehydrogenase
+STM0692	putative LysR family transcriptional regulator
+STM0693	ferric iron uptake transcriptional regulator
+STM0694	flavodoxin
+STM0695	LexA regulated protein
+STM0696	alpha/beta hydrolase
+STM0697	replication initiation regulator SeqA
+STM0698	phosphoglucomutase, alpha-D-glucose phosphate-specific
+STM0699	5-nitroimidazole antibiotic resistance protein
+STM0700	putrescine-ornithine antiporter
+STM0701	ornithine decarboxylase SpeF
+STM0702	two-component system response regulator KdpE
+STM0703	two-component system sensor histidine kinase KdbD
+STM0704	potassium-transporting ATPase subunit C
+STM0705	potassium-transporting ATPase subunit B
+STM0706	potassium-transporting ATPase subunit KdpA
+STM0707	potassium-transporting ATPase subunit F
+STM0708	hypothetical protein
+STM0709	deoxyribodipyrimidine photo-lyase
+STM0710	MFS transporter
+STM0711	hypothetical protein
+STM0712	hypothetical protein
+STM0713	hypothetical protein
+STM0714	LamB/YcsF family protein
+STM0715	hypothetical protein
+STM0716	DNA recombinase
+STM0717	putative inner membrane protein
+STM0718	transport protein
+STM0719	putative UDP-galactopyranose mutase
+STM0720	putative glycosyl transferase
+STM0721	glycosyltransferase family 1 protein
+STM0722	ABC transporter permease
+STM0723	sugar ABC transporter ATP-binding protein
+STM0724	glycosyl transferase
+STM0725	glycosyl transferase
+STM0726	putative glycosyl transferase
+STM0727	hypothetical protein
+STM0728	endonuclease VIII
+STM0729	AbrB family transcriptional regulator
+STM0730	citrate (Si)-synthase
+STM0731	hypothetical protein
+STM0732	succinate dehydrogenase, cytochrome b556
+STM0733	succinate dehydrogenase, hydrophobic membrane anchor protein
+STM0734	succinate dehydrogenase flavoprotein subunit
+STM0735	succinate dehydrogenase, Fe-S protein
+STM0736	2-oxoglutarate dehydrogenase E1 component
+STM0737	dihydrolipoamide succinyltransferase
+STM0738	succinate--CoA ligase subunit beta
+STM0739	succinate--CoA ligase subunit alpha
+STM0740	cytochrome d terminal oxidase subunit 1
+STM0741	cytochrome d ubiquinol oxidase subunit II
+STM0742	putative outer membrane lipoprotein
+STM0743	cyd operon protein YbgE
+STM0744	tol-pal system-associated acyl-CoA thioesterase
+STM0745	tol protein, membrane-spanning inner membrane protein
+STM0746	protein TolR
+STM0747	cell envelope integrity protein TolA
+STM0748	Tol-Pal system beta propeller repeat protein TolB
+STM0749	peptidoglycan-associated lipoprotein
+STM0750	cell division protein CpoB
+STM0756	quinolinate synthase
+STM0757	nicotinamide riboside transporter PnuC
+STM0758	cation transporter
+STM0759	hypothetical protein
+STM0760	3-deoxy-7-phosphoheptulonate synthase
+STM0761	fumarate hydratase Class I anaerobic
+STM0762	fumarate hydratase
+STM0763	transcriptional regulator, lysR family
+STM0764	transcriptional regulator, lysR family
+STM0765	putative cation transporter
+STM0766	oxaloacetate decarboxylase subunit gamma
+STM0768	oxaloacetate decarboxylase subunit beta
+STM0769	hypothetical protein
+STM0770	iron ABC transporter permease
+STM0771	iron ABC transporter
+STM0772	phosphoglyceromutase
+STM0773	galactose-1-epimerase
+STM0774	galactokinase
+STM0775	galactose-1-phosphate uridylyltransferase
+STM0776	UDP-glucose 4-epimerase
+STM0777	hypothetical protein
+STM0778	molybdate ABC transporter ATP-binding protein ModF
+STM0779	molybdenum-dependent transcriptional regulator
+STM0780	multidrug efflux pump-associated protein, AcrZ family
+STM0781	molybdate ABC transporter substrate-binding protein
+STM0782	molybdate ABC transporter permease
+STM0783	molybdenum ABC transporter ATP-binding protein
+STM0784	pyridoxal phosphatase
+STM0785	6-phosphogluconolactonase
+STM0786	acyl-CoA thioesterase
+STM0787	imidazolonepropionase
+STM0788	formimidoylglutamase
+STM0789	histidine utilization repressor
+STM0791	histidine ammonia-lyase
+STM0792	kinase inhibitor
+STM0793	adenosylmethionine--8-amino-7-oxononanoate transaminase
+STM0794	biotin synthase
+STM0795	8-amino-7-oxononanoate synthase
+STM0796	malonyl-ACP O-methyltransferase BioC
+STM0797	dethiobiotin synthase
+STM0798	excinuclease ABC subunit B
+STM0799	hypothetical protein
+STM0800	E3 ubiquitin--protein ligase
+STM0801	hypothetical protein
+STM0802	cyclic pyranopterin phosphate synthase
+STM0803	molybdenum cofactor biosynthesis protein B
+STM0804	molybdenum cofactor biosynthesis protein C
+STM0805	molybdopterin biosynthesis protein
+STM0806	molybdenum cofactor biosynthesis protein MoaE
+STM0807	hypothetical protein
+STM0808	hypothetical protein
+STM0809	putative inner membrane protein
+STM0810	hypothetical protein
+STM0811	hypothetical protein
+STM0812	cardiolipin synthase B
+STM0813	hypothetical protein
+STM0814	hypothetical protein
+STM0815	ABC transporter permease
+STM0816	ABC transporter permease
+STM0817	multidrug ABC transporter ATP-binding protein
+STM0818	secretion protein HlyD
+STM0819	transcriptional regulator
+STM0820	ATP-dependent RNA helicase RhlE
+STM0821	ATP-dependent DNA helicase DinG
+STM0822	DNA-binding protein YbiB
+STM0823	hypothetical protein
+STM0825	hypothetical protein
+STM0826	23S rRNA (adenine(1618)-N(6))-methyltransferase
+STM0827	mechanosensitive channel protein
+STM0828	glutamine ABC transporter ATP-binding protein
+STM0829	glutamine ABC transporter permease GlnP
+STM0830	glutamine ABC transporter substrate-binding protein GlnH
+STM0831	DNA starvation/stationary phase protection protein Dps
+STM0832	threonine/homoserine exporter RhtA
+STM0833	outer membrane protein OmpX
+STM0834	phosphoethanolamine transferase
+STM0835	transcriptional regulator MntR
+STM0836	anion transporter
+STM0837	L,D-transpeptidase
+STM0838	ABC-F family ATPase
+STM0839	putative inner membrane protein
+STM0840	sugar-phosphatase
+STM0841	hypothetical protein
+STM0842	sugar-phosphatase
+STM0843	glycyl radical enzyme
+STM0844	pyruvate formate lyase-activating protein
+STM0845	molybdopterin-synthase adenylyltransferase MoeB
+STM0846	molybdopterin biosynthesis protein
+STM0847	beta-aspartyl-peptidase
+STM0848	glutathione ABC transporter ATP-binding protein GsiA
+STM0849	glutathione ABC transporter substrate-binding protein GsiB
+STM0850	glutathione ABC transporter permease GsiC
+STM0851	glutathione ABC transporter permease GsiD
+STM0852	ribosomal protein S12 methylthiotransferase
+STM0853	transcriptional regulator
+STM0854	CoA ester lyase
+STM0855	putative electron transfer flavoprotein beta subunit
+STM0856	electron transfer flavoprotein subunit alpha
+STM0857	putative acyl-CoA dehydrogenase
+STM0858	electron transfer flavoprotein-ubiquinone oxidoreductase
+STM0859	putative LysR family transcriptional regulator
+STM0860	hypothetical protein
+STM0861	putative dehydrogenase
+STM0862	putative glutathione S-transferase
+STM0863	serine-type D-Ala-D-Ala carboxypeptidase
+STM0864	DNA-binding transcriptional repressor DeoR
+STM0865	undecaprenyl-diphosphate phosphatase
+STM0866	multidrug transporter MdfA
+STM0867	sugar-phosphatase
+STM0868	hypothetical protein
+STM0869	DNA-binding transcriptional regulator
+STM0870	transporter
+STM0871	hypothetical protein
+STM0872	glutaredoxin
+STM0873	hypothetical protein
+STM0874	nitroreductase A
+STM0875	ribosomal protein S6 modification protein
+STM0876	hypothetical protein
+STM0877	spermidine/putrescine ABC transporter substrate-binding protein PotF
+STM0878	ABC transporter ATP-binding protein
+STM0879	putrescine ABC transporter permease PotH
+STM0880	putrescine ABC transporter permease PotI
+STM0881	hypothetical protein
+STM0882	23S rRNA (uracil(747)-C(5))-methyltransferase
+STM0884	PTS ascorbate transporter subunit IIC
+STM0885	PTS sugar transporter IIB
+STM0886	putative sulfatase
+STM0887	arginine ABC transporter substrate-binding protein
+STM0888	arginine transporter permease subunit ArtM
+STM0889	arginine transporter permease subunit ArtQ
+STM0890	arginine ABC transporter substrate-binding protein
+STM0891	arginine ABC transporter ATP-binding protein ArtP
+STM0892	putative lipoprotein
+STM0893	putative Fels-1 prophage integrase
+STM0894	putative Fels-1 prophage excisionase
+STM0895	Fels-1 prophage protein
+STM0896	Fels-1 prophage protein
+STM0897	Fels-1 prophage protein
+STM0898	predicted Fels-1 prophage transcriptional regulator
+STM0898A	Fels-1 prophage protein
+STM0899	Fels-1 prophage protein
+STM0900	putative Fels-1 prophage DNA or RNA helicases of superfamily II
+STM0901	Fels-1 putative prophage DNA primase
+STM0902	Fels-1 prophage protein
+STM0903	putative Fels-1 prophage chaparone
+STM0904	Fels-1 prophage protein
+STM0905	Fels-1 prophage hypothetical protein
+STM0906	Fels-1 prophage protein
+STM0907	putative Fels-1 prophage chitinase
+STM0908	Fels-1 prophage protein
+STM0909	Fels-1 prophage protein
+STM0910	Fels-1 prophage protein
+STM0911	Fels-1 prophage protein
+STM0912	Fels-1 prophage protease subunits of ATP-dependent proteases
+STM0913	Fels-1 prophage protein
+STM0914	putative Fels-1 phage tail component
+STM0915	Fels-1 prophage protein
+STM0916	putative Fels-1 prophage major tail protein
+STM0917	putative Fels-1 prophage minor tail protein
+STM0918	putative Fels-1 prophage minor tail protein
+STM0919	putative Fels-1 prophage minor tail protein
+STM0920	Fels-1 prophage attachment and invasion protein
+STM0921	putative Fels-1 prophage minor tail protein
+STM0922	putative Fels-1 prophage tail assembly protein
+STM0923	putative Fels-1 prophage tail assembly protein
+STM0924	putative Fels-1 prophage Cu/Zn superoxide dismutase
+STM0925	putative Fels-1 prophage host specificity protein
+STM0926	putative Fels-1 prophage minor tail protein
+STM0927	putative Fels-1 prophage tail assembly protein
+STM0928	sialidase
+STM0929	putative inner membrane protein
+STM0930	hypothetical protein
+STM0931	N-acetylmuramoyl-L-alanine amidase
+STM0932	hypothetical protein
+STM0933	NAD(P)-dependent oxidoreductase
+STM0934	low-specificity L-threonine aldolase
+STM0935	pyruvate oxidase
+STM0936	NADH oxidoreductase for hcp gene product
+STM0937	hydroxylamine reductase
+STM0938	hypothetical protein
+STM0939	ATP-dependent endonuclease
+STM0940	homolog of virK
+STM0941	macrolide transporter subunit MacA
+STM0942	putative ABC superfamily (atp&memb) transport protein
+STM0943	cold shock domain protein CspD
+STM0944	ATP-dependent Clp protease adapter ClpS
+STM0945	ATP-dependent Clp protease ATP-binding subunit ClpA
+STM0946	IS200/IS605 family transposase
+STM0950	hydrolase
+STM0951	quercetin 2,3-dioxygenase
+STM0952	LysR family transcriptional regulator
+STM0953	translation initiation factor IF-1
+STM0954	hypothetical protein
+STM0955	leucyl/phenylalanyl-tRNA--protein transferase
+STM0956	cysteine/glutathione ABC transporter ATP-binding protein/permease CydC
+STM0957	cysteine/glutathione ABC transporter permease/ATP-binding protein CydD
+STM0958	thioredoxin-disulfide reductase
+STM0959	leucine-responsive transcriptional regulator
+STM0960	DNA translocase FtsK
+STM0961	periplasmic protein
+STM0962	recombination factor protein RarA
+STM0963	serine--tRNA ligase
+STM0964	dimethylsulfoxide reductase subunit A
+STM0965	dimethylsulfoxide reductase, chain B
+STM0966	dimethyl sulfoxide reductase
+STM0968	MFS transporter
+STM0969	transporter
+STM0970	pyruvate formate lyase activating enzyme 1
+STM0971	putative cytoplasmic protein
+STM0972	pathogenicity island 1 protein SopD2
+STM0973	formate C-acetyltransferase
+STM0974	formate transporter FocA
+STM0975	ribosomal protein S12 methylthiotransferase accessory factor YcaO
+STM0976	hypothetical protein
+STM0977	phosphoserine transaminase
+STM0978	3-phosphoshikimate 1-carboxyvinyltransferase
+STM0979	metalloprotease
+STM0980	cytidylate kinase
+STM0981	30S ribosomal protein S1
+STM0982	integration host factor subunit beta
+STM0983	ComEC family protein
+STM0984	lipid ABC transporter permease/ATP-binding protein
+STM0985	tetraacyldisaccharide 4'-kinase
+STM0986	hypothetical protein
+STM0987	hypothetical protein
+STM0988	3-deoxy-manno-octulosonate cytidylyltransferase
+STM0989	hypothetical protein
+STM0990	hypothetical protein
+STM0991	tRNA uridine 5-oxyacetic acid(34) methyltransferase CmoM
+STM0992	condensin subunit MukF
+STM0993	chromosome partitioning protein MukE
+STM0994	cell division protein MukB
+STM0995	L,D-transpeptidase
+STM0996	hypothetical protein
+STM0997	hypothetical protein
+STM0998	aromatic amino acid aminotransferase
+STM0999	phosphoporin PhoE
+STM1000	asparagine--tRNA ligase
+STM1001	putative leucine response regulator
+STM1002	diaminopropionate ammonia-lyase
+STM1003	amino acid:proton symporter
+STM1004	nicotinate phosphoribosyltransferase
+STM1005	Gifsy-2 prophage integrase
+STM1006	Gifsy-2 prophage excisionase
+STM1007	Gifsy-2 prophage protein
+STM1008	Gifsy-2 prophage protein
+STM1009	Gifsy-2 prophage exodeoxyribonuclease
+STM1010	Gifsy-2 prophage protein
+STM1011	Gifsy-2 prophage protein
+STM1012	Gifsy-2 prophage putative regulatory protein
+STM1013	Gifsy-2 prophage putative regulatory protein
+STM1014	Gifsy-2 prophage putative regulatory protein
+STM1015	Gifsy-2 prophage ATPase involved in DNA replication initiation
+STM1016	Gifsy-2 prophage protein
+STM1017	Gifsy-2 prophage protein
+STM1018	Gifsy-2 prophage protein
+STM1019	Gifsy-2 prophage protein
+STM1020	Gifsy-2 prophage protein
+STM1021	Gifsy-2 prophage protein
+STM1022	Gifsy-2 prophage putative molecular chaperone, DnaJ family
+STM1023	Gifsy-2 prophage protein
+STM1024	Gifsy-2 prophage protein
+STM1025	Gifsy-2 prophage protein
+STM1026	Gifsy-2 prophage protein
+STM1027	Gifsy-2 prophage protein
+STM1028	Gifsy-2 prophage lysozyme
+STM1029	Gifsy-2 prophage protein
+STM1030	Gifsy-2 prophage protein
+STM1031	Gifsy-2 prophage protein
+STM1032	Gifsy-2 prophage protein
+STM1033	Gifsy-2 prophage Clp protease-like protein
+STM1034	Gifsy-2 prophage putative RecA/RadA recombinase
+STM1035	Gifsy-2 prophage ATP-binding sugar transporter-like protein
+STM1036	Gifsy-2 prophage probable minor tail protein
+STM1037	Gifsy-2 prophage probable minor tail protein
+STM1038	Gifsy-2 prophage probable major tail protein
+STM1039	Gifsy-2 prophage probable minor tail protein
+STM1040	Gifsy-2 prophage probable minor tail protein
+STM1041	Gifsy-2 prophage probable minor tail protein
+STM1042	Gifsy-2 prophage probable minor tail protein
+STM1043	Gifsy-2 prophage attachment and invasion protein homolog
+STM1044	Gifsy-2 prophage superoxide dismutase precursor (Cu-Zn)
+STM1045	Gifsy-2 prophage probable minor tail protein
+STM1046	Gifsy-2 prophage probable tail assembly protein
+STM1047	Gifsy-2 prophage probable tail assembly protein
+STM1048	Gifsy-2 prophage host specificity protein J, phage lambda
+STM1049	Gifsy-2 prophage probable tail fiber protein
+STM1050	Gifsy-2 prophage tail fiber assembly like-protein
+STM1051	Gifsy-2 prophage putative type III secreted protein
+STM1053	Gifsy-2 prophage protein
+STM1054	Gifsy-2 prophage protein
+STM1055	Gifsy-2 prophage protein
+STM1056	Gifsy-2 prophage protein
+STM1057	aminopeptidase N
+STM1058	dihydroorotate dehydrogenase (quinone)
+STM1059	cell division protein ZapC
+STM1060	hypothetical protein
+STM1061	23S rRNA (guanine(2445)-N(2))/(guanine(2069)-N(7))-methyltransferase
+STM1062	ABC transporter ATP-binding protein
+STM1063	paraquat-inducible protein A
+STM1064	paraquat-inducible protein B
+STM1065	hypothetical protein
+STM1066	ribosome modulation factor
+STM1067	3-hydroxyacyl-[acyl-carrier-protein
+STM1068	Lon protease
+STM1069	Ter macrodomain-binding protein MatP
+STM1070	porin OmpA
+STM1071	cell division inhibitor SulA
+STM1072	Crp/Fnr family transcriptional regulator
+STM1073	TIGR01666 family membrane protein
+STM1074	hypothetical protein
+STM1075	DNA helicase IV
+STM1076	methylglyoxal synthase
+STM1077	hypothetical protein
+STM1078	putative cytoplasmic protein
+STM1079	heat-shock protein HspQ
+STM1080	23S rRNA (cytosine(1962)-C(5))-methyltransferase
+STM1081	kinase inhibitor
+STM1082	AraC family transcriptional regulator
+STM1083	acylphosphatase
+STM1084	sulfurtransferase TusE
+STM1085	BAX inhibitor protein
+STM1087	virulence protein
+STM1088	effector protein PipB
+STM1089	Pathogenicity island encoded protein: SPI5
+STM1090	type III secretion chaperone protein SigE
+STM1091	inositol phosphatase
+STM1092	DUF3950 domain-containing protein
+STM1093	hypothetical protein
+STM1094	dipeptidase
+STM1095	two-component sensor histidine kinase
+STM1096	Copper resistance transcriptional regulatory protein
+STM1097	hydroxyisourate hydrolase
+STM1098	4-hydroxyphenylacetate 3-monooxygenase, reductase component
+STM1099	4-hydroxyphenylacetate 3-monooxygenase, oxygenase component
+STM1100	homoprotocatechuate degradation operon regulator, HpaR
+STM1101	4-hydroxyphenylacetate degradation protein
+STM1102	5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase
+STM1103	3,4-dihydroxyphenylacetate 2,3-dioxygenase
+STM1104	5-carboxymethyl-2-hydroxymuconate delta-isomerase
+STM1105	2-oxo-hepta-3-ene-1,7-dioic acid hydratase
+STM1106	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase
+STM1107	4-hydroxyphenylacetate permease
+STM1108	4-hydroxyphenylacetate catabolism regulatory protein HpaA
+STM1109	MBL fold metallo-hydrolase
+STM1110	anti-adapter protein IraM
+STM1111	chaperone-modulator protein CbpM
+STM1112	DNA-binding protein
+STM1113	copper resistance protein
+STM1114	protein-disulfide reductase
+STM1115	disulfide bond formation protein DsbA
+STM1116	protein disulfide oxidoreductase
+STM1117	bifunctional glucose-1-phosphatase/inositol phosphatase
+STM1118	hypothetical protein
+STM1119	NAD(P)H:quinone oxidoreductase, type IV
+STM1121	stress-induced protein
+STM1122	pyrimidine utilization regulatory protein R
+STM1123	hypothetical protein
+STM1124	trifunctional transcriptional regulator/proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase
+STM1125	sodium/proline symporter
+STM1126	phosphate starvation protein PhoH
+STM1127	N-acetylmannosamine kinase
+STM1128	acetylneuraminate ABC transporter
+STM1129	N-acetylmannosamine-6-phosphate 2-epimerase
+STM1130	N-acetylneuraminic acid mutarotase
+STM1131	hypothetical protein
+STM1132	MFS transporter
+STM1133	putative dehydrogenases and related proteins
+STM1135	bifunctional glyoxylate/hydroxypyruvate reductase A
+STM1136	phosphatase
+STM1137	molecular chaperone
+STM1138	putative inner membrane protein
+STM1139	curli production assembly/transport protein CsgG
+STM1140	curli assembly protein CsgF
+STM1141	curli assembly protein CsgE
+STM1142	transcriptional regulator CsgD
+STM1143	curli minor subunit precursor
+STM1144	curli major subunit
+STM1145	Curli assembly protein CsgC
+STM1146	hypothetical protein
+STM1147	O-acetyl-ADP-ribose deacetylase
+STM1148	putative phospholipase
+STM1149	membrane protein
+STM1150	periplasmic glucans biosynthesis protein
+STM1151	glucan biosynthesis glucosyltransferase H
+STM1152	hypothetical protein
+STM1153	secY/secA suppressor protein
+STM1154	multidrug transporter subunit MdtG
+STM1155	lipid A biosynthesis lauroyl acyltransferase
+STM1156	hypothetical protein
+STM1157	hypothetical protein
+STM1158	cytochrome B
+STM1159	DUF2770 domain-containing protein
+STM1160	N-methyltryptophan oxidase
+STM1161	transcriptional regulator
+STM1162	DNA damage-inducible protein I
+STM1163	dihydroorotase
+STM1164	hypothetical protein
+STM1165	glutaredoxin, GrxB family
+STM1166	MFS transporter
+STM1167	ribosomal protein S5 alanine N-acetyltransferase
+STM1168	DUF480 domain-containing protein
+STM1169	virulence factor MviM
+STM1170	putative virulence factor
+STM1171	flagellar biosynthesis protein FlgN
+STM1172	anti-sigma-28 factor FlgM
+STM1173	flagella basal body P-ring formation protein FlgA
+STM1174	flagellar basal body rod protein FlgB
+STM1175	flagellar basal body rod protein FlgC
+STM1176	flagellar basal body rod modification protein
+STM1177	flagellar hook protein FlgE
+STM1178	flagellar biosynthesis protein FlgF
+STM1179	flagellar basal-body rod protein FlgG
+STM1180	flagellar basal body L-ring protein
+STM1181	flagellar biosynthesis protein FlgA
+STM1182	flagellar rod assembly protein/muramidase FlgJ
+STM1183	flagellar hook-associated protein FlgK
+STM1184	flagellar hook-filament junction protein FlgL
+STM1185	ribonuclease E
+STM1187	23S rRNA pseudouridine(955/2504/2580) synthase
+STM1188	putative inner membrane lipoprotein
+STM1189	septum formation inhibitor Maf
+STM1190	hypothetical protein
+STM1191	50S ribosomal protein L32
+STM1192	phosphate acyltransferase
+STM1193	3-oxoacyl-ACP synthase
+STM1194	[acyl-carrier-protein
+STM1195	3-oxoacyl-ACP reductase
+STM1196	acyl carrier protein
+STM1197	beta-ketoacyl-[acyl-carrier-protein
+STM1198	aminodeoxychorismate lyase
+STM1199	cell division protein YceG
+STM1200	dTMP kinase
+STM1201	DNA polymerase III subunit delta'
+STM1202	putative metal-dependent hydrolase
+STM1203	PTS glucose transporter subunit IIBC
+STM1204	ferric-rhodotorulic acid/ferric-coprogen receptor FhuE
+STM1205	histidine triad nucleotide-binding protein
+STM1206	hypothetical protein
+STM1207	penicillin-binding protein activator LpoB
+STM1208	thiamine kinase
+STM1209	beta-N-acetylhexosaminidase
+STM1210	hypothetical protein
+STM1211	FAD-dependent oxidoreductase
+STM1212	hypothetical protein
+STM1213	TetR family transcriptional regulator
+STM1214	multiple stress resistance protein BhsA
+STM1215	L,D-transpeptidase
+STM1216	transcription-repair coupling factor
+STM1217	integral membrane protein ABC transporter
+STM1218	lipoprotein ABC transporter ATP-binding protein LolD
+STM1219	lipoprotein transporter subunit LolE
+STM1220	N-acetylglucosamine kinase
+STM1221	NAD-dependent protein deacylase
+STM1222	spermidine/putrescine ABC transporter substrate-binding protein PotD
+STM1223	spermidine/putrescine ABC transporter permease PotC
+STM1224	effector protein SifA
+STM1225	spermidine/putrescine ABC transporter permease PotB
+STM1226	spermidine/putrescine transporter
+STM1227	aminotripeptidase
+STM1228	hypothetical protein
+STM1229	50S ribosomal protein L16 arginine hydroxylase
+STM1230	sensor protein PhoQ
+STM1231	response regulator in two-component regulatory system with PhoQ
+STM1232	adenylosuccinate lyase
+STM1233	unknown membrane associated protein
+STM1234	tRNA 2-thiouridine(34) synthase MnmA
+STM1235	NUDIX hydrolase
+STM1236	hypothetical protein
+STM1237	23S rRNA pseudouridine synthase E
+STM1238	NADP-dependent isocitrate dehydrogenase
+STM1239	hypothetical protein
+STM1240	lipoprotein EnvF
+STM1241	DinI family protein
+STM1242	lipoprotein EnvE
+STM1243	cold-shock protein
+STM1244	virulence factor
+STM1246	hypothetical protein
+STM1249	lysozyme inhibitor
+STM1250	putative cytoplasmic protein
+STM1251	heat-shock protein
+STM1252	hypothetical protein
+STM1253	cytochrome b
+STM1254	hypothetical protein
+STM1255	nickel ABC transporter substrate-binding protein
+STM1256	peptide ABC transporter permease
+STM1257	peptide ABC transporter permease
+STM1258	peptide ABC transporter ATP-binding protein
+STM1259	peptide ABC transporter ATP-binding protein
+STM1260	mechanosensitive ion channel protein MscS
+STM1261	four-helix bundle copper-binding protein
+STM1263	putative periplasmic protein
+STM1264	aminoglycoside resistance protein
+STM1265	putative response regulators
+STM1266	putative transcriptional regulator
+STM1267	histidine kinase
+STM1268	hypothetical protein
+STM1269	putative chorismate mutase
+STM1270	leucine efflux protein LeuE
+STM1271	hypothetical protein
+STM1272	DUF1869 domain-containing protein
+STM1273	hypothetical protein
+STM1274	hypothetical protein
+STM1275	hypothetical protein
+STM1276	hypothetical protein
+STM1277	MarR family transcriptional regulator
+STM1278	hypothetical protein
+STM1279	AraC family transcriptional regulator
+STM1280	hypothetical protein
+STM1281	hypothetical protein
+STM1282	putative cytoplasmic protein
+STM1283	diguanylate cylase
+STM1284	hypothetical protein
+STM1285	PrkA family serine protein kinase
+STM1286	MltA-interacting protein MipA
+STM1287	anaerobic sulfatase maturase
+STM1288	putative aldehyde reductase
+STM1289	D-hexose-6-phosphate mutarotase
+STM1290	type I glyceraldehyde-3-phosphate dehydrogenase
+STM1291	hypothetical protein
+STM1292	hypothetical protein
+STM1293	nicotinamidase
+STM1294	L-asparaginase 1
+STM1295	signal peptide peptidase SppA
+STM1296	NAD(P)H nitroreductase
+STM1297	selenophosphate synthase
+STM1298	DNA topoisomerase III
+STM1299	glutamate dehydrogenase
+STM1300	hypothetical protein
+STM1301	NTP pyrophosphohydrolase
+STM1302	exodeoxyribonuclease III
+STM1303	aspartate aminotransferase family protein
+STM1304	arginine N-succinyltransferase
+STM1305	succinylglutamate-semialdehyde dehydrogenase
+STM1306	N-succinylarginine dihydrolase
+STM1307	succinylglutamate desuccinylase
+STM1308	ATP-independent periplasmic protein-refolding chaperone
+STM1309	putative nuclease subunit of the excinuclease complex
+STM1310	NAD(+) synthase
+STM1311	transcriptional regulator
+STM1312	PTS sugar transporter subunit IIB
+STM1313	PTS N,N'-diacetylchitobiose transporter subunit IIC
+STM1314	PTS N N'-diacetylchitobiose transporter subunit IIA
+STM1315	transcriptional repressor of cel operon
+STM1316	6-phospho-beta-glucosidase
+STM1317	carbohydrate deacetylase
+STM1318	catalase HPII
+STM1319	cell division modulator
+STM1320	L-cystine transporter
+STM1321	LexA regulated gene
+STM1322	2-deoxyglucose-6-phosphatase
+STM1323	hypothetical protein
+STM1324	hypothetical protein
+STM1325	hypothetical protein
+STM1326	6-phosphofructokinase II
+STM1327	hypothetical protein
+STM1328	hypothetical protein
+STM1329	hypothetical protein
+STM1330	endonuclease
+STM1331	hypothetical protein
+STM1332	polymerase
+STM1333	threonine--tRNA ligase
+STM1334	protein chain initiation factor IF-3
+STM1335	50S ribosomal protein L35
+STM1336	50S ribosomal protein L20
+STM1337	phenylalanine--tRNA ligase subunit alpha
+STM1338	phenylalanine--tRNA ligase subunit beta
+STM1339	integration host factor subunit alpha
+STM1340	vitamin B12 ABC transporter permease BtuC
+STM1341	glutathione peroxidase
+STM1342	vitamin B12 ABC transporter ATP-binding protein BtuD
+STM1343	endopeptidase
+STM1344	EAL domain-containing protein
+STM1345	hypothetical protein
+STM1346	hemin uptake protein hemP
+STM1347	3-deoxy-7-phosphoheptulonate synthase
+STM1348	phosphoenolpyruvate synthase regulatory protein
+STM1349	phosphoenolpyruvate synthase
+STM1350	cyclohexanecarboxylate-CoA ligase
+STM1351	ferredoxin family protein
+STM1352	oxidoreductase
+STM1353	electron transfer flavoprotein subunit alpha
+STM1354	putative electron transfer flavoprotein
+STM1355	AraC family transcriptional regulator
+STM1356	putative acyl-CoA dehydrogenase
+STM1357	putative acetyl-CoA:acetoacetyl-CoA transferase beta subunit
+STM1358	3-dehydroquinate dehydratase
+STM1359	quinate/shikimate dehydrogenase
+STM1360	MFS transporter
+STM1361	MFS transporter
+STM1362	putative cytoplasmic protein
+STM1364	hypothetical protein
+STM1365	hypothetical protein
+STM1366	thioesterase
+STM1367	putative cytoplasmic protein
+STM1368	L-cystine transporter
+STM1369	Fe-S cluster assembly scaffold SufA
+STM1370	Fe-S cluster assembly protein SufB
+STM1371	Fe-S cluster assembly ATPase SufC
+STM1372	FeS cluster assembly protein SufD
+STM1373	bifunctional cysteine desulfurase/selenocysteine lyase
+STM1374	cysteine desufuration protein SufE
+STM1375	murein L,D-transpeptidase
+STM1376	hypothetical protein
+STM1377	murein lipoprotein
+STM1378	pyruvate kinase
+STM1379	putative amino acid permease
+STM1380	hydrolase
+STM1381	hypothetical protein
+STM1382	hypothetical protein
+STM1383	tetrathionate reductase subunit A
+STM1384	tetrathionate reductase subunit C
+STM1385	tetrathionate reductase complex, subunit B
+STM1386	tetrathionate reductase complex: sensory transduction histidine kinase
+STM1387	DNA-binding response regulator
+STM1388	hypothetical protein
+STM1389	hypothetical protein
+STM1390	helix-turn-helix-type transcriptional regulator
+STM1391	DNA-binding response regulator
+STM1392	hybrid sensor histidine kinase/response regulator
+STM1393	pathogenicity island chaperone protein SpiC
+STM1394	EscC/YscC/HrcC family type III secretion system outer membrane ring protein
+STM1395	EscD/YscD/HrpQ family type III secretion system inner membrane ring protein
+STM1396	EscE/YscE/SsaE family type III secretion system needle protein co-chaperone
+STM1397	type III secretion system chaperone SseA
+STM1398	pathogenicity island 2 effector protein SseB
+STM1399	CesD/SycD/LcrH family type III secretion system chaperone
+STM1400	pathogenicity island 2 effector protein SseC
+STM1401	pathogenicity island 2 effector protein SseD
+STM1402	pathogenicity island 2 effector protein SseE
+STM1403	CesD/SycD/LcrH family type III secretion system chaperone
+STM1404	pathogenicity island 2 effector protein SseF
+STM1405	pathogenicity island 2 effector protein SseG
+STM1406	secretion system apparatus
+STM1407	secretion system apparatus
+STM1408	EscI/YscI/HrpB family type III secretion system inner rod protein
+STM1409	EscJ/YscJ/HrcJ family type III secretion inner membrane ring protein
+STM1410	hypothetical protein
+STM1411	type III secretion system protein SsaK
+STM1412	secretion system apparatus protein
+STM1413	type III secretion system protein SsaM
+STM1414	EscV/YscV/HrcV family type III secretion system export apparatus protein
+STM1415	EscN/YscN/HrcN family type III secretion system ATPase
+STM1416	type III secretion system protein SsaO
+STM1417	type III secretion system protein SsaP
+STM1418	type III secretion system protein SsaQ
+STM1419	EscR/YscR/HrcR family type III secretion system export apparatus protein
+STM1420	EscS/YscS/HrcS family type III secretion system export apparatus protein
+STM1421	EscT/YscT/HrcT family type III secretion system export apparatus protein
+STM1422	EscU/YscU/HrcU family type III secretion system export apparatus switch protein
+STM1425	MATE family efflux transporter
+STM1426	riboflavin synthase subunit alpha
+STM1427	cyclopropane-fatty-acyl-phospholipid synthase
+STM1428	Bcr/CflA family multidrug efflux transporter
+STM1429	putative LysR family transcriptional regulator
+STM1430	transcriptional repressor
+STM1431	superoxide dismutase
+STM1432	putative cell wall-associated hydrolase
+STM1433	Grx4 family monothiol glutaredoxin
+STM1434	ribonuclease T
+STM1435	lactoylglutathione lyase
+STM1436	N-ethylmaleimide reductase
+STM1437	TetR family transcriptional regulator
+STM1438	DUF1289 domain-containing protein
+STM1439	oxidoreductase
+STM1440	superoxide dismutase
+STM1441	fusaric acid resistance protein
+STM1442	putative multidrug resistance efflux pump
+STM1443	hypothetical protein
+STM1444	MarR family transcriptional regulator for hemolysin
+STM1445	hypothetical protein
+STM1446	anhydro-N-acetylmuramic acid kinase
+STM1447	lysozyme inhibitor
+STM1448	pyridoxamine 5'-phosphate oxidase
+STM1449	tyrosine--tRNA ligase
+STM1450	pyridoxal kinase
+STM1451	glutathione transferase GstA
+STM1452	dipeptide/tripeptide permease A
+STM1453	DNA glycosylase/apyrimidinic (AP) lyase
+STM1454	electron transport complex subunit RsxE
+STM1455	electron transport complex subunit RsxG
+STM1456	electron transport complex subunit RsxD
+STM1457	electron transport complex subunit RsxC
+STM1458	electron transport complex subunit RsxB
+STM1459	electron transport complex subunit RsxA
+STM1460	hypothetical protein
+STM1461	oriC-binding nucleoid-associated protein
+STM1462	putative oxidoreductase
+STM1463	adenosine deaminase
+STM1466	hypothetical protein
+STM1467	mannose-6-phosphate isomerase
+STM1468	fumarate hydratase
+STM1469	class II fumarate hydratase
+STM1470	DNA replication terminus site-binding protein
+STM1471	two-component system sensor histidine kinase RstB
+STM1472	putative periplasmic protein
+STM1473	hypothetical protein
+STM1475	two-component system response regulator RstA
+STM1476	hypothetical protein
+STM1477	putative amino acid transporter
+STM1478	hypothetical protein
+STM1479	NAD(P) transhydrogenase subunit alpha
+STM1480	NAD(P) transhydrogenase subunit beta
+STM1481	pheromone autoinducer 2 transporter
+STM1482	multidrug transporter subunit MdtJ
+STM1483	multidrug transporter subunit MdtI
+STM1484	serine protease
+STM1485	acid shock protein
+STM1486	hypothetical protein
+STM1487	putative LysR family transcriptional regulator
+STM1488	transcriptional regulator
+STM1489	putative dethiobiotin synthase
+STM1490	voltage-gated ClC-type chloride channel ClcB
+STM1491	glycine/betaine ABC transporter ATP-binding protein
+STM1492	choline ABC transporter permease
+STM1493	glycine/betaine ABC transporter substrate-binding protein
+STM1494	glycine/betaine ABC transporter permease
+STM1495	DMSO reductase maturation protein DsmD
+STM1496	putative dimethylsulfoxide reductase
+STM1497	dimethylsulfoxide reductase, chain B
+STM1498	dimethyl sulfoxide reductase subunit A
+STM1499	putative dimethyl sulphoxide reductase, chain A1
+STM1500	putative outer membrane protein
+STM1501	putative inner membrane lipoprotein
+STM1502	spermidine acetyltransferase
+STM1503	hypothetical protein
+STM1504	hypothetical protein
+STM1505	bifunctional D-altronate/D-mannonate dehydratase
+STM1506	Zn-dependent oxidoreductase
+STM1507	putative transport protein
+STM1508	D-mannonate oxidoreductase
+STM1509	selenoprotein YdfZ
+STM1510	GntR family transcriptional regulator
+STM1511	NADP-dependent 3-hydroxy acid dehydrogenase
+STM1512	dipeptidyl carboxypeptidase II
+STM1513	stress-induced acidophilic repeat motif-containing protein
+STM1514	competence protein ComA
+STM1515	TIGR00156 family protein
+STM1516	transporter
+STM1517	putative permease, integral membrane protein
+STM1518	multiple antibiotic resistance regulatory periplasmic protein MarB
+STM1519	AraC/XylS family transcriptional activator of defense systems
+STM1520	transcriptional regulator
+STM1521	stress protection protein MarC
+STM1522	sugar transporter
+STM1523	putative LysR family transcriptional regulator
+STM1524	putative succinate-semialdehyde dehydrogenase
+STM1525	putative glutaminase
+STM1526	DUF4186 domain-containing protein
+STM1527	putative inner membrane protein
+STM1528	DUF4440 domain-containing protein
+STM1529	putative inner membrane protein
+STM1530	phosphoporin PhoE
+STM1531	hydrogenase maturation nickel metallochaperone HypA
+STM1532	ATP/GTP-binding protein
+STM1533	hydrogenase-1 operon protein HyaF2
+STM1534	putative hydrogenase
+STM1535	hydrogenase formation protein
+STM1536	hydrogenase expression/formation protein
+STM1537	Ni/Fe-hydrogenase, b-type cytochrome subunit
+STM1538	putative hydrogenase-1 large subunit
+STM1539	putative hydrogenase-1 small subunit
+STM1540	putative hydrolase
+STM1541	putative gntR family regulatory protein
+STM1542	alcohol dehydrogenase
+STM1543	MFS transporter
+STM1544	PhoPQ-regulated protein
+STM1545	MFS transporter
+STM1546	hypothetical protein
+STM1547	MarR family transcriptional regulator
+STM1548	putative S-adenosylmethionine:tRNA-ribosyltransferase-isomerase
+STM1549	hypothetical protein
+STM1550	addiction module toxin RelE
+STM1551	plasmid stabilization protein
+STM1552	putative cytoplasmic protein
+STM1554	putative coiled-coil protein
+STM1555	putative transcriptional regulator
+STM1556	Na+/H+ antiporter NhaC
+STM1557	putative aminotransferase
+STM1558	glycogen debranching enzyme GlgX
+STM1559	malto-oligosyltrehalose synthase
+STM1560	malto-oligosyltrehalose trehalohydrolase
+STM1561	hypothetical protein
+STM1562	acid-resistance protein
+STM1563	OsmC family peroxiredoxin
+STM1564	biofilm-dependent modulation protein
+STM1565	30S ribosomal subunit S22
+STM1566	NAD-dependent malic enzyme
+STM1567	alcohol dehydrogenase AdhP
+STM1568	formate dehydrogenase subunit gamma
+STM1569	formate dehydrogenase subunit beta
+STM1570	putative molybdopterin oxidoreductases
+STM1571	putative permease
+STM1572	phosphoporin PhoE
+STM1573	putative cytoplasmic protein
+STM1574	MFS transporter
+STM1575	TetR family transcriptional regulator
+STM1576	nitrate/nitrite transporter NarU
+STM1577	nitrate reductase subunit alpha
+STM1578	nitrate reductase subunit beta
+STM1579	nitrate reductase molybdenum cofactor assembly chaperone
+STM1580	respiratory nitrate reductase subunit gamma
+STM1581	hypothetical protein
+STM1582	N-hydroxyarylamine O-acetyltransferase
+STM1583	effector protein steA
+STM1584	amino acid permease
+STM1585	DUF903 domain-containing protein
+STM1586	hypothetical protein
+STM1587	TonB-dependent receptor
+STM1588	colanic acid/biofilm transcriptional regulator
+STM1589	putative NADP-dependent oxidoreductase
+STM1590	GNAT family N-acetyltransferase
+STM1591	hypothetical protein
+STM1592	hypothetical protein
+STM1593	ssrAB-activated protein
+STM1594	virulence factor SrfB
+STM1595	virulence factor SrfC
+STM1596	putative inner membrane protein
+STM1597	putative aldehyde dehydrogenase
+STM1598	GntR family transcriptional regulator
+STM1599	D-alanyl-D-alanine dipeptidase
+STM1600	hypothetical protein
+STM1601	D-alanyl-D-alanine dipeptidase
+STM1602	effector protein SifB
+STM1603	hypothetical protein
+STM1604	protease
+STM1605	XRE family transcriptional regulator
+STM1606	benzoate transporter
+STM1607	hypothetical protein
+STM1608	tellurite resistance methyltransferase TehB
+STM1609	dicarboxylate transporter/tellurite-resistance protein TehA
+STM1610	hypothetical protein
+STM1611	ribosomal protein L7/L12-serine acetyltransferase
+STM1612	aminopeptidase
+STM1613	PTS sugar transporter subunit IIB
+STM1614	PTS sugar transporter subunit IIC
+STM1615	hypothetical protein
+STM1616	PTS sugar transporter subunit IIA
+STM1617	epimerase
+STM1618	transcriptional regulator
+STM1619	aminoglycoside 6'-acetyltransferase
+STM1620	lactate oxidase
+STM1621	putative periplasmic protein
+STM1622	glucan biosynthesis protein D
+STM1623	putative carboxylesterase
+STM1624	DUF1338 domain-containing protein
+STM1625	putative LysR family transcriptional regulator
+STM1626	methyl-accepting chemotaxis protein
+STM1627	S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+STM1628	hypothetical protein
+STM1629	putative dipicolinate reductase
+STM1630	hypothetical protein
+STM1631	pathogenicity island 2 effector protein SseJ
+STM1632	cyanate transporter
+STM1633	amino acid-binding protein
+STM1634	amino acid ABC transporter ATP-binding protein
+STM1635	amino acid ABC transporter ATP-binding protein
+STM1636	amino acid ABC transporter permease
+STM1637	hypothetical protein
+STM1638	putative SAM-dependent methyltransferase
+STM1639	cytochrome B
+STM1640	hypothetical protein
+STM1641	ATP-dependent RNA helicase HrpA
+STM1642	FMN-dependent NADH-azoreductase
+STM1643	aldehyde-activating protein
+STM1644	hypothetical protein
+STM1645	YnbE family lipoprotein
+STM1646	hypothetical protein
+STM1647	2-hydroxyacid dehydrogenase
+STM1648	heat shock protein hslJ
+STM1649	putative cytoplasmic protein
+STM1650	putative reverse transcriptase
+STM1651	putative pyruvate-flavodoxin oxidoreductase
+STM1652	universal stress protein F
+STM1653	cation transporter
+STM1654	tRNA 2-thiocytidine(32) synthetase TtcA
+STM1655	ATP-dependent RNA helicase DbpA
+STM1656	zinc transporter ZntB
+STM1657	chemoreceptor protein
+STM1658	DNA endonuclease
+STM1659	methylated-DNA--protein-cysteine methyltransferase
+STM1660	transcriptional regulator
+STM1661	universal stress protein UspE
+STM1662	hypothetical protein
+STM1663	mechanosensitive ion channel protein MscS
+STM1664	XRE family transcriptional regulator
+STM1665	hypothetical protein
+STM1667	putative thiol peroxidase
+STM1668	putative outer membrane or exported protein
+STM1669	invasin
+STM1670	hypothetical protein
+STM1671	putative bacterial regulatory helix-turn-helix protein, araC family
+STM1672	hypothetical protein
+STM1673	putative outer membrane lipoprotein
+STM1674	TetR family transcriptional regulator
+STM1675	oxidoreductase
+STM1676	aldo/keto reductase
+STM1677	putative LysR family transcriptional regulator
+STM1678	aromatic alcohol reductase
+STM1679	oligopeptide ABC transporter substrate-binding protein OppA
+STM1680	murein peptide amidase A
+STM1681	L-Ala-D/L-Glu epimerase
+STM1682	lipid hydroperoxide peroxidase
+STM1683	DNA-binding transcriptional regulator TyrR
+STM1684	TIGR01620 family protein
+STM1685	putative ATPase
+STM1686	thiosulfate sulfurtransferase PspE
+STM1687	phage shock protein D
+STM1688	DNA-binding transcriptional activator PspC
+STM1689	phage shock protein B
+STM1690	phage shock protein PspA
+STM1691	phage shock protein operon transcriptional activator
+STM1692	peptide ABC transporter substrate-binding protein SapA
+STM1693	antimicrobial peptide ABC transporter permease SapB
+STM1694	antimicrobial peptide ABC transporter permease SapC
+STM1695	peptide ABC transporter ATP-binding protein
+STM1696	peptide ABC transporter ATP-binding protein
+STM1697	putative diguanylate cyclase/phosphodiesterase domain 2
+STM1698	secreted effector kinase SteC
+STM1698A	hypothetical protein
+STM1699	putative cytoplasmic protein
+STM1700	enoyl-[acyl-carrier-protein
+STM1701	putative cytoplasmic protein
+STM1702	exoribonuclease II
+STM1703	putative PAS/PAC domain protein
+STM1704	DeoR family transcriptional regulator
+STM1705	osmotically inducible lipoprotein
+STM1706	translation initiation factor
+STM1707	orotidine-5'-phosphate decarboxylase
+STM1708	lipopolysaccharide assembly protein LapB
+STM1709	hypothetical protein
+STM1710	phosphatidylglycerophosphatase B
+STM1711	GTP cyclohydrolase II
+STM1712	aconitate hydratase 1
+STM1713	transcriptional regulator CysB
+STM1714	DNA topoisomerase I
+STM1715	hypothetical protein
+STM1716	protease SohB
+STM1717	YciK family oxidoreductase
+STM1718	cob(I)yrinic acid a,c-diamide adenosyltransferase
+STM1719	23S rRNA pseudouridylate synthase
+STM1720	hypothetical protein
+STM1721	phosphatase
+STM1722	trp operon leader peptide
+STM1723	anthranilate synthase subunit I
+STM1724	bifunctional glutamine amidotransferase/anthranilate phosphoribosyltransferase
+STM1725	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+STM1726	tryptophan synthase subunit beta
+STM1727	tryptophan synthase subunit alpha
+STM1728	hypothetical protein
+STM1729	hypothetical protein
+STM1730	hypothetical protein
+STM1731	Mn-containing catalase
+STM1732	outer membrane protein OmpW
+STM1733	hypothetical protein
+STM1734	hypothetical protein
+STM1735	septation protein A
+STM1736	acyl-CoA esterase
+STM1737	transporter TonB
+STM1738	hypothetical protein
+STM1739	cardiolipin synthase
+STM1740	dsDNA-mimic protein
+STM1741	transporter
+STM1742	oligopeptide ABC transporter ATP-binding protein OppF
+STM1743	oligopeptide ABC transporter ATP-binding protein OppD
+STM1744	peptide ABC transporter permease
+STM1745	oligopeptide transporter permease
+STM1746	oligopeptide transport protein with chaperone properties
+STM1747	hypothetical protein
+STM1748	hypothetical protein
+STM1749	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+STM1750	thymidine kinase
+STM1751	transcriptional regulator
+STM1752	UTP--glucose-1-phosphate uridylyltransferase
+STM1753	two-component system response regulator RssB
+STM1754	hypothetical protein
+STM1755	hypothetical protein
+STM1756	formyltetrahydrofolate deformylase
+STM1760	hypothetical protein
+STM1761	respiratory nitrate reductase subunit gamma
+STM1762	nitrate reductase molybdenum cofactor assembly chaperone
+STM1763	nitrate reductase subunit beta
+STM1764	nitrate reductase subunit alpha
+STM1765	nitrate/nitrite transporter
+STM1766	two-component system sensor histidine kinase NarX
+STM1767	two-component system response regulator NarL
+STM1768	putative invasin
+STM1769	hypothetical protein
+STM1770	cation transport regulator
+STM1771	sodium-potassium/proton antiporter ChaA
+STM1772	3-deoxy-8-phosphooctulonate synthase
+STM1773	hypothetical protein
+STM1774	hypothetical protein
+STM1775	release factor-specific protein-(glutamine-N5) methyltransferase
+STM1776	peptide chain release factor 1
+STM1777	glutamyl-tRNA reductase
+STM1778	lipoprotein localization factor LolB
+STM1779	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+STM1780	ribose-phosphate pyrophosphokinase
+STM1781	putative SulP family transport protein
+STM1782	hypothetical protein
+STM1783	peptidyl-tRNA hydrolase
+STM1784	redox-regulated ATPase YchF
+STM1785	hypothetical protein
+STM1786	[Ni/Fe
+STM1787	[Ni/Fe
+STM1788	Ni/Fe-hydrogenase b-type cytochrome subunit
+STM1789	hydrogenase expression/formation protein
+STM1790	hydrogenase-1 operon protein HyaE
+STM1791	hydrogenase expression/formation protein
+STM1792	cytochrome d terminal oxidase subunit I
+STM1793	cytochrome d ubiquinol oxidase subunit II
+STM1794	YbgT family membrane protein
+STM1795	putative homolog of glutamic dehydrogenase
+STM1796	alpha,alpha-trehalase
+STM1797	hypothetical protein
+STM1798	flagellar brake protein
+STM1799	lytic murein transglycosylase
+STM1800	muramoyltetrapeptide carboxypeptidase
+STM1801	K+/H+ antiporter
+STM1802	alanine racemase
+STM1803	D-amino acid dehydrogenase small subunit
+STM1804	SpoVR family protein
+STM1805	fatty acid metabolism regulator
+STM1806	Na+/H+ antiporter NhaB
+STM1807	disulfide bond formation protein B
+STM1808	hypothetical protein
+STM1809	GnsA/GnsB family toxin
+STM1810	hypothetical protein
+STM1811	putative cytoplasmic protein
+STM1812	isomerase/hydrolase
+STM1813	putative cytoplasmic protein
+STM1814	septum site-determining protein MinC
+STM1815	septum site-determining protein MinD
+STM1816	cell division topological specificity factor MinE
+STM1817	RNase D
+STM1818	long-chain-fatty-acid--CoA ligase
+STM1819	hypothetical protein
+STM1820	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB
+STM1821	ATP-dependent helicase
+STM1822	hypothetical protein
+STM1823	hypothetical protein
+STM1824	p-aminobenzoate synthetase, component I
+STM1825	CoA pyrophosphatase
+STM1826	L-serine ammonia-lyase
+STM1827	putative diguanylate cyclase/phosphodiesterase
+STM1828	hypothetical protein
+STM1829	putative cytoplasmic protein
+STM1830	PTS mannose transporter subunit IIAB
+STM1831	PTS mannose/fructose/sorbose transporter subunit IIC
+STM1832	mannose-specific enzyme IID
+STM1833	hypothetical protein
+STM1834	putative YebN family transport protein
+STM1835	23S rRNA (guanine(745)-N(1))-methyltransferase
+STM1836	peptidoglycan synthase
+STM1837	cold-shock protein
+STM1838	DUF2627 domain-containing protein
+STM1839	hypothetical protein
+STM1840	PhoP regulon feedback inhibition protein MgrB
+STM1841	hypothetical protein
+STM1842	DNA-binding transcriptional regulator KdgR
+STM1843	MFS transporter
+STM1844	zinc metalloprotease HtpX
+STM1845	C-terminal processing peptidase
+STM1846	RNA chaperone ProQ
+STM1847	putative GAF domain-containing protein
+STM1848	hypothetical protein
+STM1849	putative inner membrane protein
+STM1850	16S rRNA (cytosine(1407)-C(5))-methyltransferase RsmF
+STM1851	hypothetical protein
+STM1852	hypothetical protein
+STM1853	serine/threonine-protein phosphatase
+STM1854	hypothetical protein
+STM1855	type III secretion protein SopE2
+STM1856	hypothetical protein
+STM1857	N-acetyltransferase
+STM1858	putative cytoplasmic protein
+STM1859	hypothetical protein
+STM1860	putative transposase
+STM1861	integrase
+STM1862	EamA family transporter
+STM1863	putative inner membrane protein
+STM1864	disulfide bond formation protein B
+STM1865	putative cytoplasmic protein
+STM1867	phage virulence factor
+STM1868	phage tail protein
+STM1868A	lytic enzyme
+STM1869	hypothetical protein
+STM1869A	hypothetical protein
+STM1870	recE-like protein
+STM1871	putative phage integrase protein
+STM1872	putative cytoplasmic protein
+STM1873	hypothetical protein
+STM1874	putative inner membrane protein
+STM1875	hypothetical protein
+STM1876	DNA polymerase III subunit theta
+STM1877	carbon-nitrogen hydrolase
+STM1878	exodeoxyribonuclease X
+STM1879	oligopeptidase B
+STM1880	hypothetical protein
+STM1881	hypothetical protein
+STM1882	damage-inducible protein YebG
+STM1883	phosphoribosylglycinamide formyltransferase 2
+STM1884	keto-deoxy-phosphogluconate aldolase
+STM1885	phosphogluconate dehydratase
+STM1886	glucose-6-phosphate dehydrogenase
+STM1887	transcriptional regulator HexR
+STM1888	pyruvate kinase
+STM1889	lipid A biosynthesis (KDO)2-(lauroyl)-lipid IVA acyltransferase
+STM1890	murein DD-endopeptidase MepM
+STM1891	ABC superfamily high affinity Zn transport protein
+STM1892	ABC superfamily high affinity Zn transport protein
+STM1893	zinc ABC transporter permease
+STM1894	Holliday junction DNA helicase RuvB
+STM1895	Holliday junction DNA helicase RuvA
+STM1896	putative cytoplasmic protein
+STM1897	hypothetical protein
+STM1898	crossover junction endodeoxyribonuclease RuvC
+STM1899	hypothetical protein
+STM1900	dihydroneopterin triphosphate diphosphatase
+STM1901	aspartate--tRNA ligase
+STM1902	hydrolase
+STM1903	hypothetical protein
+STM1904	hypothetical protein
+STM1905	carboxy-S-adenosyl-L-methionine synthase CmoA
+STM1906	tRNA 5-methoxyuridine(34)/uridine 5-oxyacetic acid(34) synthase CmoB
+STM1907	copper homeostasis protein CutC
+STM1908	metalloprotein
+STM1909	arginine--tRNA ligase
+STM1910	penicillin-binding protein 2
+STM1911	glycoside hydrolase 105 family protein
+STM1912	flagellar protein FlhE
+STM1913	flagellar biosynthesis protein FlhA
+STM1914	flagellar biosynthesis protein FlhB
+STM1915	protein phosphatase CheZ
+STM1916	two-component system response regulator
+STM1917	chemotaxis response regulator protein-glutamate methylesterase
+STM1918	chemotaxis protein-glutamate O-methyltransferase
+STM1919	methyl-accepting chemotaxis protein II
+STM1920	chemotaxis protein CheW
+STM1921	sensory histitine protein kinase
+STM1922	flagellar motor protein MotB
+STM1923	flagellar motor stator protein MotA
+STM1924	regulator of flagellar biosynthesis
+STM1925	regulator of flagellar biosynthesis
+STM1926	hypothetical protein
+STM1927	universal stress protein UspC
+STM1928	alpha,alpha-trehalose-phosphate synthase
+STM1929	trehalose-phosphatase
+STM1931	DJ-1 family protein
+STM1932	ferritin
+STM1933	hypothetical protein
+STM1934	hypothetical protein
+STM1935	ferritin
+STM1936	hypothetical protein
+STM1937	tyrosine transporter TyrP
+STM1938	hypothetical protein
+STM1939	putative glucose-6-phosphate dehydrogenase
+STM1940	putative cell wall-associated hydrolase
+STM1941	hypothetical protein
+STM1945	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+STM1946	excinuclease ABC subunit C
+STM1947	two-component system response regulator UvrY
+STM1948	hypothetical protein
+STM1949	hypothetical protein
+STM1950	transcriptional regulator SdiA
+STM1951	L-cystine ABC transporter ATP-binding protein YecC
+STM1952	amino acid ABC transporter permease
+STM1953	D-cysteine desulfhydrase
+STM1954	cystine ABC transporter substrate-binding protein
+STM1955	flagellar regulatory protein FliZ
+STM1956	RNA polymerase sigma factor FliA
+STM1957	IS200 family transposase
+STM1958	lysine-N-methylase
+STM1959	flagellin
+STM1960	flagellar filament-capping protein FliD
+STM1961	flagellar export chaperone FliS
+STM1962	flagellar biosynthesis protein FliT
+STM1963	alpha-amylase
+STM1964	hypothetical protein
+STM1965	putative membrane component of transport system
+STM1966	hypothetical protein
+STM1967	putative 50S ribosomal protein
+STM1968	flagellar hook-basal body complex protein FliE
+STM1969	flagellar M-ring protein FliF
+STM1970	flagellar motor switch protein FliG
+STM1971	flagellar assembly protein FliH
+STM1972	flagellum-specific ATP synthase FliI
+STM1973	flagellar biosynthesis chaperone FliJ
+STM1974	flagellar hook-length control protein FliK
+STM1975	flagellar basal body-associated protein FliL
+STM1976	flagellar motor switch protein FliM
+STM1977	flagellar motor switch protein FliN
+STM1978	flagellar biosynthesis protein
+STM1979	flagellar biosynthetic protein FliP
+STM1980	flagellar export apparatus protein FliQ
+STM1981	flagellar biosynthetic protein FliR
+STM1982	helix-turn-helix transcriptional regulator
+STM1984	hypothetical protein
+STM1986	mannosyl-3-phosphoglycerate phosphatase
+STM1987	diguanylate cyclase
+STM1988	putative cytoplasmic protein
+STM1989	hypothetical protein
+STM1990	drug/metabolite exporter YedA
+STM1991	very short patch repair endonuclease
+STM1992	DNA (cytosine-5-)-methyltransferase
+STM1993	phosphohydrolase
+STM1994	putative inner membrane protein
+STM1995	putative porin
+STM1996	putative cold-shock protein
+STM1997	DNA polymerase V subunit UmuC
+STM1998	DNA polymerase V subunit UmuD
+STM1999	hypothetical protein
+STM2001	hypothetical protein
+STM2005	peptidase
+STM2006	hypothetical protein
+STM2007	putative TPR repeat protein
+STM2008	hypothetical protein
+STM2009	AMP nucleosidase
+STM2010	hypothetical protein
+STM2011	hypothetical protein
+STM2013	FMN/FAD transporter
+STM2015	L,D-transpeptidase
+STM2016	nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+STM2017	adenosylcobinamide-GDP ribazoletransferase
+STM2018	bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase
+STM2019	synthesis of vitamin B12 adenosyl cobalamide precursor
+STM2020	energy-coupling factor ABC transporter ATP-binding protein
+STM2021	cobalt ECF transporter T component CbiQ
+STM2022	cobalt ABC transporter substrate-binding protein CbiN
+STM2023	cobalamin biosynthesis protein CbiM
+STM2024	precorrin-2 C(20)-methyltransferase
+STM2025	sirohydrochlorin cobaltochelatase
+STM2026	cobalt-precorrin-6A reductase
+STM2027	precorrin-3B C(17)-methyltransferase
+STM2028	cobalamin biosynthesis protein CbiG
+STM2029	precorrin-4 C(11)-methyltransferase
+STM2030	precorrin-6Y C5,15-methyltransferase (decarboxylating) subunit CbiT
+STM2031	precorrin-6y C5,15-methyltransferase (decarboxylating) subunit CbiE
+STM2032	cobalt-precorrin-5B (C(1))-methyltransferase
+STM2033	precorrin-8X methylmutase
+STM2034	adenosylcobinamide-phosphate synthase
+STM2035	cobyrinic acid a,c-diamide synthase
+STM2036	hypothetical protein
+STM2037	aquaporin
+STM2038	propanediol utilization protein
+STM2039	propanediol utilization protein
+STM2040	propanediol dehydratase
+STM2041	propanediol dehydratase
+STM2042	propanediol dehydratase
+STM2043	diol dehydratase reactivase subunit alpha
+STM2044	propanediol dehydratase
+STM2045	ethanolamine utilization protein EutM
+STM2046	propanediol utilization protein
+STM2047	propanediol utilization protein
+STM2048	microcompartment protein PduM
+STM2049	ethanolamine utilization protein EutN
+STM2050	ATP:cob(I)alamin adenosyltransferase
+STM2051	aldehyde dehydrogenase EutE
+STM2052	propanediol utilization protein
+STM2053	NADH dehydrogenase
+STM2054	propanediol utilization protein
+STM2055	propanediol utilization protein
+STM2056	ethanolamine utilization protein EutP
+STM2057	acetate kinase
+STM2058	GHMP kinase
+STM2059	hypothetical protein
+STM2060	hypothetical protein
+STM2061	DNA gyrase inhibitor
+STM2062	serine-type D-Ala-D-Ala carboxypeptidase
+STM2063	thiosulfate reductase cytochrome subunit B
+STM2064	thiosulfate reductase electron transport protein PhsB
+STM2065	thiosulfate reductase PhsA
+STM2066	E3 ubiquitin--protein ligase
+STM2067	exodeoxyribonuclease I
+STM2068	putative APC family amino acid transport protein
+STM2069	putative LysR family transcriptional regulator
+STM2070	NAD(P)-dependent oxidoreductase
+STM2071	ATP phosphoribosyltransferase
+STM2072	histidinol dehydrogenase
+STM2073	histidinol-phosphate transaminase
+STM2074	bifunctional imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+STM2075	glutamine amidotransferase
+STM2076	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino
+STM2077	imidazole glycerol phosphate synthase subunit HisF
+STM2078	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase
+STM2079	LPS O-antigen chain length determinant protein WzzB
+STM2080	UDP-glucose 6-dehydrogenase
+STM2081	phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)
+STM2082	UDP-phosphate galactose phosphotransferase
+STM2083	phosphomannomutase
+STM2084	mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+STM2085	rhamnosyltransferase
+STM2086	mannosyl transferase
+STM2087	abequosyltransferase
+STM2088	putative O-antigen transferase
+STM2089	CDP-abequose synthase
+STM2090	lipopolysaccharide biosynthesis protein RfbH
+STM2091	CDP-glucose 4,6-dehydratase
+STM2092	glucose-1-phosphate cytidylyltransferase
+STM2093	CDP-6-deoxy-delta-3,4-glucoseen reductase
+STM2094	dTDP-4,deoxyrhamnose 3,5 epimerase
+STM2095	glucose-1-phosphate thymidylyltransferase
+STM2096	dTDP-4-dehydrorhamnose reductase
+STM2097	dTDP-glucose 4,6-dehydratase
+STM2098	GalU regulator GalF
+STM2099	colanic acid biosynthesis protein WcaM
+STM2100	colanic acid biosynthesis glycosyltransferase WcaL
+STM2101	colanic acid biosynthesis pyruvyl transferase WcaK
+STM2102	colanic acid exporter
+STM2103	undecaprenyl-phosphate glucose phosphotransferase
+STM2104	phosphomannomutase
+STM2105	mannose-1-phosphate
+STM2106	putative glycosyl transferase
+STM2107	GDP-mannose mannosyl hydrolase
+STM2108	GDP-fucose synthetase
+STM2109	GDP-mannose 4,6-dehydratase
+STM2110	colanic acid biosynthesis acetyltransferase WcaF
+STM2111	colanic acid biosynthesis glycosyltransferase WcaE
+STM2112	colanic acid polymerase WcaD
+STM2113	colanic acid biosynthesis glycosyltransferase WcaC
+STM2114	colanic acid biosynthesis acetyltransferase WcaB
+STM2115	colanic acid biosynthesis glycosyltransferase WcaA
+STM2116	putative tyrosine-protein kinase
+STM2117	protein tyrosine phosphatase
+STM2118	polysaccharide exporter Wza
+STM2119	hypothetical protein
+STM2120	outer membrane assembly protein AsmA
+STM2121	dCTP deaminase
+STM2122	uridine kinase
+STM2123	diguanylate cyclase
+STM2124	DNA-3-methyladenine glycosylase 2
+STM2125	molecular chaperone
+STM2126	multidrug transporter subunit MdtA
+STM2127	multidrug transporter subunit MdtB
+STM2128	multidrug transporter subunit MdtC
+STM2129	multidrug transporter subunit MdtD
+STM2130	two-component system sensor histidine kinase BaeA
+STM2131	two-component system response regulator BaeR
+STM2133	putative cytoplasmic protein
+STM2134	hypothetical protein
+STM2135	hypothetical protein
+STM2136	U32 family peptidase
+STM2137	putative cytoplasmic protein
+STM2138	Tir chaperone family protein
+STM2139	hypothetical protein
+STM2140	lipid kinase YegS
+STM2141	class I fructose-bisphosphate aldolase
+STM2142	MFS transporter
+STM2143	hypothetical protein
+STM2144	putative sugar kinase
+STM2145	GntR family transcriptional regulator
+STM2146	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+STM2147	hydroxyethylthiazole kinase
+STM2148	heavy metal resistance protein
+STM2149	adhesin
+STM2150	fimbrial assembly protein
+STM2151	putative periplasmic chaperone protein
+STM2152	fimbrial chaperone protein
+STM2153	hypothetical protein
+STM2154	Fe-S-binding ATPase
+STM2155	methionine--tRNA ligase
+STM2156	hypothetical protein
+STM2156A	hypothetical protein
+STM2157	hypothetical protein
+STM2158	two-component system response regulator YehT
+STM2159	sensor histidine kinase
+STM2160	transcriptional regulator
+STM2161	hypothetical protein
+STM2162	ABC transporter permease
+STM2163	ABC transporter ATP-binding protein
+STM2164	ABC transporter permease
+STM2165	ABC transporter substrate-binding protein
+STM2166	beta-glucosidase
+STM2167	D-lactate dehydrogenase
+STM2168	D-alanyl-D-alanine endopeptidase
+STM2169	hypothetical protein
+STM2170	putative DedA family, membrane protein
+STM2171	SDR family oxidoreductase
+STM2172	multidrug transporter permease
+STM2173	hypothetical protein
+STM2174	tRNA dihydrouridine(16) synthase DusC
+STM2175	salicylate hydroxylase
+STM2176	maleylacetoacetate isomerase
+STM2177	5-carboxymethyl-2-hydroxymuconate isomerase
+STM2178	gentisate 1,2-dioxygenase
+STM2179	4-hydroxybenzoate transporter
+STM2180	transcriptional regulator
+STM2181	hypothetical protein
+STM2182	CidB/LrgB family autolysis modulator
+STM2183	cytidine deaminase
+STM2184	vancomycin high temperature exclusion protein
+STM2185	putative inner membrane protein
+STM2186	dihydropyrimidine dehydrogenase subunit A
+STM2187	dihydropyrimidine dehydrogenase subunit B
+STM2188	galactoside ABC transporter permease MglC
+STM2189	galactose/methyl galactoside ABC transporter ATP-binding protein MglA
+STM2190	methyl-galactoside ABC transporter substrate-binding protein
+STM2191	DNA-binding transcriptional regulator GalS
+STM2192	hypothetical protein
+STM2193	GTP cyclohydrolase I FolE
+STM2194	S-formylglutathione hydrolase
+STM2195	putative transcriptional regulator
+STM2196	L-serine ammonia-lyase
+STM2197	phosphoserine phosphatase SerB
+STM2198	MFS transporter
+STM2199	catecholate siderophore receptor CirA
+STM2200	lysine transporter
+STM2201	putative LysR family transcriptional regulator
+STM2202	hypothetical protein
+STM2203	deoxyribonuclease IV
+STM2204	PTS fructose transporter subunit IIBC
+STM2205	1-phosphofructokinase
+STM2206	bifunctional PTS fructose transporter subunit IIA/HPr protein
+STM2207	sugar efflux transporter SetB
+STM2208	hypothetical protein
+STM2209	hypothetical protein
+STM2211	putative elongation factor
+STM2212	hypothetical protein
+STM2213	hypothetical protein
+STM2214	bifunctional murein DD-endopeptidase/murein LD-carboxypeptidase
+STM2215	phage resistance protein
+STM2216	ABC transporter substrate-binding protein
+STM2217	microcin C ABC transporter permease YejB
+STM2218	microcin ABC transporter permease
+STM2219	microcin C ABC transporter ATP-binding protein YejF
+STM2220	hypothetical protein
+STM2221	Bcr/CflA family drug resistance efflux transporter
+STM2222	16S rRNA pseudouridine(516) synthase
+STM2223	putative ATP-dependent helicase
+STM2224	50S ribosomal protein L25
+STM2225	hypothetical protein
+STM2226	nucleoid-associated protein YejK
+STM2227	hypothetical protein
+STM2228	hypothetical protein
+STM2230	putative peptidase
+STM2231	ssrB-regulated factor
+STM2232	acyltransferase
+STM2233	phage tail protein
+STM2234	phage tail protein
+STM2235	hypothetical protein
+STM2236	peptidase
+STM2237	lambda family phage holin
+STM2238	NTPase
+STM2239	hypothetical protein
+STM2240	hypothetical protein
+STM2241	E3 ubiquitin--protein ligase
+STM2242	putative tail fiber protein of phage
+STM2243	phage tail protein
+STM2244	virulence protein MsgA
+STM2245	putative outer membrane protein
+STM2246	DNA-binding response regulator
+STM2247	cytochrome c biogenesis protein CcmH
+STM2248	thiol:disulfide interchange protein
+STM2249	c-type cytochrome biogenesis protein CcmF
+STM2250	cytochrome c biogenesis protein CcmE
+STM2251	heme exporter CcmD
+STM2252	heme ABC transporter permease
+STM2253	heme exporter CcmB
+STM2254	heme ABC transporter ATP-binding protein CcmA
+STM2255	cytochrome c-type protein NapC
+STM2256	nitrate reductase
+STM2257	quinol dehydrogenase ferredoxin subunit NapH
+STM2258	ferredoxin-type protein NapG
+STM2259	nitrate reductase catalytic subunit
+STM2260	nitrate reductase
+STM2261	ferredoxin-type protein NapF
+STM2262	ecotin
+STM2263	multidrug ABC transporter permease/ATP-binding protein
+STM2264	alpha-ketoglutarate-dependent dioxygenase AlkB
+STM2265	bifunctional transcriptional regulator/O6-methylguanine-DNA methyltransferase
+STM2266	FAD:protein FMN transferase ApbE
+STM2267	porin OmpC
+STM2269	phosphotransferase RcsD
+STM2270	DNA-binding response regulator
+STM2271	two-component system sensor histidine kinase/response regulator
+STM2272	DNA gyrase subunit A
+STM2273	MR-MLE family protein
+STM2274	MFS transporter
+STM2275	putative gntR family regulatory protein
+STM2276	2-octaprenyl-6-hydroxy phenol methylase
+STM2277	ribonucleoside-diphosphate reductase subunit alpha
+STM2278	ribonucleotide-diphosphate reductase subunit beta
+STM2279	2Fe-2S ferredoxin
+STM2280	MFS transporter
+STM2281	transcriptional regulator
+STM2282	glycerophosphodiester phosphodiesterase
+STM2283	glycerol-3-phosphate transporter
+STM2284	sn-glycerol-3-phosphate dehydrogenase subunit A
+STM2285	anaerobic glycerol-3-phosphate dehydrogenase subunit B
+STM2286	sn-glycerol-3-phosphate dehydrogenase subunit C
+STM2287	putative cytoplasmic protein
+STM2288	putative cytoplasmic protein
+STM2289	2-keto-3-deoxy-L-rhamnonate aldolase
+STM2290	MFS transporter
+STM2291	putative galactonate dehydratase
+STM2292	IclR family transcriptional regulator
+STM2293	competence/damage-inducible protein A
+STM2294	putative inner membrane protein
+STM2295	nucleoside triphosphatase
+STM2296	histidine phosphatase family protein
+STM2297	putative DegT/DnrJ/EryC1/StrS family
+STM2298	undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+STM2299	bifunctional UDP-glucuronic acid oxidase/UDP-4-amino-4-deoxy-L-arabinose formyltransferase
+STM2300	4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase
+STM2301	4-amino-4-deoxy-L-arabinose lipid A transferase
+STM2302	4-amino-4-deoxy-L-arabinose-phospho-UDP flippase
+STM2303	4-amino-4-deoxy-L-arabinose-phospho-UDP flippase
+STM2304	signal transduction protein PmrD
+STM2305	o-succinylbenzoate--CoA ligase
+STM2306	o-succinylbenzoate synthase
+STM2307	1,4-dihydroxy-2-naphthoyl-CoA synthase
+STM2308	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+STM2309	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+STM2310	isochorismate synthase MenF
+STM2311	putative inner membrane protein
+STM2312	GNAT family N-acetyltransferase
+STM2313	ribonuclease Z
+STM2314	chemotaxis protein CheV
+STM2315	hypothetical protein
+STM2316	NADH dehydrogenase I chain N
+STM2317	NADH-quinone oxidoreductase subunit M
+STM2318	NADH-quinone oxidoreductase subunit L
+STM2319	NADH-quinone oxidoreductase subunit K
+STM2320	NADH:ubiquinone oxidoreductase subunit J
+STM2321	NADH-quinone oxidoreductase subunit I
+STM2322	NADH-quinone oxidoreductase subunit H
+STM2323	NADH dehydrogenase I chain G
+STM2324	NADH-quinone oxidoreductase subunit F
+STM2325	NADH-quinone oxidoreductase subunit E
+STM2326	NADH-quinone oxidoreductase subunit C/D
+STM2327	NADH dehydrogenase
+STM2328	NADH-quinone oxidoreductase subunit A
+STM2329	hypothetical protein
+STM2330	transcriptional regulator LrhA
+STM2331	aminotransferase
+STM2332	5'-deoxynucleotidase
+STM2333	SLC13 family permease
+STM2334	putative phosphatase
+STM2335	hypothetical protein
+STM2336	hypothetical protein
+STM2337	acetate kinase
+STM2338	phosphate acetyltransferase
+STM2339	hypothetical protein
+STM2340	putative transketolase
+STM2341	putative transketolase
+STM2342	PTS ascorbate transporter subunit IIC
+STM2343	PTS mannitol transporter subunit IIB
+STM2344	PTS ascorbate transporter subunit IIA
+STM2345	LacI family transcriptional regulator
+STM2346	NUDIX hydrolase
+STM2347	YfcE family phosphodiesterase
+STM2348	glutathione S-transferase
+STM2349	thiol:disulfide oxidoreductase
+STM2350	TIGR01777 family protein
+STM2351	histidine and lysine/arginine/ornithine transport protein
+STM2352	amino acid ABC transporter permease
+STM2353	amino acid ABC transporter permease
+STM2354	histidine ABC transporter substrate-binding protein HisJ
+STM2355	histidine ABC transporter substrate-binding protein HisJ
+STM2356	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+STM2357	amino acid permease
+STM2358	amino-acid racemase
+STM2359	putative amino acid transporter
+STM2360	putative diaminopimelate decarboxylase
+STM2361	sigma-54-dependent Fis family transcriptional regulator
+STM2362	amidophosphoribosyltransferase
+STM2363	colicin V production protein
+STM2364	cell division protein DedD
+STM2365	bifunctional tetrahydrofolate synthase/dihydrofolate synthase
+STM2366	acetyl-CoA carboxylase subunit beta
+STM2367	hypothetical protein
+STM2368	tRNA pseudouridine(38-40) synthase TruA
+STM2369	putative aspartate-semialdehyde dehydrogenase
+STM2370	4-phosphoerythronate dehydrogenase PdxB
+STM2371	flagella biosynthesis regulator
+STM2372	arabinose transporter
+STM2373	hypothetical protein
+STM2374	DNA-binding protein
+STM2375	hypothetical protein
+STM2376	hypothetical protein
+STM2377	hypothetical protein
+STM2378	beta-ketoacyl-[acyl-carrier-protein
+STM2379	putative peptidase
+STM2380	hypothetical protein
+STM2381	elongation factor P hydroxylase
+STM2382	hypothetical protein
+STM2383	penicillin-insensitive murein endopeptidase
+STM2384	chorismate synthase
+STM2385	ribosomal protein L3 N(5)-glutamine methyltransferase
+STM2386	hypothetical protein
+STM2387	phosphohistidine phosphatase SixA
+STM2388	multifunctional fatty acid oxidation complex subunit alpha
+STM2389	3-ketoacyl-CoA thiolase
+STM2390	hypothetical protein
+STM2391	transport of long-chain fatty acids
+STM2392	phospholipid-binding lipoprotein MlaA
+STM2393	hypothetical protein
+STM2395	hypothetical protein
+STM2396	transcriptional regulator
+STM2397	sensor histidine kinase
+STM2398	protein for signal transmission
+STM2399	MFS transporter
+STM2400	hypothetical protein
+STM2401	lipid A biosynthesis palmitoleoyl acyltransferase
+STM2402	alanine transaminase
+STM2403	glucokinase
+STM2404	ion channel protein
+STM2405	indolepyruvate decarboxylase
+STM2406	L-glyceraldehyde 3-phosphate reductase
+STM2407	hypothetical protein
+STM2408	divalent metal cation transporter
+STM2409	nucleoside permease
+STM2410	hypothetical protein
+STM2413	hypothetical protein
+STM2414	hypothetical protein
+STM2415	glutamate--tRNA ligase
+STM2420	LysR family transcriptional regulator
+STM2421	MFS transporter
+STM2422	purine-nucleoside phosphorylase
+STM2423	hypothetical protein
+STM2424	putative LysR family transcriptional regulator
+STM2425	hypothetical protein
+STM2426	putative cytoplasmic protein
+STM2427	DNA ligase (NAD(+)) LigA
+STM2428	cell division protein ZipA
+STM2429	sulfate transporter CysZ
+STM2430	cysteine synthase A
+STM2431	HPr family phosphocarrier
+STM2432	phosphoenolpyruvate--protein phosphotransferase
+STM2433	PTS glucose transporter subunit IIA
+STM2434	hypothetical protein
+STM2435	bifunctional pyridoxal kinase/hydroxymethylpyrimidine kinase
+STM2436	transcriptional regulator PtsJ
+STM2437	putative GMP synthase
+STM2438	putative periplasmic protein
+STM2439	hypothetical protein
+STM2440	cysteine synthase B
+STM2441	sulfate ABC transporter ATP-binding protein
+STM2442	sulfate ABC transporter permease subunit CysW
+STM2443	sulfate ABC transporter permease subunit CysT
+STM2444	thiosulfate transporter subunit
+STM2445	NAD(P)-dependent oxidoreductase
+STM2446	peroxidase
+STM2447	RpoE-regulated lipoprotein
+STM2448	hypothetical protein
+STM2449	putative acetyltransferase
+STM2450	N-acetylmuramoyl-l-alanine amidase I
+STM2451	coproporphyrinogen III oxidase
+STM2452	hypothetical protein
+STM2453	DUF1963 domain-containing protein
+STM2454	ethanolamine utilization protein EutR
+STM2455	ethanolamine utilization protein EutK
+STM2456	microcompartment protein EutL
+STM2457	ethanolamine ammonia-lyase small subunit
+STM2458	ethanolamine ammonia-lyase large subunit
+STM2459	ethanolamine utilization protein EutA
+STM2460	ethanolamine utilization protein EutH
+STM2461	alcohol dehydrogenase EutG
+STM2462	ethanolamine utilization protein EutJ
+STM2463	aldehyde dehydrogenase EutE
+STM2464	putative detox protein in ethanolamine utilization
+STM2465	ethanolamine utilization protein EutM
+STM2466	phosphate acetyltransferase
+STM2467	cobalamin adenosyltransferase
+STM2468	ethanolamine utilization protein EutQ
+STM2469	ethanolamine utilization protein EutP
+STM2470	ethanolamine utilization protein EutS
+STM2471	IS200 family transposase
+STM2472	NADP-dependent malic enzyme
+STM2473	transaldolase
+STM2474	transketolase
+STM2475	hypothetical protein
+STM2476	hypothetical protein
+STM2477	GDP-mannose pyrophosphatase NudK
+STM2478	penicillin-binding protein PBP4B
+STM2479	oxidoreductase FeS-binding subunit
+STM2480	two-component system sensor histidine kinase NarQ
+STM2481	aminoglycoside/multidrug transporter subunit AcrD
+STM2482	Spx/MgsR family transcriptional regulator
+STM2483	succinyl-diaminopimelate desuccinylase
+STM2484	hypothetical protein
+STM2485	tRNA cytosine(34) acetyltransferase TmcA
+STM2486	hypothetical protein
+STM2487	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+STM2488	outer membrane protein assembly factor BamC
+STM2489	4-hydroxy-tetrahydrodipicolinate synthase
+STM2490	transcriptional repressor of gcv operon
+STM2491	thioredoxin-dependent thiol peroxidase
+STM2492	putative glycerate kinase
+STM2493	AI-2E family transporter
+STM2494	hypothetical protein
+STM2495	putative arsenate reductase
+STM2496	DnaA regulatory inactivator Hda
+STM2497	uracil permease
+STM2498	uracil phosphoribosyltransferase
+STM2499	phosphoribosylformylglycinamidine cyclo-ligase
+STM2500	phosphoribosylglycinamide formyltransferase
+STM2501	RNA degradosome polyphosphate kinase
+STM2502	exopolyphosphatase
+STM2503	sensor domain-containing phosphodiesterase
+STM2504	hypothetical protein
+STM2505	putative inner membrane protein
+STM2506	DUF2633 domain-containing protein
+STM2507	putative inner membrane protein
+STM2508	putative cytoplasmic protein
+STM2509	hypothetical protein
+STM2510	glutamine-hydrolyzing GMP synthase
+STM2511	IMP dehydrogenase
+STM2512	exodeoxyribonuclease VII large subunit
+STM2513	C-terminal region of AIDA-like protein
+STM2514	hypothetical protein
+STM2515	hypothetical protein
+STM2516	hypothetical protein
+STM2517	intimin-like inverse autotransporter protein SinH
+STM2518	hypothetical protein
+STM2519	ribosome biogenesis GTPase Der
+STM2520	outer membrane protein assembly factor BamB
+STM2521	hypothetical protein
+STM2522	histidine--tRNA ligase
+STM2523	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+STM2524	helix-turn-helix domain-containing protein
+STM2525	bifunctional tRNA (adenosine(37)-C2)-methyltransferase TrmG/ribosomal RNA large subunit methyltransferase RlmN
+STM2526	nucleoside-diphosphate kinase
+STM2527	ferredoxin
+STM2528	dimethyl sulfoxide reductase
+STM2529	dimethylsulfoxide reductase subunit B
+STM2530	putative anaerobic dimethylsulfoxide reductase
+STM2531	penicillin-binding protein 1C
+STM2532	hypothetical protein
+STM2533	3-mercaptopyruvate sulfurtransferase
+STM2534	DUF5066 domain-containing protein
+STM2535	enhances serine sensitivity
+STM2536	aminopeptidase PepB
+STM2537	Fe-S assembly protein IscX
+STM2538	ISC system 2Fe-2S type ferredoxin
+STM2539	Fe-S protein assembly chaperone HscA
+STM2540	co-chaperone HscB
+STM2541	iron-sulfur cluster assembly protein IscA
+STM2542	Fe-S cluster assembly scaffold IscU
+STM2543	IscS subfamily cysteine desulfurase
+STM2544	Fe-S cluster assembly transcriptional regulator IscR
+STM2545	tRNA (cytosine(32)/uridine(32)-2'-O)-methyltransferase TrmJ
+STM2546	inositol monophosphatase
+STM2547	hypothetical protein
+STM2548	anaerobic sulfite reductase subunit A
+STM2549	anaerobic sulfite reductase subunit B
+STM2550	sulfite reductase subunit C
+STM2551	nickel transporter
+STM2552	hypothetical protein
+STM2553	stationary phase inducible protein CsiE
+STM2554	3-phenylpropionic acid transporter
+STM2555	serine hydroxymethyltransferase
+STM2556	nitric oxide dioxygenase
+STM2557	transcriptional regulator CadC
+STM2558	lysine:cadaverine antiporter
+STM2559	lysine decarboxylase LdcC
+STM2560	MFS transporter
+STM2561	transcriptional regulator
+STM2562	two-component system response regulator GlrR
+STM2563	putative transcriptional regulator of two-component regulator protein (EBP familiiy)
+STM2564	putative sensory kinase in regulatory system
+STM2565	phosphoribosylformylglycinamidine synthase
+STM2566	putative periplasmic protein
+STM2567	lytic transglycosylase F
+STM2568	tRNA adenosine(34) deaminase TadA
+STM2569	acid phosphatase AphA
+STM2570	PTS sugar transporter subunit IIC
+STM2571	N-acetylmuramic acid 6-phosphate etherase
+STM2572	hypothetical protein
+STM2573	2-dehydropantoate 2-reductase
+STM2574	MFS transporter
+STM2575	transcriptional regulator
+STM2576	putative ferredoxin
+STM2577	holo-ACP synthase
+STM2578	pyridoxine 5'-phosphate synthase
+STM2579	DNA repair protein RecO
+STM2580	GTPase Era
+STM2581	ribonuclease III
+STM2582	S26 family signal peptidase
+STM2583	elongation factor 4
+STM2584	type III secretion system protein
+STM2585	Gifsy-1 prophage protein
+STM2585A	Gifsy-1 prophage protein
+STM2586	Gifsy-1 prophage protein
+STM2587	Gifsy-1 prophage protein
+STM2588	Gifsy-1 prophage protein
+STM2589	Gifsy-1 prophage protein
+STM2590	Gifsy-1 prophage protein
+STM2591	Gifsy-1 prophage protein
+STM2592	Gifsy-1 prophage protein
+STM2593	Gifsy-1 prophage protein
+STM2594	Gifsy-1 prophage protein
+STM2595	Gifsy-1 prophage protein
+STM2596	Gifsy-1 prophage protein
+STM2597	Gifsy-1 prophage protein
+STM2598	Gifsy-1 prophage protein
+STM2599	Gifsy-1 prophage protein
+STM2600	hypothetical protein
+STM2601	Gifsy-1 prophage protein
+STM2602	Gifsy-1 prophage protein
+STM2603	Gifsy-1 prophage protein
+STM2604	Gifsy-1 prophage protein
+STM2605	Gifsy-1 prophage protein
+STM2606	Gifsy-1 prophage protein
+STM2607	Gifsy-1 prophage protein
+STM2608	Gifsy-1 prophage protein
+STM2609	Gifsy-1 prophage protein
+STM2610	Gifsy-1 prophage protein
+STM2611	Gifsy-1 prophage protein
+STM2612	Gifsy-1 prophage protein
+STM2613	Gifsy-1 prophage protein
+STM2614	Gifsy-1 prophage protein
+STM2616	hypothetical protein
+STM2617	Gifsy-1 prophage protein
+STM2618	Gifsy-1 prophage protein
+STM2619	Gifsy-1 prophage protein
+STM2620	Gifsy-1 prophage protein
+STM2621	Gifsy-1 prophage protein
+STM2622	Gifsy-1 prophage protein
+STM2623	Gifsy-1 prophage protein
+STM2624	Gifsy-1 prophage protein
+STM2625	Gifsy-1 prophage protein
+STM2626	Gifsy-1 prophage protein
+STM2627	Gifsy-1 prophage protein
+STM2628	Gifsy-1 prophage protein
+STM2629	Gifsy-1 prophage protein
+STM2630	Gifsy-1 prophage protein
+STM2631	Gifsy-1 prophage protein
+STM2632	Gifsy-1 prophage protein
+STM2633	Gifsy-1 prophage protein
+STM2634	hypothetical protein
+STM2635	Gifsy-1 prophage protein
+STM2636	Gifsy-1 prophage protein
+STM2637	SoxR reducing system protein RseC
+STM2638	sigma-E factor regulatory protein RseB
+STM2639	anti-sigma factor
+STM2640	RNA polymerase sigma factor RpoE
+STM2641	L-aspartate oxidase
+STM2642	tRNA (adenosine(37)-N6)-methyltransferase TrmM
+STM2643	ATP-dependent RNA helicase SrmB
+STM2644	putative LysR family transcriptional regulator
+STM2645	amino acid transporter
+STM2646	autonomous glycyl radical cofactor GrcA
+STM2647	uracil-DNA glycosylase
+STM2648	putative tRNA/rRNA methyltransferase
+STM2649	thioredoxin TrxC
+STM2650	DTW domain-containing protein
+STM2651	protein acetyltransferase
+STM2652	phosphatidylserine synthase
+STM2653	hypothetical protein
+STM2654	alpha-ketoglutarate transporter
+STM2655	hypothetical protein
+STM2660	ATP-dependent chaperone ClpB
+STM2661	hypothetical protein
+STM2662	23S rRNA pseudouridine(1911/1915/1917) synthase
+STM2663	outer membrane protein assembly factor BamD
+STM2665	ribosomal subunit interface protein
+STM2666	hypothetical protein
+STM2667	chorismate mutase
+STM2668	gluconolactonase
+STM2669	bifunctional chorismate mutase/prephenate dehydrogenase
+STM2670	3-deoxy-7-phosphoheptulonate synthase
+STM2671	hypothetical protein
+STM2672	diguanylate cyclase
+STM2673	50S ribosomal protein L19
+STM2674	tRNA (guanosine(37)-N1)-methyltransferase TrmD
+STM2675	ribosome maturation factor RimM
+STM2676	30S ribosomal protein S16
+STM2677	4.5S-RNP protein
+STM2678	hypothetical protein
+STM2679	magnesium/cobalt efflux protein
+STM2680	hypothetical protein
+STM2681	HSP-70 cofactor
+STM2682	putative cytoplasmic protein
+STM2683	NAD(+) kinase
+STM2684	DNA repair protein RecN
+STM2685	outer membrane protein assembly factor BamE
+STM2686	RnfH family protein
+STM2687	ubiquinone-binding protein
+STM2688	SsrA-binding protein
+STM2690	type I secretion protein TolC
+STM2691	putative ABC transporter transmembrane region
+STM2692	putative HlyD family secretion protein
+STM2694	Fels-2 prophage protein
+STM2695	Fels-2 prophage protein
+STM2696	Fels-2 prophage protein
+STM2697	Fels-2 prophage protein
+STM2698	Fels-2 prophage protein
+STM2699	Fels-2 prophage protein
+STM2700	Fels-2 prophage protein
+STM2701	Fels-2 prophage protein
+STM2702	Fels-2 prophage protein
+STM2703	Fels-2 prophage protein
+STM2704	Fels-2 prophage protein
+STM2705	Fels-2 prophage protein
+STM2706	Fels-2 prophage protein
+STM2707	Fels-2 prophage protein
+STM2708	Fels-2 prophage protein
+STM2709	Fels-2 prophage protein
+STM2710	Fels-2 prophage protein
+STM2711	Fels-2 prophage protein
+STM2712	Fels-2 prophage protein
+STM2713	Fels-2 prophage protein
+STM2714	Fels-2 prophage protein
+STM2715	Fels-2 prophage protein
+STM2716	Fels-2 prophage protein
+STM2717	Fels-2 prophage protein
+STM2718	Fels-2 prophage protein
+STM2719	Fels-2 prophage protein
+STM2720	Fels-2 prophage protein
+STM2721	Fels-2 prophage protein
+STM2722	Fels-2 prophage protein
+STM2723	Fels-2 prophage protein
+STM2724	Fels-2 prophage protein
+STM2726	Fels-2 prophage protein
+STM2727	Fels-2 prophage protein
+STM2728	Fels-2 prophage protein
+STM2729	Fels-2 prophage protein
+STM2730	Fels-2 prophage protein
+STM2731	Fels-2 prophage protein
+STM2732	Fels-2 prophage protein
+STM2733	Fels-2 prophage protein
+STM2734	Fels-2 prophage protein
+STM2735	Fels-2 prophage protein
+STM2736	Fels-2 prophage protein
+STM2737	Fels-2 prophage protein
+STM2738	Fels-2 prophage protein
+STM2739	Fels-2 prophage protein
+STM2740	Fels-2 prophage protein
+STM2741	putative periplasmic protein
+STM2742	putative cytoplasmic protein
+STM2743	putative cytoplasmic protein
+STM2744	AlpA family transcriptional regulator
+STM2745	hypothetical protein
+STM2746	putative excinuclease ATPase subunit
+STM2747	putative cytoplasmic protein
+STM2748	putative transcriptional regulator
+STM2749	transcriptional regulator
+STM2750	PTS sorbitol transporter subunit IIC
+STM2751	PTS sorbitol transporter
+STM2752	PTS sorbitol transporter subunit IIB
+STM2753	putative dehydrogenase
+STM2754	hexulose-6-phosphate synthase
+STM2755	3-hexulose-6-phosphate synthase
+STM2756	6-phospho 3-hexuloisomerase
+STM2757	hypothetical protein
+STM2758	PTS glucose transporter subunit IIABC
+STM2759	peptide ABC transporter substrate-binding protein
+STM2760	DNA-binding protein
+STM2761	hypothetical protein
+STM2762	putative inner membrane protein
+STM2763	putative integrase
+STM2764	putative integrase core domain protein
+STM2765	putative transposase
+STM2766	hypothetical protein
+STM2767	DNA helicase
+STM2770	phase 1 flagellin transcriptional repressor
+STM2771	flagellin
+STM2772	DNA-invertase
+STM2773	putative glycosyl transferase
+STM2774	multidrug ABC transporter ATP-binding protein
+STM2775	enterochelin esterase
+STM2776	hydrolase
+STM2777	TonB-dependent siderophore receptor protein
+STM2779	putative inner membrane protein
+STM2780	effector protein PipB
+STM2781	VirG localization protein VirK
+STM2782	antimicrobial resistance protein Mig-14
+STM2783	putative nickel transporter
+STM2784	histidine kinase
+STM2785	DNA-binding response regulator
+STM2786	tricarboxylic transporter
+STM2787	tricarboxylic transport protein
+STM2788	tripartite tricarboxylate transporter TctA
+STM2789	putative cytoplasmic protein
+STM2790	hydroxyglutarate oxidase
+STM2791	succinate-semialdehyde dehydrogenase I
+STM2792	4-aminobutyrate--2-oxoglutarate transaminase
+STM2793	GABA permease
+STM2794	transcriptional regulator
+STM2795	peptidoglycan-binding protein LysM
+STM2796	proteolipid membrane potential modulator
+STM2797	transcriptional regulator
+STM2798	hypothetical protein
+STM2799	DNA-binding protein
+STM2800	L-alanine exporter AlaE
+STM2801	hypothetical protein
+STM2802	putative inner membrane protein
+STM2803	DNA-binding transcriptional regulator
+STM2804	alkylhydroperoxidase
+STM2805	NrdH-redoxin
+STM2806	ribonucleotide reductase assembly protein NrdI
+STM2807	ribonucleotide-diphosphate reductase subunit alpha
+STM2808	class 1b ribonucleoside-diphosphate reductase subunit beta
+STM2809	glycine betaine/L-proline ABC transporter ATP-binding protein
+STM2810	proline/betaine ABC transporter permease ProW
+STM2811	glycine betaine ABC transporter substrate-binding protein
+STM2812	MFS transporter
+STM2813	transcriptional repressor MprA
+STM2814	multidrug export protein EmrA
+STM2815	MFS transporter
+STM2816	porin
+STM2817	S-ribosylhomocysteine lyase
+STM2818	glutamate--cysteine ligase
+STM2819	hypothetical protein
+STM2820	fructose-1-phosphate/6-phosphogluconate phosphatase
+STM2826	carbon storage regulator
+STM2827	alanine--tRNA ligase
+STM2828	recombination regulator RecX
+STM2829	recombinase RecA
+STM2830	hypothetical protein
+STM2831	murein transglycosylase B
+STM2832	PTS glucitol/sorbitol transporter subunit IIC
+STM2833	PTS glucitol/sorbitol transporter subunit IIB
+STM2834	PTS glucitol/sorbitol transporter subunit IIA
+STM2835	sorbitol-6-phosphate 2-dehydrogenase
+STM2836	transcriptional regulator GutM
+STM2837	glucitol operon transcriptional repressor
+STM2838	putative polysialic acid capsule expression protein
+STM2839	nitric oxide reductase transcription regulator
+STM2840	nitric oxide reductase
+STM2841	FAD-dependent oxidoreductase
+STM2842	carbamoyltransferase HypF
+STM2843	electron transporter HydN
+STM2844	hypothetical protein
+STM2845	hydrogenase maturation peptidase HycI
+STM2846	formate hydrogenlyase maturation protein HycH
+STM2847	formate hydrogenlyase
+STM2848	formate hydrogenlyase complex iron-sulfur subunit
+STM2849	hydrogenase 3 large subunit
+STM2850	hydrogenase 3 membrane subunit
+STM2851	formate hydrogenlyase subunit 3
+STM2852	formate hydrogenlyase subunit 2
+STM2853	transcriptional regulator
+STM2854	hydrogenase maturation nickel metallochaperone HypA
+STM2855	hydrogenase accessory protein HypB
+STM2856	hydrogenase assembly chaperone
+STM2857	putative hydrogenase expression/formation protein
+STM2858	putative hydrogenase expression/formation protein
+STM2859	transcriptional regulator FhlA
+STM2860	hypothetical protein
+STM2861	iron ABC transporter substrate-binding protein
+STM2862	manganese/iron transporter ATP-binding protein
+STM2863	iron ABC transporter permease
+STM2864	iron ABC transporter permease
+STM2865	putative inner membrane protein
+STM2866	transcriptional regulator
+STM2867	AraC family transcriptional regulator
+STM2868	type III secretion system effector protein OrgC
+STM2869	invasion protein OrgB
+STM2870	putative inner membrane protein
+STM2871	EscJ/YscJ/HrcJ family type III secretion inner membrane ring protein
+STM2872	type III secretion system protein PrgJ
+STM2873	EscF/YscF/HrpA family type III secretion system needle major subunit
+STM2874	type III secretion system protein PrgH
+STM2875	AraC family transcriptional regulator
+STM2876	transcriptional regulator
+STM2877	invasion protein IagB
+STM2878	pathogenicity island 1 effector protein StpP
+STM2879	chaperone protein SicP
+STM2880	putative cytoplasmic protein
+STM2881	putative acyl carrier protein
+STM2882	pathogenicity island 1 effector protein SipA
+STM2883	cell invasion protein SipD
+STM2884	pathogenicity island 1 effector protein SipC
+STM2885	pathogenicity island 1 effector protein SipB
+STM2886	CesD/SycD/LcrH family type III secretion system chaperone
+STM2887	EscU/YscU/HrcU family type III secretion system export apparatus switch protein
+STM2888	EscT/YscT/HrcT family type III secretion system export apparatus protein
+STM2889	EscS/YscS/HrcS family type III secretion system export apparatus protein
+STM2890	EscR/YscR/HrcR family type III secretion system export apparatus protein
+STM2891	type III secretion system protein SpaO
+STM2892	antigen presentation protein SpaN
+STM2893	type III secretion system protein SpaM
+STM2894	EscN/YscN/HrcN family type III secretion system ATPase
+STM2895	type III secretion system chaperone SpaK
+STM2896	EscV/YscV/HrcV family type III secretion system export apparatus protein
+STM2897	SepL/TyeA/HrpJ family type III secretion system gatekeeper
+STM2898	EscC/YscC/HrcC family type III secretion system outer membrane ring protein
+STM2899	invasion protein
+STM2900	invasion lipoprotein InvH
+STM2901	hypothetical protein
+STM2902	putative cytoplasmic protein
+STM2903	hypothetical protein
+STM2904	putative ABC-type transport system
+STM2905	GNAT family N-acetyltransferase
+STM2906	putative cytoplasmic protein
+STM2907	serine/threonine protein phosphatase
+STM2908	hypothetical protein
+STM2909	DNA mismatch repair protein MutS
+STM2910	DUF4440 domain-containing protein
+STM2911	MFS transporter
+STM2912	putative LysR family transcriptional regulator
+STM2913	gluconate permease
+STM2914	putative nucleoside-diphosphate-sugar epimerase
+STM2915	hypothetical protein
+STM2916	aldolase
+STM2917	hypothetical protein
+STM2918	3-hydroxyisobutyrate dehydrogenase
+STM2919	DeoR family transcriptional regulator
+STM2920	putative transcriptional regulator
+STM2921	phenolic acid decarboxylase
+STM2922	phenolic acid decarboxylase
+STM2923	hypothetical protein
+STM2924	RNA polymerase sigma factor RpoS
+STM2925	lipoprotein NlpD
+STM2926	protein-L-isoaspartate O-methyltransferase
+STM2927	5'/3'-nucleotidase SurE
+STM2928	tRNA pseudouridine(13) synthase TruD
+STM2929	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+STM2930	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+STM2931	cell division protein FtsB
+STM2932	putative inner membrane protein
+STM2933	adenylyl-sulfate kinase
+STM2934	sulfate adenylyltransferase subunit CysN
+STM2935	sulfate adenylyltransferase small subunit
+STM2936	aminopeptidase
+STM2937	putative inner membrane protein
+STM2938	subtype I-E CRISPR-associated endonuclease Cas1
+STM2939	type I-E CRISPR-associated protein Cas6/Cse3/CasE
+STM2940	type I-E CRISPR-associated protein Cas5/CasD
+STM2941	type I-E CRISPR-associated protein Cas7/Cse4/CasC
+STM2942	type I-E CRISPR-associated protein Cse2/CasB
+STM2943	type I-E CRISPR-associated protein Cse1/CasA
+STM2944	CRISPR-associated helicase/endonuclease Cas3
+STM2945	secreted protein in the Sop family; transferred to eukaryotic cells
+STM2946	phosphoadenosine phosphosulfate reductase
+STM2947	sulfite reductase subunit beta
+STM2948	sulfite reductase [NADPH
+STM2949	6-carboxytetrahydropterin synthase QueD
+STM2950	MBL fold metallo-hydrolase
+STM2951	7-carboxy-7-deazaguanine synthase QueE
+STM2952	phosphopyruvate hydratase
+STM2953	CTP synthase
+STM2954	nucleoside triphosphate pyrophosphohydrolase
+STM2955	putative transcriptional regulators containing the CopG/Arc/MetJ DNA-binding domain and a metal-binding domain
+STM2956	GTP diphosphokinase
+STM2957	23S rRNA (uracil(1939)-C(5))-methyltransferase
+STM2958	two-component sensor histidine kinase BarA
+STM2959	glycerate kinase
+STM2960	glucarate dehydratase
+STM2961	putative d-glucarate dehydratase
+STM2962	MFS transporter
+STM2963	flavodoxin
+STM2964	tRNA pseudouridine(65) synthase TruC
+STM2965	hypothetical protein
+STM2967	SecY-interacting protein
+STM2968	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF
+STM2969	LOG family protein
+STM2970	HAAAP family serine/threonine permease
+STM2971	L-serine ammonia-lyase
+STM2972	exonuclease IX, 5'-3' exonuclease
+STM2973	lactaldehyde reductase
+STM2974	L-fuculose phosphate aldolase
+STM2976	L-fucose isomerase
+STM2977	L-fuculokinase
+STM2978	L-fucose mutarotase
+STM2979	transcriptional regulator
+STM2980	23S rRNA (cytidine(2498)-2'-O)-methyltransferase RlmM
+STM2981	hypothetical protein
+STM2982	transcriptional regulator GcvA
+STM2983	hypothetical protein
+STM2984	cysteine sulfinate desulfinase
+STM2985	cysteine desulfurase sulfur acceptor subunit CsdE
+STM2986	putative integral membrane protein
+STM2987	tRNA cyclic N6-threonylcarbamoyladenosine(37) synthase TcdA
+STM2988	murein transglycosylase A
+STM2991	N-acetylmuramoyl-L-alanine amidase
+STM2992	amino-acid N-acetyltransferase
+STM2993	exodeoxyribonuclease V subunit alpha
+STM2994	exodeoxyribonuclease V subunit beta
+STM2995	pitrilysin
+STM2996	exodeoxyribonuclease V subunit gamma
+STM2997	prepilin peptidase dependent protein C
+STM2998	hypothetical protein
+STM2999	prepilin peptidase dependent protein B
+STM3000	prepilin peptidase dependent protein A
+STM3001	thymidylate synthase
+STM3002	prolipoprotein diacylglyceryl transferase
+STM3003	phosphoenolpyruvate--protein phosphotransferase PtsP
+STM3004	RNA pyrophosphohydrolase
+STM3005	DNA mismatch repair endonuclease MutH
+STM3006	hypothetical protein
+STM3007	hypothetical protein
+STM3008	NADP(H)-dependent aldo-keto reductase
+STM3009	lysophospholipid transporter LplT
+STM3010	bifunctional 2-acylglycerophosphoethanolamine acyltransferase/acyl-ACP synthetase
+STM3011	transcriptional regulator GalR
+STM3012	putative transcriptional regulator
+STM3013	diaminopimelate decarboxylase
+STM3014	LysR family transcriptional regulator
+STM3015	aspartate/glutamate racemase
+STM3016	arabinose:proton symporter
+STM3017	2-deoxy-D-gluconate 3-dehydrogenase
+STM3018	pectin-degrading enzyme
+STM3019	putative acetyl-CoA acetyltransferase
+STM3020	putative LysR family transcriptional regulator
+STM3021	putative inner membrane protein
+STM3022	transporter
+STM3023	transcriptional regulator
+STM3024	nickel/cobalt efflux protein RcnA
+STM3025	hypothetical protein
+STM3026	hypothetical protein
+STM3027	fimbrial chaperone protein StdC
+STM3028	fimbrial protein
+STM3029	putative fimbrial-like protein
+STM3030	hypothetical protein
+STM3031	hypothetical protein
+STM3032	IS200 family transposase
+STM3033	VapC toxin family PIN domain ribonuclease
+STM3034	antitoxin
+STM3035	hypothetical protein
+STM3036	putative inner membrane protein
+STM3038	putative metalloendopeptidase
+STM3039	isopentenyl-diphosphate delta-isomerase
+STM3040	lysine--tRNA ligase
+STM3041	peptide chain release factor RF-2
+STM3042	single-stranded-DNA-specific exonuclease RecJ
+STM3043	bifunctional protein-disulfide isomerase/oxidoreductase DsbC
+STM3044	site-specific tyrosine recombinase XerD
+STM3045	flavodoxin FldB
+STM3046	hypothetical protein
+STM3047	hypothetical protein
+STM3048	tRNA-modifying protein YgfZ
+STM3049	hemolysin III family protein
+STM3050	ASCH domain-containing protein
+STM3051	6-phospho-beta-glucosidase
+STM3052	hypothetical protein
+STM3053	glycine cleavage system protein P
+STM3054	glycine cleavage system protein H
+STM3055	glycine cleavage system protein T
+STM3056	FAD-dependent 2-octaprenylphenol hydroxylase
+STM3057	2-octaprenyl-6-methoxyphenyl hydroxylase
+STM3058	Xaa-Pro aminopeptidase
+STM3059	hypothetical protein
+STM3060	Z-ring-associated protein
+STM3061	putative ligase
+STM3062	D-3-phosphoglycerate dehydrogenase
+STM3063	ribose 5-phosphate isomerase A
+STM3064	transcriptional regulator ArgP
+STM3065	oxidative stress defense protein
+STM3066	arginine transporter
+STM3067	mechanosensitive ion channel protein MscS
+STM3068	class II fructose-bisphosphate aldolase
+STM3069	phosphoglycerate kinase
+STM3070	erythrose-4-phosphate dehydrogenase
+STM3071	putative DNA-binding protein
+STM3072	ECF transporter S component
+STM3073	cobalt ABC transporter permease
+STM3074	cobalt ABC transporter ATP-binding protein
+STM3075	ABC transporter ATP-binding protein
+STM3076	transketolase
+STM3077	metalloprotease
+STM3078	agmatinase
+STM3079	putative hydrolase or acyltransferase
+STM3080	putative mannitol dehydrogenase
+STM3081	ureidoglycolate dehydrogenase
+STM3082	galactonate oxidoreductase
+STM3083	fructuronate reductase
+STM3084	putative gntR family regulatory protein
+STM3085	hypothetical protein
+STM3086	arginine decarboxylase
+STM3087	virulence-promoting factor
+STM3088	putative cytoplasmic protein
+STM3089	hypothetical protein
+STM3090	methionine adenosyltransferase
+STM3091	MFS transporter
+STM3092	SprT family protein
+STM3093	deoxyribonuclease I
+STM3094	putative cytoplasmic protein
+STM3095	glutathione synthase
+STM3096	DUF179 domain-containing protein
+STM3097	Holliday junction DNA helicase RuvA
+STM3098	putative transcriptional regulator
+STM3099	type IV pili twitching motility protein PilT
+STM3100	YggS family pyridoxal phosphate enzyme
+STM3101	hypothetical protein
+STM3102	YggU family protein
+STM3103	RdgB/HAM1 family non-canonical purine NTP pyrophosphatase
+STM3104	YggW family oxidoreductase
+STM3105	hypothetical protein
+STM3106	L-asparaginase II
+STM3107	hypothetical protein
+STM3108	hypothetical protein
+STM3109	tRNA (guanosine(46)-N7)-methyltransferase TrmB
+STM3110	A/G-specific adenine glycosylase
+STM3111	oxidative damage protection protein
+STM3112	murein transglycosylase C
+STM3113	MFS transporter
+STM3114	ornithine decarboxylase
+STM3115	hypothetical protein
+STM3117	putative lactoylglutathione lyase
+STM3118	putative acetyl-CoA hydrolase
+STM3119	molybdenum cofactor biosynthesis protein MoeC
+STM3120	CoA ester lyase
+STM3121	putative LysR family transcriptional regulator
+STM3122	putative arylsulfatase
+STM3123	anaerobic sulfatase maturase
+STM3124	helix-turn-helix transcriptional regulator
+STM3125	hypothetical protein
+STM3126	putative amino acid transporter
+STM3127	hypothetical protein
+STM3128	FAD-dependent oxidoreductase
+STM3129	NAD-dependent phenylacetaldehyde dehydrogenase
+STM3130	DNA recombination protein
+STM3131	type VI secretion effector protein
+STM3132	xylanase deacetylase
+STM3133	putative amidohydrolase
+STM3134	MFS transporter
+STM3135	mannonate dehydratase
+STM3136	fructuronate reductase
+STM3137	glucuronate isomerase
+STM3138	chemotaxis protein
+STM3139	bifunctional glutathionylspermidine amidase/synthase
+STM3140	glutathione-dependent disulfide-bond oxidoreductase
+STM3141	molybdenum ABC transporter substrate-binding protein
+STM3142	hypothetical protein
+STM3143	hydrogenase 2 accessory protein HypG
+STM3144	hydrogenase maturation nickel metallochaperone HypA
+STM3145	hydrogenase 2-specific chaperone
+STM3146	hydrogenase expression/formation protein
+STM3147	hydrogenase 2 large subunit
+STM3148	Ni/Fe-hydrogenase cytochrome b subunit
+STM3149	hydrogenase 2 protein HybA
+STM3150	hydrogenase 2 small subunit
+STM3151	hypothetical protein
+STM3152	putative methyl-accepting chemotaxis protein
+STM3153	hypothetical protein
+STM3154	putative ATP-dependent RNA helicase-like protein
+STM3155	hypothetical protein
+STM3156	hypothetical protein
+STM3157	NAD(P)-dependent oxidoreductase
+STM3158	TonB system transporter ExbD
+STM3159	tonB-system energizer ExbB
+STM3160	putative inner membrane protein
+STM3161	cystathionine beta-lyase
+STM3162	DedA family protein
+STM3163	AraC family transcriptional regulator
+STM3164	NADH-dependent alcohol dehydrogenase
+STM3165	2,5-didehydrogluconate reductase A
+STM3166	putative cation transporter
+STM3167	diadenosine tetraphosphate hydrolase
+STM3168	YgiQ family radical SAM protein
+STM3169	C4-dicarboxylate ABC transporter substrate-binding protein
+STM3170	C4-dicarboxylate ABC transporter permease
+STM3171	hypothetical protein
+STM3172	cell division protein FtsP
+STM3173	1-acylglycerol-3-phosphate O-acyltransferase
+STM3174	DNA topoisomerase IV, subunit A
+STM3175	AraC family transcriptional regulator
+STM3176	TIGR00156 family protein
+STM3177	two-component system response regulator QseB
+STM3178	two-component system sensor histidine kinase QseC
+STM3179	NADPH quinone reductase MdaB
+STM3180	monooxygenase
+STM3181	DNA topoisomerase IV subunit B
+STM3182	esterase YqiA
+STM3183	3',5'-cyclic-AMP phosphodiesterase
+STM3184	hypothetical protein
+STM3185	ADP-ribose diphosphatase
+STM3186	outer membrane channel
+STM3187	hypothetical protein
+STM3188	hypothetical protein
+STM3189	putative cytoplasmic protein
+STM3190	zinc transporter ZupT
+STM3191	putative arylsulfate sulfotransferase
+STM3192	putative arylsulfate sulfotransferase
+STM3193	thiol:disulfide interchange protein
+STM3194	disulfide bond formation protein B
+STM3195	3,4-dihydroxy-2-butanone-4-phosphate synthase
+STM3196	putative cytoplasmic protein
+STM3197	glycogen synthase
+STM3198	hypothetical protein
+STM3199	flotillin
+STM3200	bifunctional heptose 7-phosphate kinase/heptose 1-phosphate adenyltransferase
+STM3201	bifunctional glutamine synthetase adenylyltransferase/deadenyltransferase
+STM3202	CYTH domain-containing protein
+STM3203	hypothetical protein
+STM3204	multifunctional CCA tRNA nucleotidyl transferase/2'3'-cyclic phosphodiesterase/2'nucleotidase/phosphatase
+STM3205	bacitracin resistance
+STM3206	dihydroneopterin aldolase
+STM3207	acyl-phosphate--glycerol-3-phosphate O-acyltransferase
+STM3208	tRNA threonylcarbamoyl adenosine modification protein TsaD
+STM3209	30S ribosomal protein S21
+STM3210	DNA primase
+STM3211	RNA polymerase sigma factor RpoD
+STM3212	double-stranded uracil-DNA glycosylase
+STM3214	NADPH-dependent ferric siderophore reductase
+STM3215	putative transcriptional regulator
+STM3216	putative methyl-accepting chemotaxis protein
+STM3217	hypothetical protein
+STM3218	putative acetylornithine aminotransferase
+STM3219	NADPH-dependent 2,4-dienoyl-CoA reductase
+STM3220	23S rRNA (guanine(1835)-N(2))-methyltransferase
+STM3221	putative metal-dependent hydrolase
+STM3222	hypothetical protein
+STM3223	oxidoreductase
+STM3224	hypothetical protein
+STM3225	serine/threonine transporter SstT
+STM3226	DedA family protein
+STM3227	EnvZ/OmpR regulon moderator
+STM3228	hypothetical protein
+STM3229	hypothetical protein
+STM3230	hypothetical protein
+STM3231	hypothetical protein
+STM3232	putative membrane-associated protein
+STM3233	glutathione-dependent reductase
+STM3234	hypothetical protein
+STM3235	putative LysR family transcriptional regulator
+STM3236	hypothetical protein
+STM3237	hypothetical protein
+STM3238	hypothetical protein
+STM3239	hypothetical protein
+STM3240	L-serine ammonia-lyase
+STM3241	formate C-acetyltransferase
+STM3242	propionate/acetate kinase
+STM3243	threonine/serine transporter TdcC
+STM3244	threonine ammonia-lyase
+STM3245	transcriptional regulator TdcA
+STM3247	glycerate 2-kinase
+STM3248	2-hydroxy-3-oxopropionate reductase
+STM3249	2-dehydro-3-deoxyglucarate aldolase
+STM3250	galactarate dehydratase
+STM3251	sugar kinase
+STM3252	DeoR family transcriptional regulator
+STM3253	putative fructose/tagatose biphosphate aldolase
+STM3254	1-phosphofructokinase
+STM3255	PTS fructose transporter subunit IIC
+STM3256	PTS fructose transporter subunit IIA
+STM3257	D-tagatose-1,6-bisphosphate aldolase subunit GatZ
+STM3258	PTS galactitol transporter subunit IIA
+STM3259	PTS galactitol transporter subunit IIB
+STM3260	PTS galactitol transporter subunit IIC
+STM3261	galactitol-1-phosphate 5-dehydrogenase
+STM3262	transcriptional regulator
+STM3263	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+STM3264	penicillin-binding protein activator
+STM3265	YraN family protein
+STM3266	putative phosphoheptose isomerase
+STM3267	osmotically-inducible protein OsmY
+STM3268	putative nucleoside-diphosphate-sugar epimerase
+STM3269	protease
+STM3270	hypothetical protein
+STM3271	putative cytoplasmic protein
+STM3272	GNAT family N-acetyltransferase
+STM3273	hypothetical protein
+STM3274	putative protease
+STM3275	putative protease
+STM3276	hypothetical protein
+STM3277	hypothetical protein
+STM3278	hypothetical protein
+STM3279	tryptophan permease
+STM3280	cysteine sulfinate desulfinase
+STM3281	lipoprotein NlpI
+STM3282	polyribonucleotide nucleotidyltransferase
+STM3283	30S ribosomal protein S15
+STM3284	tRNA pseudouridine(55) synthase TruB
+STM3285	ribosome-binding factor A
+STM3286	translation initiation factor IF-2
+STM3287	transcription termination/antitermination protein NusA
+STM3288	putative cytoplasmic protein
+STM3290	argininosuccinate synthetase
+STM3291	hypothetical protein
+STM3293	preprotein translocase subunit SecG
+STM3294	phosphoglucosamine mutase
+STM3295	dihydropteroate synthase
+STM3296	ATP-dependent metalloprotease
+STM3297	23S rRNA (uridine(2552)-2'-O)-methyltransferase
+STM3298	putative RNA-binding protein
+STM3299	transcription elongation factor GreA
+STM3300	serine-type D-Ala-D-Ala carboxypeptidase
+STM3301	GTPase ObgE
+STM3303	50S ribosomal protein L27
+STM3304	50S ribosomal protein L21
+STM3305	octaprenyl diphosphate synthase
+STM3306	transcriptional regulator
+STM3307	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+STM3308	putative BolA family transcriptional regulator
+STM3309	phospholipid ABC transporter substrate-binding protein
+STM3310	phospholipid-binding protein MlaC
+STM3311	outer membrane lipid asymmetry maintenance protein MlaD
+STM3312	ABC transporter permease
+STM3313	phospholipid ABC transporter ATP-binding protein MlaF
+STM3314	calcium/sodium antiporter
+STM3315	D-arabinose 5-phosphate isomerase
+STM3316	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase
+STM3317	LPS export ABC transporter periplasmic protein LptC
+STM3318	LPS export ABC transporter substrate-binding protein LptA
+STM3319	LPS export ABC transporter ATP-binding protein
+STM3320	RNA polymerase factor sigma-54
+STM3321	ribosomal subunit interface protein
+STM3322	PTS sugar transporter subunit IIA
+STM3323	RNase adaptor RapZ
+STM3324	HPr family phosphocarrier
+STM3325	hypothetical protein
+STM3326	monofunctional biosynthetic peptidoglycan transglycosylase
+STM3327	glyoxalase ElbB
+STM3328	two-component sensor histidine kinase ArcB
+STM3329	TIGR01212 family radical SAM protein
+STM3330	glutamate synthase large subunit
+STM3331	glutamate synthase small subunit
+STM3332	hypothetical protein
+STM3333	cytosine permease
+STM3334	putative cytosine deaminase
+STM3335	hypothetical protein
+STM3336	N-acetylmannosamine kinase
+STM3337	N-acetylmannosamine-6-phosphate 2-epimerase
+STM3338	MFS transporter
+STM3339	N-acetylneuraminate lyase
+STM3340	transcriptional regulator NanR
+STM3341	stringent starvation protein B
+STM3342	stringent starvation protein A
+STM3343	putative cytoplasmic protein
+STM3344	30S ribosomal protein S9
+STM3345	50S ribosomal protein L13
+STM3346	cell division protein ZapE
+STM3347	putative periplasmic protein
+STM3348	serine endoprotease DegQ
+STM3349	stress sensor serine endopeptidase DegS
+STM3350	hypothetical protein
+STM3351	oxaloacetate decarboxylase subunit beta
+STM3352	oxaloacetate decarboxylase subunit alpha
+STM3353	oxaloacetate decarboxylase subunit gamma
+STM3354	L(+)-tartrate dehydratase subunit beta
+STM3355	L(+)-tartrate dehydratase subunit alpha
+STM3356	putative cation transporter
+STM3357	LysR family transcriptional regulator
+STM3358	GntR family transcriptional regulator
+STM3359	malate dehydrogenase
+STM3360	arginine repressor
+STM3361	hypothetical protein
+STM3362	hypothetical protein
+STM3363	hypothetical protein
+STM3364	p-hydroxybenzoic acid efflux pump subunit AaeB
+STM3365	p-hydroxybenzoic acid efflux pump subunit AaeA
+STM3366	transporter
+STM3367	transcriptional regulator
+STM3368	metalloprotease TldD
+STM3369	TIGR02099 family protein
+STM3370	ribonuclease E/G
+STM3371	septum formation inhibitor Maf
+STM3372	rod shape-determining protein
+STM3373	rod shape-determining protein MreC
+STM3374	rod shape-determining protein
+STM3375	RNase E specificity factor CsrD
+STM3376	putative oxidoreductase
+STM3377	mononuclear molybdenum enzyme YedY
+STM3378	sulfoxide reductase heme-binding subunit YedZ
+STM3379	acetyl-CoA carboxylase biotin carboxyl carrier subunit
+STM3380	acetyl-CoA carboxylase biotin carboxylase subunit
+STM3381	hypothetical protein
+STM3382	sodium/panthothenate symporter
+STM3383	ribosomal protein L11 methyltransferase
+STM3384	tRNA dihydrouridine synthase DusB
+STM3385	Fis family transcriptional regulator
+STM3386	adenine-specific DNA-methyltransferase
+STM3387	DUF2556 domain-containing protein
+STM3388	histidine kinase
+STM3389	acrEF/envCD operon transcriptional regulator
+STM3390	multidrug exporter AcrE
+STM3391	multidrug efflux RND transporter permease
+STM3392	hypothetical protein
+STM3399	gamma carbonic anhydrase family protein
+STM3400	hypothetical protein
+STM3401	shikimate dehydrogenase
+STM3402	L-threonylcarbamoyladenylate synthase type 1 TsaC
+STM3403	hypothetical protein
+STM3404	hypothetical protein
+STM3405	DNA-protecting protein DprA
+STM3406	peptide deformylase
+STM3407	methionyl-tRNA formyltransferase
+STM3408	16S rRNA (cytosine(967)-C(5))-methyltransferase
+STM3409	Trk system potassium transport protein TrkA
+STM3410	large-conductance mechanosensitive channel
+STM3411	alternative ribosome-rescue factor A
+STM3412	zinc-responsive transcriptional regulator
+STM3413	hypothetical protein
+STM3414	50S ribosomal protein L17
+STM3415	DNA-directed RNA polymerase subunit alpha
+STM3416	30S ribosomal protein S4
+STM3417	30S ribosomal protein S11
+STM3418	30S ribosomal protein S13
+STM3419	50S ribosomal protein L36
+STM3420	preprotein translocase subunit SecY
+STM3421	50S ribosomal protein L15
+STM3422	50S ribosomal protein L30
+STM3423	30S ribosomal protein S5
+STM3424	50S ribosomal protein L18
+STM3425	50S ribosomal protein L6
+STM3426	30S ribosomal protein S8
+STM3427	30S ribosomal protein S14
+STM3428	50S ribosomal protein L5
+STM3429	50S ribosomal protein L24
+STM3430	50S ribosomal protein L14
+STM3431	30S ribosomal protein S17
+STM3432	50S ribosomal protein L29
+STM3433	50S ribosomal protein L16
+STM3434	30S ribosomal protein S3
+STM3435	50S ribosomal protein L22
+STM3436	30S ribosomal protein S19
+STM3437	50S ribosomal protein L2
+STM3438	50S ribosomal protein L23
+STM3439	50S ribosomal protein L4
+STM3440	50S ribosomal protein L3
+STM3441	30S ribosomal protein S10
+STM3442	prepilin peptidase
+STM3443	bacterioferritin
+STM3444	bacterioferritin-associated ferredoxin
+STM3445	translation elongation factor Tu
+STM3446	translation elongation factor G
+STM3447	30S ribosomal protein S7
+STM3448	30S ribosomal protein S12
+STM3449	sulfurtransferase TusB
+STM3450	sulfurtransferase TusC
+STM3451	sulfurtransferase TusD
+STM3452	hypothetical protein
+STM3453	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA
+STM3454	lysis protein
+STM3455	peptidylprolyl isomerase
+STM3456	hypothetical protein
+STM3457	glutathione-regulated potassium-efflux system protein KefB
+STM3458	glutathione-regulated potassium-efflux system ancillary protein KefG
+STM3459	ABC transporter ATP-binding protein
+STM3461	monooxygenase
+STM3462	putative hydrolase
+STM3463	hypothetical protein
+STM3464	putative phosphoribulokinase
+STM3465	hypothetical protein
+STM3466	transcriptional regulator Crp
+STM3467	hypothetical protein
+STM3468	bifunctional succinylornithine transaminase/acetylornithine transaminase
+STM3469	aminodeoxychorismate synthase component II
+STM3470	cell filamentation protein Fic
+STM3471	DUF2559 domain-containing protein
+STM3472	peptidylprolyl isomerase A
+STM3473	MFS transporter TsgA
+STM3474	nitrite reductase large subunit
+STM3475	nitrite reductase small subunit
+STM3476	nitrite transporter NirC
+STM3477	uroporphyrinogen-III C-methyltransferase
+STM3478	putative surface-exposed virulence protein
+STM3479	IS200 family transposase
+STM3480	DUF4223 domain-containing protein
+STM3481	tryptophan--tRNA ligase
+STM3482	phosphoglycolate phosphatase
+STM3483	ribulose-phosphate 3-epimerase
+STM3484	DNA adenine methylase
+STM3485	cell division protein DamX
+STM3486	3-dehydroquinate synthase
+STM3487	shikimate kinase I
+STM3488	DNA transporter HofQ
+STM3489	DNA utilization protein HofP
+STM3490	hypothetical protein
+STM3491	pilus assembly protein PilN
+STM3492	DNA utilization protein HofM
+STM3493	peptidoglycan synthetase
+STM3494	putative NTP pyrophosphohydrolase
+STM3495	Intracellular growth attenuator protein igaA
+STM3496	GMP/IMP nucleotidase
+STM3497	heat-shock protein
+STM3498	heat shock protein 33
+STM3499	DUF4153 domain-containing protein
+STM3500	phosphoenolpyruvate carboxykinase (ATP)
+STM3501	two-component system sensor histidine kinase EnvZ
+STM3502	two-component system response regulator OmpR
+STM3503	transcription elongation factor GreB
+STM3504	putative RNase R
+STM3505	ferrous iron transporter A
+STM3506	ferrous iron transporter B
+STM3507	ferrous iron transporter C
+STM3508	hypothetical protein
+STM3509	pimeloyl-[acyl-carrier protein
+STM3510	DNA utilization protein GntX
+STM3511	Fe-S biogenesis protein NfuA
+STM3512	gluconate transporter
+STM3513	4-alpha-glucanotransferase
+STM3514	maltodextrin phosphorylase
+STM3515	transcriptional regulator MalT
+STM3516	mRNA interferase YafQ
+STM3517	antitoxin DinJ
+STM3518	RNA 3'-terminal-phosphate cyclase
+STM3519	putative cytoplasmic protein
+STM3521	RNA-binding protein
+STM3522	transcriptional regulator
+STM3523	DeoR/GlpR family transcriptional regulator
+STM3524	rhomboid family serine protease GlpG
+STM3525	thiosulfate sulfurtransferase
+STM3526	glycerol-3-phosphate dehydrogenase
+STM3527	hypothetical protein
+STM3528	putative periplasmic phosphate-binding protein
+STM3529	putative glycerol dehydrogenase
+STM3531	dihydroxy-acid dehydratase
+STM3532	dihydrodipicolinate synthase family protein
+STM3533	IclR family transcriptional regulator
+STM3534	glycogen phosphorylase
+STM3535	starch synthase
+STM3536	glucose-1-phosphate adenylyltransferase
+STM3537	glycogen-debranching enzyme GlgX
+STM3538	1,4-alpha-glucan branching enzyme
+STM3539	aspartate-semialdehyde dehydrogenase
+STM3540	putative inner membrane protein
+STM3541	gluconate transporter
+STM3542	gluconokinase
+STM3543	transcriptional regulator
+STM3544	quercetin 2,3-dioxygenase
+STM3545	putative oxidoreductase
+STM3546	N-acetyltransferase
+STM3547	ribokinase
+STM3548	hypothetical protein
+STM3549	hypothetical protein
+STM3550	putative phosphotriesterase
+STM3551	gamma-glutamyltransferase
+STM3552	hypothetical protein
+STM3553	glycerophosphodiester phosphodiesterase
+STM3554	sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC
+STM3555	glycerol-3-phosphate transporter
+STM3556	glycerol-3-phosphate transporter permease
+STM3557	sn-glycerol-3-phosphate ABC transporter substrate-binding protein
+STM3558	prophage maintenance system killer protein
+STM3559	putative cytoplasmic protein
+STM3560	branched-chain amino acid ABC transporter ATP-binding protein
+STM3561	high-affinity branched-chain amino acid ABC transporter ATP-binding protein LivG
+STM3562	high-affinity branched-chain amino acid ABC transporter permease LivM
+STM3563	branched-chain amino acid ABC transporter permease LivH
+STM3564	leucine ABC transporter subunit substrate-binding protein LivK
+STM3565	GNAT family N-acetyltransferase
+STM3566	hypothetical protein
+STM3567	high-affinity branched-chain amino acid transporter
+STM3568	RNA polymerase factor sigma-32
+STM3569	cell division protein FtsX
+STM3570	cell division ATP-binding protein FtsE
+STM3571	signal recognition particle-docking protein FtsY
+STM3572	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD
+STM3573	putative inner membrane protein
+STM3574	hypothetical protein
+STM3575	hypothetical protein
+STM3576	zinc/cadmium/mercury/lead-transporting ATPase
+STM3577	methyl-accepting chemotaxis protein II
+STM3578	sulfurtransferase TusA
+STM3579	hypothetical protein
+STM3580	hypothetical protein
+STM3581	putative MFS family transport protein
+STM3582	permease
+STM3583	ACP synthase
+STM3584	nickel-responsive transcriptional regulator
+STM3585	hypothetical protein
+STM3586	putative ABC-type multidrug transport system
+STM3587	hypothetical protein
+STM3588	hypothetical protein
+STM3589	anion permease
+STM3590	universal stress protein UspB
+STM3591	universal stress global response regulator UspA
+STM3592	dipeptide/tripeptide permease
+STM3593	16S rRNA (guanine(1516)-N(2))-methyltransferase
+STM3594	oligopeptidase A
+STM3595	phosphoesterase PA-phosphatase
+STM3596	23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ
+STM3597	glutathione-disulfide reductase
+STM3598	putative L-asparaginase
+STM3599	C4-dicarboxylate ABC transporter
+STM3600	fructoselysine 6-kinase
+STM3601	putative phosphosugar isomerase
+STM3602	GntR family transcriptional regulator
+STM3603	alpha,alpha-trehalase
+STM3604	hypothetical protein
+STM3605	endolysin
+STM3606	helix-turn-helix transcriptional regulator
+STM3607	putative LysR family transcriptional regulator
+STM3608	hypothetical protein
+STM3609	MFS transporter
+STM3610	hypothetical protein
+STM3611	cyclic-guanylate-specific phosphodiesterase
+STM3612	ketodeoxygluconokinase
+STM3613	putative Zn-dependent peptidase
+STM3614	C4-dicarboxylate transporter DctA
+STM3615	putative diguanylate cyclase/phosphodiesterase
+STM3616	cellulose biosynthesis protein BcsC
+STM3617	endo-1,4-D-glucanase
+STM3618	cellulose synthase regulator BcsB
+STM3619	UDP-forming cellulose synthase catalytic subunit
+STM3620	cellulose synthase operon protein YhjQ
+STM3621	hypothetical protein
+STM3622	putative cytoplasmic protein
+STM3623	hypothetical protein
+STM3624	hypothetical protein
+STM3624A	cystathionine gamma-synthase
+STM3625	transporter
+STM3626	dipeptide ABC transporter ATP-binding protein
+STM3627	dipeptide ABC transporter ATP-binding protein
+STM3628	dipeptide ABC transporter permease DppC
+STM3629	dipeptide ABC transporter permease DppB
+STM3630	ABC transporter substrate-binding protein
+STM3631	nucleobase:cation symporter
+STM3632	aryl sulfotransferase
+STM3633	LacI family transcriptional regulator
+STM3635	lipid A phosphoethanolamine transferase
+STM3636	long polar fimbrial protein LpfE
+STM3637	long polar fimbrial protein LpfD
+STM3638	fimbrial assembly protein
+STM3639	long polar fimbrial chaperone LpfB
+STM3640	long polar fimbria
+STM3641	hypothetical protein
+STM3642	DNA-3-methyladenine glycosylase I
+STM3643	N-acetyltransferase
+STM3644	trimethylamine N-oxide reductase I catalytic subunit
+STM3645	OmpA family lipoprotein
+STM3646	bifunctional glyoxylate/hydroxypyruvate reductase B
+STM3647	hypothetical protein
+STM3648	putative transcriptional regulator
+STM3649	cold-shock protein
+STM3650	hypothetical protein
+STM3651	GNAT family N-acetyltransferase
+STM3652	putative cytoplasmic protein
+STM3653	GNAT family N-acetyltransferase
+STM3655	glycine--tRNA ligase subunit beta
+STM3656	glycine--tRNA ligase subunit alpha
+STM3657	hypothetical protein
+STM3658	acetyltransferase
+STM3659	hypothetical protein
+STM3660	xylulokinase
+STM3661	xylose isomerase
+STM3662	XylR family transcriptional regulator
+STM3663	hypothetical protein
+STM3664	alpha-amylase
+STM3665	valine--pyruvate transaminase
+STM3666	electron transporter
+STM3667	IclR family transcriptional repressor
+STM3668	3-dehydro-L-gulonate 2-dehydrogenase
+STM3669	hypothetical protein
+STM3670	DUF4862 domain-containing protein
+STM3671	2,3-diketo-L-gulonate TRAP transporter small permease YiaM
+STM3672	L-dehydroascorbate transporter large permease subunit
+STM3673	2,3-diketo-L-gulonate TRAP transporter
+STM3674	carbohydrate kinase
+STM3675	3-keto-L-gulonate-6-phosphate decarboxylase
+STM3676	xylulose 5-phosphate 3-epimerase
+STM3677	L-ribulose-5-phosphate 4-epimerase
+STM3678	AraC family transcriptional regulator
+STM3679	hypothetical protein
+STM3680	aldehyde dehydrogenase
+STM3681	sugar kinase
+STM3682	selenocysteinyl-tRNA-specific translation elongation factor SelB
+STM3683	L-seryl-tRNA(Sec) selenium transferase
+STM3684	putative glutathione S-transferase
+STM3685	PTS mannitol transporter subunit IICBA
+STM3686	mannitol-1-phosphate 5-dehydrogenase
+STM3687	mannitol operon repressor
+STM3688	hypothetical protein
+STM3689	hypothetical protein
+STM3690	hypothetical protein
+STM3691	hypothetical protein
+STM3692	L-lactate permease
+STM3693	transcriptional regulator LldR
+STM3694	L-lactate dehydrogenase
+STM3695	tRNA (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase TrmL
+STM3696	putative transcriptional regulator
+STM3697	mandelate racemase/muconate lactonizing protein
+STM3698	D-galactonate transporter
+STM3699	serine O-acetyltransferase
+STM3700	glycerol-3-phosphate dehydrogenase
+STM3701	protein-export chaperone SecB
+STM3702	glutaredoxin 3
+STM3703	hypothetical protein
+STM3704	phosphoglycerate mutase
+STM3705	murein hydrolase activator EnvC
+STM3706	hypothetical protein
+STM3707	putative glycosyltransferase
+STM3708	L-threonine 3-dehydrogenase
+STM3709	glycine C-acetyltransferase
+STM3710	ADP-glyceromanno-heptose 6-epimerase
+STM3711	ADP-heptose--LPS heptosyltransferase
+STM3712	lipopolysaccharide heptosyltransferase 1
+STM3713	O-antigen ligase
+STM3714	UDP-glucose--(glucosyl)LPS alpha-1,2-glucosyltransferase
+STM3715	3-deoxy-D-manno-oct-2-ulosonate III transferase WaaZ
+STM3716	heptose kinase
+STM3717	lipopolysaccharide 1,2-glucosyltransferase
+STM3718	lipopolysaccharide 1,3-galactosyltransferase
+STM3719	glycosyl transferase
+STM3720	putative inner membrane protein
+STM3721	lipopolysaccharide core heptose(I) kinase RfaP
+STM3722	glucosyltransferase I RfaG
+STM3723	lipopolysaccharide core biosynthesis protein
+STM3724	3-deoxy-D-manno-octulosonic acid transferase
+STM3725	pantetheine-phosphate adenylyltransferase
+STM3726	DNA-formamidopyrimidine glycosylase
+STM3727	50S ribosomal protein L33
+STM3728	50S ribosomal protein L28
+STM3729	hypothetical protein
+STM3730	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+STM3731	deoxyuridinetriphosphatase
+STM3732	nucleoid occlusion factor SlmA
+STM3733	orotate phosphoribosyltransferase
+STM3734	ribonuclease PH
+STM3735	YicC family protein
+STM3736	putative LysR family transcriptional regulator
+STM3737	putative Zn-dependent hydrolase
+STM3738	hypothetical protein
+STM3739	DNA ligase B
+STM3740	guanylate kinase
+STM3741	DNA-directed RNA polymerase subunit omega
+STM3742	bifunctional GTP diphosphokinase/guanosine-3',5'-bis(diphosphate) 3'-diphosphatase
+STM3743	tRNA (guanosine(18)-2'-O)-methyltransferase TrmH
+STM3744	ATP-dependent DNA helicase RecG
+STM3745	hypothetical protein
+STM3746	sodium/glutamate symporter
+STM3747	xanthine permease XanP
+STM3748	hypothetical protein
+STM3749	putative alpha-xylosidase
+STM3750	glycoside-pentoside-hexuronide family transporter
+STM3752	hypothetical protein
+STM3753	ATP-binding protein
+STM3754	putative cytoplasmic protein
+STM3755	hypothetical protein
+STM3756	transcriptional regulator
+STM3757	autotransporter outer membrane beta-barrel domain-containing protein
+STM3758	putative inner membrane protein
+STM3759	putative transcriptional regulatory protein
+STM3760	putative cytoplasmic protein
+STM3761	hydrolase
+STM3762	hypothetical protein
+STM3763	magnesium-translocating P-type ATPase
+STM3764	magnesium transporter MgtC
+STM3765	putative permease
+STM3766	hypothetical protein
+STM3767	4-hydroxy-2-ketovalerate aldolase
+STM3768	selenocysteine synthase
+STM3769	putative phosphotransferase system enzyme II
+STM3770	PTS sorbose transporter subunit IIC
+STM3771	PTS sugar transporter subunit IIB
+STM3772	PTS fructose transporter subunit IIA
+STM3773	transcriptional regulator
+STM3774	hypothetical protein
+STM3775	6-phospho-beta-glucosidase
+STM3776	MFS transporter
+STM3777	addiction module toxin RelE
+STM3778	transcriptional regulator
+STM3779	PTS sugar transporter
+STM3780	fructose-1,6-bisphosphate aldolase
+STM3781	carbohydrate kinase
+STM3782	PTS galactitol transporter subunit IIC
+STM3783	PTS sugar transporter subunit IIB
+STM3784	PTS suar transporter subunit IIA
+STM3785	hypothetical protein
+STM3786	hypothetical protein
+STM3787	hexose phosphate transporter
+STM3788	regulatory protein UhpC
+STM3789	two-component system sensor histidine kinase UhpB
+STM3790	DNA-binding response regulator
+STM3791	DUF4432 domain-containing protein
+STM3792	L-fucose:H+ symporter permease
+STM3793	ribokinase
+STM3794	DeoR family transcriptional regulator
+STM3795	acetolactate synthase I small subunit
+STM3796	acetolactate synthase I large subunit
+STM3797	leader peptide IlvB
+STM3797A	YsdA
+STM3796B	type I toxin-antitoxin system toxin TisB
+STM3796A	integral membrane protein
+STM3798	multidrug transporter EmrD
+STM3799	hypothetical protein
+STM3800	LysR family transcriptional activator
+STM3801	D-serine transporter DsdX
+STM3802	D-serine ammonia-lyase
+STM3803	hypothetical protein
+STM3804	hypothetical protein
+STM3805	hypothetical protein
+STM3807	transporter
+STM3808	heat-shock protein
+STM3809	heat-shock protein IbpA
+STM3810	putative outer membrane lipoprotein
+STM3811	hypothetical protein
+STM3812	cytochrome c biogenesis protein CcmH
+STM3813	thiol:disulfide interchange protein
+STM3814	c-type cytochrome biogenesis protein CcmF
+STM3815	cytochrome c biogenesis protein CcmE
+STM3816	heme exporter CcmD
+STM3817	heme ABC transporter permease
+STM3818	heme exporter CcmB
+STM3819	heme ABC transporter ATP-binding protein CcmA
+STM3820	cytochrome-c peroxidase
+STM3821	molecular chaperone TorD
+STM3822	trimethylamine N-oxide reductase I catalytic subunit
+STM3823	trimethylamine N-oxide reductase cytochrome c-type subunit
+STM3824	two-component system response regulator TorR
+STM3825	TMAO reductase system periplasmic protein TorT
+STM3826	TMAO reductase system sensor histidine kinase/response regulator TorS
+STM3827	MFS transporter
+STM3828	2-oxo-3-deoxygalactonate 6-phosphate aldolase
+STM3829	2-oxo-3-deoxygalactonate kinase
+STM3830	galactonate operon transcriptional repressor
+STM3831	sugar-phosphatase
+STM3832	MFS transporter
+STM3833	putative mandelate racemase
+STM3834	putative LysR family transcriptional regulator
+STM3835	DNA gyrase subunit B
+STM3836	DNA replication/repair protein RecF
+STM3837	DNA polymerase III subunit beta
+STM3838	chromosomal replication initiation protein DnaA
+STM3839	50S ribosomal protein L34
+STM3840	ribonuclease P protein component
+STM3841	membrane protein insertion efficiency factor YidD
+STM3842	membrane protein insertase YidC
+STM3843	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE
+STM3845	hypothetical protein
+STM3846	putative reverse transcriptase
+STM3847	multidrug transporter subunit MdtL
+STM3848	putative LysR family transcriptional regulator
+STM3849	hypothetical protein
+STM3850	putative oxidoreductase
+STM3851	putative xanthine/uracil permeases family
+STM3852	6-phosphogluconate phosphatase
+STM3853	phosphate transport system regulatory protein PhoU
+STM3854	phosphate ABC transporter ATP-binding protein
+STM3855	phosphate ABC transporter permease PstA
+STM3856	phosphate ABC transporter permease PstC
+STM3857	phosphate ABC transporter substrate-binding protein PstS
+STM3858	putative phosphotransferase system fructose-specific component IIB
+STM3859	shikimate 5-dehydrogenase
+STM3860	SgrR family transcriptional regulator
+STM3861	glutamine--fructose-6-phosphate aminotransferase
+STM3862	UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase
+STM3863	putative permease
+STM3864	F0F1 ATP synthase subunit epsilon
+STM3865	F0F1 ATP synthase subunit beta
+STM3866	F0F1 ATP synthase subunit gamma
+STM3867	F0F1 ATP synthase subunit alpha
+STM3868	F0F1 ATP synthase subunit delta
+STM3869	F0F1 ATP synthase subunit B
+STM3870	ATP F0F1 synthase subunit C
+STM3871	F0F1 ATP synthase subunit A
+STM3872	ATP F0F1 synthase subunit I
+STM3873	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+STM3874	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG
+STM3875	FMN-binding protein MioC
+STM3876	transcriptional regulator AsnC
+STM3877	aspartate--ammonia ligase
+STM3878	putative inner membrane protein
+STM3879	ATPase RavA
+STM3880	potassium transporter Kup
+STM3881	D-ribose pyranase
+STM3882	ribose ABC transporter ATP-binding protein RbsA
+STM3883	ribose ABC transporter permease
+STM3884	D-ribose ABC transporter substrate-binding protein RbsB
+STM3885	ribokinase
+STM3886	transcriptional repressor for rbs operon (GalR/LacI family)
+STM3887	MFS transporter
+STM3888	GntR family transcriptional regulator
+STM3897	putative LysR family transcriptional regulator
+STM3898	hypothetical protein
+STM3899	magnesium chelatase subunit ChlI
+STM3900	ilvG operon leader peptide
+STM3901	acetolactate synthase 2 catalytic subunit
+STM3902	acetolactate synthase II, small subunit
+STM3903	branched chain amino acid aminotransferase
+STM3904	dihydroxy-acid dehydratase
+STM3905	PLP-dependent threonine dehydratase
+STM3906	hypothetical protein
+STM3907	hypothetical protein
+STM3908	transcriptional regulator IlvY
+STM3909	ketol-acid reductoisomerase
+STM3910	peptidylprolyl isomerase
+STM3911	putative inner membrane protein
+STM3912	ATP-dependent DNA helicase Rep
+STM3913	guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+STM3914	ATP-dependent RNA helicase RhlB
+STM3915	thioredoxin
+STM3917	transcription termination factor Rho
+STM3918	undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+STM3919	polysaccharide chain length modulation protein
+STM3920	UDP-N-acetylglucosamine 2-epimerase
+STM3921	UDP-N-acetyl-D-mannosamine dehydrogenase
+STM3922	dTDP-glucose 4,6-dehydratase
+STM3923	glucose-1-phosphate thymidyl transferase
+STM3924	lipopolysaccharide biosynthesis protein
+STM3925	dTDP-4-amino-4,6-dideoxygalactose transaminase
+STM3926	O-antigen translocase
+STM3927	4-alpha-L-fucosyltransferase
+STM3928	enterobacterial common antigen polymerase
+STM3929	lipopolysaccharide N-acetylmannosaminouronosyltransferase
+STM3930	amino acid permease
+STM3935	protein for a late step of protoheme IX synthesis
+STM3936	uroporphyrinogen-III C-methyltransferase
+STM3937	uroporphyrinogen-III synthase
+STM3938	porphobilinogen deaminase
+STM3939	adenylate cyclase
+STM3940	hypothetical protein
+STM3941	hypothetical protein
+STM3942	hypothetical protein
+STM3943	iron donor protein CyaY
+STM3944	hypothetical protein
+STM3946	hypothetical protein
+STM3947	diaminopimelate epimerase
+STM3948	DUF484 family protein
+STM3949	tyrosine recombinase XerC
+STM3950	flavin mononucleotide phosphatase
+STM3951	DNA helicase II
+STM3952	magnesium/cobalt transporter CorA
+STM3953	hypothetical protein
+STM3954	hypothetical protein
+STM3955	EamA family transporter
+STM3956	putative PaaI protein
+STM3957	phospholipase
+STM3958	ATP-dependent DNA helicase
+STM3959	threonine exporter RhtC
+STM3960	homoserine/homoserine lactone efflux protein
+STM3961	lysophospholipase
+STM3962	HAD superfamily hydrolase
+STM3963	EamA family transporter
+STM3964	LysR family transcriptional regulator
+STM3965	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+STM3966	putative arylsulfatase regulator
+STM3967	dienelactone hydrolase family protein
+STM3968	uridine phosphorylase
+STM3969	putative inner membrane protein
+STM3970	ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+STM3971	hypothetical protein
+STM3972	ubiquinone biosynthesis regulatory protein kinase UbiB
+STM3973	Sec-independent protein translocase TatA
+STM3974	twin arginine-targeting protein translocase TatB
+STM3975	twin arginine-targeting protein translocase TatC
+STM3976	hydrolase TatD
+STM3977	transcriptional activator RfaH
+STM3978	putative oxidoreductase
+STM3979	NAD(P)H-flavin reductase
+STM3980	putative outer membrane protein
+STM3981	putative cytoplasmic protein
+STM3982	3-ketoacyl-CoA thiolase
+STM3983	3-hydroxyacyl-coA dehydrogenase
+STM3984	Xaa-Pro dipeptidase
+STM3985	YigZ family protein
+STM3986	potassium transporter
+STM3987	protoporphyrinogen oxidase
+STM3993	molybdopterin-guanine dinucleotide biosynthesis protein B
+STM3994	molybdenum cofactor guanylyltransferase MobA
+STM3995	hypothetical protein
+STM3996	stress response serine/threonine protein kinase YihE
+STM3997	protein disulfide oxidoreductase DsbA
+STM3998	acyltransferase
+STM3999	DNA polymerase I
+STM4000	spot 42 RNA, inhibition of DNA synthesis
+STM4001	YihA family ribosome biogenesis GTP-binding protein
+STM4002	hypothetical protein
+STM4003	GTPase-activating protein
+STM4004	oxygen-independent coproporphyrinogen III oxidase
+STM4005	nitrogen regulation protein NR(I)
+STM4006	sensory histidine kinase
+STM4007	type I glutamate--ammonia ligase
+STM4008	putative cytoplasmic protein
+STM4009	GTP-binding protein TypA
+STM4010	putative hydrolase
+STM4011	hypothetical protein
+STM4012	coproporphyrinogen III oxidase
+STM4013	hypothetical protein
+STM4014	putative periplasmic protein
+STM4015	hypothetical protein
+STM4016	porin
+STM4017	MFS transporter
+STM4018	hypothetical protein
+STM4019	alpha-glucosidase
+STM4020	aldose epimerase
+STM4021	sugar isomerase
+STM4022	putative aldolase
+STM4023	6-phosphogluconate dehydrogenase
+STM4024	ribokinase
+STM4025	DeoR family transcriptional regulator
+STM4026	glucose-1-phosphatase
+STM4027	hypothetical protein
+STM4028	D-tyrosyl-tRNA(Tyr) deacylase
+STM4029	putative acetyltransferase
+STM4030	hypothetical protein
+STM4031	hypothetical protein
+STM4032	lipase
+STM4033	putative merR family bacterial regulatory protein
+STM4034	formate dehydrogenase accessory protein FdhE
+STM4035	formate dehydrogenase cytochrome b556 subunit
+STM4036	formate dehydrogenase subunit beta
+STM4037	formate dehydrogenase
+STM4038	sulfurtransferase FdhD
+STM4039	hypothetical protein
+STM4040	putative cytoplasmic protein
+STM4041	branched-chain amino acid transport
+STM4042	branched-chain amino acid ABC transporter permease
+STM4042A	hypothetical protein
+STM4043	L-rhamnose mutarotase
+STM4044	putative iron-containing alcohol dehydrogenase
+STM4045	rhamnulose-1-phosphate aldolase
+STM4046	L-rhamnose isomerase
+STM4047	rhamnulokinase
+STM4048	transcriptional activator RhaS
+STM4049	AraC family transcriptional regulator
+STM4050	rhamnose/proton symporter RhaT
+STM4051	putative outer membrane protein
+STM4052	TRAP-type C4-dicarboxylate transporter permease
+STM4053	TRAP transporter small permease
+STM4054	hypothetical protein
+STM4055	superoxide dismutase
+STM4056	putative cytoplasmic protein
+STM4057	hypothetical protein
+STM4058	two-component system sensor histidine kinase CpxA
+STM4059	DNA-binding response regulator
+STM4060	stress adaptor protein CpxP
+STM4061	divalent metal cation transporter FieF
+STM4062	6-phosphofructokinase
+STM4063	sulfate transporter subunit
+STM4064	CDP-diacylglycerol diphosphatase
+STM4065	MFS transporter
+STM4066	aminoimidazole riboside kinase
+STM4067	putative ADP-ribosylglycohydrolase
+STM4068	GntR family transcriptional regulator
+STM4069	hypothetical protein
+STM4070	putative cytoplasmic protein
+STM4071	putative mannose-6-phosphate isomerase
+STM4072	autoinducer-2 kinase
+STM4073	putative transcriptional repressor
+STM4074	autoinducer 2 ABC transporter ATP-binding protein LsrA
+STM4075	autoinducer 2 ABC transporter permease LsrC
+STM4076	putative sugar transport protein
+STM4077	autoinducer 2 ABC transporter substrate-binding protein
+STM4078	autoinducer 2 aldolase
+STM4079	putative inner membrane protein
+STM4080	epimerase
+STM4081	triose-phosphate isomerase
+STM4082	hypothetical protein
+STM4083	hypothetical protein
+STM4084	ferredoxin--NADP(+) reductase
+STM4085	class II fructose-1,6-bisphosphatase
+STM4086	glycerol kinase
+STM4087	aquaporin
+STM4088	septal ring assembly protein ZapB
+STM4089	ribonuclease E activity regulator RraA
+STM4090	1,4-dihydroxy-2-naphthoate polyprenyltransferase
+STM4091	HslU--HslV peptidase ATPase subunit
+STM4092	HslU--HslV peptidase proteolytic subunit
+STM4093	cell division protein FtsN
+STM4094	DNA-binding transcriptional regulator CytR
+STM4095	factor Y
+STM4096	50S ribosomal protein L31
+STM4097	hypothetical protein
+STM4098	aryl-sulfate sulfotransferase
+STM4099	transcriptional repressor MetJ
+STM4100	cystathionine gamma-synthase
+STM4101	bifunctional aspartate kinase/homoserine dehydrogenase II
+STM4102	mechanosensitive ion channel protein MscS
+STM4103	hypothetical protein
+STM4104	multifunctional 2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'-nucleotidase/3'-nucleotidase
+STM4105	methylenetetrahydrofolate reductase [NAD(P)H
+STM4106	catalase/peroxidase HPI
+STM4107	DUF1287 domain-containing protein
+STM4108	glycerol dehydrogenase
+STM4109	fructose-6-phosphate aldolase
+STM4110	phosphoenolpyruvate--protein phosphotransferase
+STM4112	PTS fructose-specific transporter subunit EIIC
+STM4113	PTS fructose-specific transporter subunit EIIB
+STM4114	formate C-acetyltransferase
+STM4115	[formate-C-acetyltransferase
+STM4116	PTS fructose-specific transporter subunit EIIB
+STM4117	AraC family transcriptional regulator
+STM4118	hypothetical protein
+STM4119	phosphoenolpyruvate carboxylase
+STM4120	acetylornithine deacetylase
+STM4121	N-acetyl-gamma-glutamyl-phosphate reductase
+STM4122	acetylglutamate kinase
+STM4123	argininosuccinate lyase
+STM4125	DNA-binding transcriptional regulator OxyR
+STM4126	NAD(P)(+) transhydrogenase
+STM4127	DNA-binding transcriptional regulator FabR
+STM4128	hypothetical protein
+STM4129	tRNA (uridine(54)-C5)-methyltransferase TrmA
+STM4130	TonB-dependent vitamin B12 receptor
+STM4131	glutamate racemase
+STM4137	UDP-N-acetylenolpyruvoylglucosamine reductase
+STM4138	biotin--[acetyl-CoA-carboxylase
+STM4139	type I pantothenate kinase
+STM4141	hypothetical protein
+STM4146	translation elongation factor Tu
+STM4147	preprotein translocase subunit SecE
+STM4148	transcription termination/antitermination protein NusG
+STM4149	50S ribosomal protein L11
+STM4150	50S ribosomal protein L1
+STM4151	50S ribosomal protein L10
+STM4152	50S ribosomal protein L7/L12
+STM4153	DNA-directed RNA polymerase subunit beta
+STM4154	DNA-directed RNA polymerase subunit beta'
+STM4155	putative inner membrane protein
+STM4156	hypothetical protein
+STM4157	putative cytoplasmic protein
+STM4158	hypothetical protein
+STM4159	thiamine biosynthesis protein ThiH
+STM4160	thiazole synthase
+STM4161	sulfur carrier protein ThiS
+STM4162	molybdopterin/thiamine biosynthesis adenylyltransferase
+STM4163	thiamine-phosphate diphosphorylase
+STM4164	phosphomethylpyrimidine synthase ThiC
+STM4165	anti-RNA polymerase sigma 70 factor
+STM4166	NADH pyrophosphatase
+STM4167	uroporphyrinogen decarboxylase
+STM4168	endonuclease V
+STM4169	hypothetical protein
+STM4170	DNA-binding protein
+STM4171	hypothetical protein
+STM4172	zinc resistance protein
+STM4173	sensory histidine kinase
+STM4174	two-component system response regulator
+STM4175	phosphoribosylamine--glycine ligase
+STM4176	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+STM4181	putative acetyltransferase
+STM4182	homoserine O-succinyltransferase
+STM4183	malate synthase A
+STM4184	isocitrate lyase
+STM4185	bifunctional isocitrate dehydrogenase kinase/phosphatase
+STM4186	putative cytoplasmic protein
+STM4187	transcriptional regulator IclR
+STM4188	B12-dependent homocysteine-N5-methyltetrahydrofolate transmethylase
+STM4189	PNaS family transporter
+STM4190	dipeptidase E
+STM4191	hypothetical protein
+STM4192	hypothetical protein
+STM4193	23S rRNA pseudouridine synthase F
+STM4194	hypothetical protein
+STM4195	bile acid:sodium symporter
+STM4196	hypothetical protein
+STM4197	putative inner membrane protein
+STM4198	hypothetical protein
+STM4199	hypothetical protein
+STM4200	phage tail protein
+STM4201	phage tail protein I
+STM4202	baseplate protein
+STM4203	baseplate protein
+STM4204	hypothetical protein
+STM4205	glycosyltransferase
+STM4206	translocase
+STM4207	baseplate protein
+STM4208	phage protein D
+STM4209	hypothetical protein
+STM4210	putative methyl-accepting chemotaxis protein
+STM4211	phage tail tape measure protein
+STM4212	phage major tail tube protein
+STM4213	phage tail protein
+STM4214	hypothetical protein
+STM4215	hypothetical protein
+STM4216	hypothetical protein
+STM4217	lytic murein transglycosylase
+STM4218	hypothetical protein
+STM4219	putative cytoplasmic protein
+STM4220	lysine-sensitive aspartokinase III
+STM4221	glucose-6-phosphate isomerase
+STM4222	putative outer membrane protein
+STM4223	putative outer membrane lipoprotein
+STM4224	hypothetical protein
+STM4225	hypothetical protein
+STM4226	phosphate-starvation-inducible protein PsiE
+STM4227	maltose transporter permease
+STM4228	maltose ABC transporter permease MalF
+STM4229	maltose transport protein
+STM4230	ABC transporter ATP-binding protein
+STM4231	maltoporin
+STM4232	maltose regulon protein MalM
+STM4233	chorismate lyase
+STM4234	4-hydroxybenzoate polyprenyltransferase
+STM4235	glycerol-3-phosphate 1-O-acyltransferase
+STM4236	diacylglycerol kinase
+STM4237	repressor LexA
+STM4238	DNA-damage-inducible protein F
+STM4239	putative cytoplasmic protein
+STM4240	putative cytoplasmic protein
+STM4241	ZnuABC operon transcriptional repressor
+STM4242	conjugal transfer protein
+STM4243	tRNA dihydrouridine(20/20a) synthase DusA
+STM4244	phage shock protein G
+STM4245	quinone oxidoreductase
+STM4246	putative replicative DNA helicase
+STM4247	alanine racemase
+STM4248	aromatic amino acid aminotransferase
+STM4249	acid phosphatase/phosphotransferase
+STM4250	hypothetical protein
+STM4251	hypothetical protein
+STM4252	hypothetical protein
+STM4253	putative outer membrane lipoprotein
+STM4254	excinuclease ABC subunit A
+STM4255	hypothetical protein
+STM4256	ssDNA-binding protein
+STM4257	hypothetical protein
+STM4258	hypothetical protein
+STM4259	ABC transporter
+STM4260	cation transporter
+STM4261	hypothetical protein
+STM4262	antibiotic ABC transporter ATP-binding protein
+STM4263	hypothetical protein
+STM4264	hypothetical protein
+STM4265	AraC family transcriptional regulator
+STM4266	redox-sensitive transcriptional activator SoxR
+STM4267	putative glutathione S-transferase
+STM4268	permease
+STM4269	Na+/H+ antiporter
+STM4270	putative LysR family transcriptional regulator
+STM4271	murein hydrolase regulator LrgA
+STM4272	murein hydrolase effector protein LrgB
+STM4273	cation/acetate symporter ActP
+STM4274	hypothetical protein
+STM4275	acetate--CoA ligase
+STM4276	entericidin B precursor
+STM4277	ammonia-forming cytochrome c nitrite reductase subunit c552
+STM4278	formate-dependent nitrite reductase
+STM4279	cytochrome c nitrite reductase Fe-S protein
+STM4280	cytochrome c nitrite reductase subunit NrfD
+STM4281	nitrite reductase
+STM4282	formate-dependent nitrite reductase complex subunit NrfG
+STM4283	glutamate/aspartate:proton symporter GltP
+STM4284	hypothetical protein
+STM4285	formate dehydrogenase
+STM4286	aspartyl beta-hydroxylase
+STM4287	putative regulator in phn operon
+STM4288	VOC family protein
+STM4289	hypothetical protein
+STM4290	proline/betaine transporter
+STM4291	sensory kinase in two-component regulatory system with BasR
+STM4292	two-component system response regulator BasR
+STM4293	phosphoethanolamine transferase EptA
+STM4294	arginine:agmatine antiporter
+STM4295	AraC family transcriptional regulator
+STM4296	arginine decarboxylase
+STM4297	transcriptional regulator MelR
+STM4298	alpha-galactosidase
+STM4299	melibiose:sodium transporter MelB
+STM4300	fumarate hydratase
+STM4301	anaerobic C4-dicarboxylate transporter
+STM4302	hypothetical protein
+STM4303	two-component system response regulator DcuR
+STM4304	two-component system sensor histidine kinase DcuS
+STM4305	putative anaerobic dimethyl sulfoxide reductase, subunit A
+STM4306	anaerobic dimethyl sulfoxide reductase subunit B
+STM4307	anaerobic dimethyl sulfoxide reductase subunit C
+STM4308	putative component of anaerobic dehydrogenases
+STM4309	hypothetical protein
+STM4310	hypothetical protein
+STM4311	IS200/IS605 family transposase
+STM4312	hypothetical protein
+STM4313	putative cytoplasmic protein
+STM4314	putative luxR family bacterial regulatory proteins
+STM4315	AraC family transcriptional regulator
+STM4316	hypothetical protein
+STM4317	CopG family transcriptional regulator
+STM4318	GNAT family N-acetyltransferase
+STM4319	phosphatase PAP2 family protein
+STM4319a	ethyl tert-butyl ether degradation protein EthD
+STM4320	MerR family transcriptional regulator
+STM4322	MerR family transcriptional regulator
+STM4323	protein-disulfide reductase DsbD
+STM4324	divalent-cation tolerance protein CutA
+STM4325	C4-dicarboxylate transporter
+STM4326	aspartase
+STM4327	suppresses F exclusion of bacteriophage T7
+STM4328	L-methionine/branched-chain amino acid transporter
+STM4329	co-chaperone GroES
+STM4330	chaperonin GroL
+STM4331	putative outer membrane lipoprotein
+STM4332	hypothetical protein
+STM4333	EF-P beta-lysylation protein EpmB
+STM4334	elongation factor P
+STM4335	putative entericidin A precursor
+STM4336	putative entericidin B precursor
+STM4337	LuxR family transcriptional regulator
+STM4338	QacE family quaternary ammonium compound efflux SMR transporter
+STM4339	hypothetical protein
+STM4340	fumarate reductase subunit D
+STM4341	fumarate reductase subunit C
+STM4342	succinate dehydrogenase/fumarate reductase iron-sulfur subunit
+STM4343	fumarate reductase (quinol) flavoprotein subunit
+STM4344	elongation factor P lysine(34) lysyltransferase
+STM4345	glutamate/gamma-aminobutyrate family transporter YjeM
+STM4346	hypothetical protein
+STM4347	miniconductance mechanosensitive channel MscM
+STM4348	phosphatidylserine decarboxylase
+STM4349	putative GTPase
+STM4350	oligoribonuclease
+STM4351	arginine ABC transporter substrate-binding protein
+STM4355	putative Fe-S protein
+STM4356	bifunctional ADP-dependent (S)-NAD(P)H-hydrate dehydratase/NAD(P)H-hydrate epimerase
+STM4357	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE
+STM4358	N-acetylmuramoyl-L-alanine amidase AmiB
+STM4359	DNA mismatch repair protein MutL
+STM4360	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA
+STM4361	RNA chaperone Hfq
+STM4362	GTPase HflX
+STM4363	FtsH protease regulator HflK
+STM4364	protease modulator HflC
+STM4365	DUF2065 domain-containing protein
+STM4366	adenylosuccinate synthase
+STM4367	transcriptional repressor NsrR
+STM4368	ribonuclease R
+STM4369	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB
+STM4370	hypothetical protein
+STM4371	putative phage shock protein A
+STM4372	hypothetical protein
+STM4373	putative cytoplasmic protein
+STM4374	hypothetical protein
+STM4375	hypothetical protein
+STM4376	putative glutathionylspermidine synthase
+STM4377	isovaleryl-CoA dehydrogenase
+STM4378	putative inner membrane protein
+STM4379	biofilm stress/motility protein A
+STM4380	esterase
+STM4381	transcriptional repressor UlaR
+STM4382	L-ascorbate 6-phosphate lactonase
+STM4383	putative PTS enzyme IIsga subunit
+STM4384	PTS L-ascorbate transporter subunit IIB
+STM4385	PTS ascorbate-specific transporter subunit IIA
+STM4386	3-keto-L-gulonate-6-phosphate decarboxylase
+STM4387	xylulose 5-phosphate 3-epimerase
+STM4388	L-ribulose-5-phosphate 4-epimerase
+STM4389	hypothetical protein
+STM4390	putative cytoplasmic protein
+STM4391	30S ribosomal protein S6
+STM4392	primosomal replication protein N
+STM4393	30S ribosomal protein S18
+STM4394	50S ribosomal protein L9
+STM4395	EamA family transporter
+STM4396	hypothetical protein
+STM4397	FKBP-type 22KD peptidyl-prolyl cis-trans isomerase
+STM4398	D-serine/D-alanine/glycine transporter
+STM4399	iron-sulfur cluster repair di-iron protein
+STM4400	EamA family transporter
+STM4401	NAD(P)-dependent oxidoreductase
+STM4402	putative transcriptional regulator
+STM4403	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+STM4404	3'(2'),5'-bisphosphate nucleotidase CysQ
+STM4405	hypothetical protein
+STM4406	putative cytoplasmic protein
+STM4407	hypothetical protein
+STM4408	peptide-methionine (S)-S-oxide reductase
+STM4409	hypothetical protein
+STM4410	translocation/assembly module TamB
+STM4411	gamma-glutamylcyclotransferase
+STM4412	MFS transporter
+STM4413	metal-dependent hydrolase
+STM4414	inorganic pyrophosphatase
+STM4415	fructose-bisphosphatase
+STM4416	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+STM4417	MurR/RpiR family transcriptional regulator
+STM4418	MFS transporter
+STM4419	MFS transporter
+STM4420	5-deoxy-glucuronate isomerase
+STM4421	methylmalonate-semialdehyde dehydrogenase (acylating)
+STM4422	hypothetical protein
+STM4423	putative AraC-type DNA-binding domain-containing protein
+STM4424	putative endonuclease
+STM4425	inositol 2-dehydrogenase
+STM4426	lysosomal glucosyl ceramidase
+STM4427	putative endonuclease
+STM4428	arabinose transporter
+STM4430	putative sugar kinase
+STM4429	putative cytoplasmic protein
+STM4431	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing)
+STM4432	putative thiamine pyrophosphate-requiring enzyme
+STM4433	inositol 2-dehydrogenase
+STM4434	MFS transporter
+STM4435	inosose isomerase
+STM4436	protein iolH
+STM4437	hypothetical protein
+STM4438	metalloprotease PmbA
+STM4439	cytochrome b562
+STM4440	putative cytoplasmic protein
+STM4441	hypothetical protein
+STM4442	putative cytoplasmic protein
+STM4443	hypothetical protein
+STM4444	hypothetical protein
+STM4445	putative dihydroorotase
+STM4446	L-seryl-tRNA selenium transferase
+STM4447	2-dehydro-3-deoxyphosphooctonate aldolase
+STM4448	transcription antiterminator BglG
+STM4449	bifunctional antitoxin/transcriptional repressor RelB
+STM4450	mRNA-degrading endonuclease RelE
+STM4451	anaerobic ribonucleotide reductase-activating protein
+STM4452	anaerobic ribonucleoside-triphosphate reductase
+STM4453	trehalose- 6-P hydrolase
+STM4455	trehalose operon repressor
+STM4456	magnesium-translocating P-type ATPase
+STM4457	putative transposase
+STM4458	reactive intermediate/imine deaminase
+STM4459	aspartate carbamoyltransferase regulatory subunit
+STM4460	aspartate carbamoyltransferase catalytic subunit
+STM4461	pyrBI operon leader peptide
+STM4462	putative cytoplasmic protein
+STM4463	putative arginine repressor
+STM4464	ion transporter superfamily protein
+STM4465	putative ornithine carbamoyltransferase
+STM4466	putative carbamate kinase
+STM4467	putative arginine deiminase
+STM4468	toxin-antitoxin biofilm protein TabA
+STM4469	ornithine carbamoyltransferase
+STM4470	ribonuclease E inhibitor B
+STM4471	tRNA 2-methylthio-N6-isopentenyl adenosine(37) hydroxylase MiaE
+STM4472	hypothetical protein
+STM4473	GNAT family N-acetyltransferase
+STM4474	hypothetical protein
+STM4475	valine--tRNA ligase
+STM4476	DNA polymerase III, chi subunit
+STM4477	leucyl aminopeptidase
+STM4478	hypothetical protein
+STM4479	lipopolysaccharide ABC transporter permease LptF
+STM4480	lipopolysaccharide ABC transporter permease LptG
+STM4481	transcriptional regulator
+STM4482	gluconate permease
+STM4483	5-keto-D-gluconate-5-reductase
+STM4484	L-idonate 5-dehydrogenase
+STM4485	gluconate kinase
+STM4486	putative alcohol dehydrogenase
+STM4488	DUF4102 domain-containing protein
+STM4489	DNA helicase
+STM4490	putative Mrr restriction endonuclease
+STM4491	putative ATP-dependent Lon protease
+STM4492	putative cytoplasmic protein
+STM4493	putative cytoplasmic protein
+STM4494	sugar/spermidine/putrescine ABC transporter ATP-binding protein
+STM4495	type II restriction enzyme methylase subunit
+STM4496	DNA repair protein
+STM4497	hypothetical protein
+STM4498	putative inner membrane protein
+STM4499	putative cytoplasmic protein
+STM4500	putative SAM-dependent methyltransferase
+STM4501	hypothetical protein
+STM4502	hypothetical protein
+STM4503	putative inner membrane protein
+STM4504	hypothetical protein
+STM4505	hypothetical protein
+STM4506	putative dienelactone hydrolase
+STM4507	GntR family transcriptional regulator
+STM4508	tryptophan--tRNA ligase
+STM4509	putative cytoplasmic protein
+STM4510	putative aspartate racemase
+STM4511	putative LysR family transcriptional regulator
+STM4512	beta-aspartyl-peptidase
+STM4513	hypothetical protein
+STM4514	putative inner membrane protein
+STM4515	MFS transporter
+STM4516	hypothetical protein
+STM4517	MFS transporter
+STM4518	hypothetical protein
+STM4519	succinate-semialdehyde dehydrogenase
+STM4520	hypothetical protein
+STM4521	DUF1127 domain-containing protein
+STM4522	hypothetical protein
+STM4523	endoribonuclease SymE
+STM4524	restriction endonuclease subunit S
+STM4525	DNA methylase M
+STM4526	type I restriction-modification system endonuclease
+STM4527	restriction endonuclease
+STM4528	hypothetical protein
+STM4529	type II toxin-antitoxin system antitoxin BrnA
+STM4530	putative cobalamin synthesis protein
+STM4531	hypothetical protein
+STM4532	carbon starvation protein A
+STM4533	methyl-accepting chemotaxis protein II
+STM4534	Fis family transcriptional regulator
+STM4535	PTS sugar transporter
+STM4536	PTS mannose/fructose/sorbose transporter subunit IIB
+STM4537	PTS sugar transporter
+STM4538	putative PTS permease
+STM4539	glucosamine--fructose-6-phosphate aminotransferase
+STM4540	putative glucosamine-fructose-6-phosphate aminotransferase
+STM4541	phosphoglycerol transferase I
+STM4542	hypothetical protein
+STM4543	DNA replication protein DnaC
+STM4544	primosomal protein DnaI
+STM4545	hypothetical protein
+STM4546	hypothetical protein
+STM4547	putative LuxR/UhpA family transcriptional regulator
+STM4548	transcriptional regulator (activator) of bgl operon
+STM4549	cys-tRNA(pro)/cys-tRNA(cys) deacylase
+STM4550	siderophore-iron reductase FhuF
+STM4551	GGDEF domain-containing protein
+STM4552	putative inner membrane protein
+STM4556	16S rRNA (guanine(1207)-N(2))-methyltransferase
+STM4557	DNA polymerase III subunit psi
+STM4558	ribosomal-protein-alanine N-acetyltransferase
+STM4559	putative haloacid dehalogenase-like hydrolase
+STM4560	peptide chain release factor 3
+STM4561	molecular chaperone OsmY
+STM4562	putative inner membrane protein
+STM4563	patatin family protein
+STM4564	metal-dependent hydrolase
+STM4565	glycine radical enzyme activase
+STM4566	YjjI family glycine radical enzyme
+STM4567	2-deoxyribose-5-phosphate aldolase
+STM4568	thymidine phosphorylase
+STM4569	phosphopentomutase
+STM4570	purine-nucleoside phosphorylase
+STM4571	hypothetical protein
+STM4572	fimbrial assembly protein
+STM4573	fimbrial chaperone protein
+STM4574	hypothetical protein
+STM4575	hypothetical protein
+STM4576	lipoate--protein ligase
+STM4577	hypothetical protein
+STM4578	phosphoserine phosphatase SerB
+STM4579	DNA repair protein RadA
+STM4580	trifunctional nicotinamide-nucleotide adenylyltransferase/ribosylnicotinamide kinase/transcriptional regulator NadR
+STM4581	energy-dependent translational throttle protein EttA
+STM4582	soluble lytic murein transglycosylase
+STM4583	Trp operon repressor
+STM4584	inosine/xanthosine triphosphatase
+STM4585	phosphoglycerate mutase
+STM4586	transcriptional regulator
+STM4587	hypothetical protein
+STM4588	two-component system response regulator CreB
+STM4589	two-component system sensor histidine kinase CreC
+STM4590	cell envelope integrity protein CreD
+STM4591	major fimbrial protein SthE
+STM4592	fimbrial protein SthD
+STM4593	putative fimbrial usher protein
+STM4594	fimbrial assembly chaperone SthB
+STM4595	fimbrial protein SthA
+STM4596	hypothetical protein
+STM4597	hypothetical protein
+STM4598	OmpR family response regulator ArcA
+STM4599	hypothetical protein
+STM4600	tRNA/rRNA methyltransferase
+PSLT001	putative cytoplasmic protein
+PSLT002	putative phospholipase D
+PSLT003	DNA replication
+PSLT004	DNA replication
+PSLT005	replication of plasmid
+PSLT006	DNA replication
+PSLT007	putative outer membrane protein
+PSLT008	sdiA-regulated gene;putative bacterial regulatory helix-turn-helix proteins, araC family
+PSLT009	resistance to complement killing
+PSLT010	sdiA-regulated gene; putative outer membrane protein
+PSLT011	sdiA-regulated gene; putative thiol-disulfide isomerase or thioredoxin
+PSLT012	putative bacterial regulatory proteins, luxR family
+PSLT013	plasmid-encoded fimbriae; regulatory
+PSLT014	putative outer membrane protein
+PSLT015	putative outer membrane protein
+PSLT016	plasmid-encoded fimbriae;chaperone
+PSLT017	plasmid-encoded fimbriae; usher protein
+PSLT018	plasmid-encoded fimbriae; major fimbrial subunit
+PSLT019	plasmid-encoded fimbriae;regulation
+PSLT020	hypothetical protein
+PSLT023	DNA replication
+PSLT024	hypothetical protein
+PSLT025	putative cytoplasmic protein
+PSLT026	putative periplasmic protein
+PSLT027	toxin addiction system: antidote
+PSLT028	toxin addiction system: toxin
+PSLT029	putative cytoplasmic protein
+PSLT030	putative cytoplasmic protein
+PSLT031	resolvase
+PSLT032	putative diguanylate cyclase/phosphodiesterase
+PSLT033	putative inner membrane protein
+PSLT034	putative adhesin
+PSLT035	putative transposase
+PSLT036	putative transposase, IS200-like
+PSLT037	Salmonella plasmid virulence: hydrophilic protein
+PSLT038	Salmonella plasmid virulence: hydrophilic protein
+PSLT039	Salmonella plasmid virulence: hydrophilic protein
+PSLT040	Salmonella plasmid virulence: outer membrane protein
+PSLT041	Salmonella plasmid virulence: regulation of spv operon, lysR family
+PSLT042	putative integrase protein
+PSLT043	putative phosphoribulokinase / uridine kinase family
+PSLT044	putative integrase protein
+PSLT045	putative resolvase
+PSLT046	putative carbonic anhydrase
+PSLT047	putative cytoplasmic protein
+PSLT048	alpha-helical coiled coil protein
+PSLT049	putative DNA polymerase III epsilon subunit (3'-5' exonuclease)
+PSLT050	putative cytoplasmic protein
+PSLT051	putative cytoplasmic protein
+PSLT052	plasmid partition protein A
+PSLT053	plasmid partition protein B
+PSLT054	mutagenesis by UV and mutagens; related to umuDC operon
+PSLT055	mutagenesis by UV and mutagens; related to umuDC operon
+PSLT056	putative cytoplasmic protein
+PSLT057	putative cytoplasmic protein
+PSLT059	putative adenine-specific DNA methylase
+PSLT060	putative cytoplasmic protein
+PSLT061	putative inner membrane protein
+PSLT062	putative cytoplasmic protein
+PSLT063	putative cytoplasmic protein
+PSLT064	putative inner membrane protein
+PSLT066	single-strand binding protein
+PSLT067	putative cytoplasmic protein
+PSLT068	putative ParB-like nuclease domain
+PSLT069	Plasmid SOS inhibition
+PSLT070	Plasmid SOS inhibition
+PSLT072	putative transglycosylase
+PSLT073	conjugative transfer: mating signal
+PSLT075	conjugative transfer: regulation
+PSLT076	conjugative transfer: oriT nicking
+PSLT077	conjugative transfer: fimbrial subunit
+PSLT078	conjugative transfer: assembly
+PSLT079	conjugative transfer: assembly
+PSLT080	conjugative transfer: assembly
+PSLT081	conjugative transfer: assembly
+PSLT082	conjugative transfer
+PSLT083	conjugative transfer protein
+PSLT084	conjugative transfer: assembly
+PSLT085	conjugative transfer
+PSLT087	conjugative transfer protein
+PSLT088	conjugative transfer: assembly
+PSLT089	conjugative transfer
+PSLT091	conjugative transfer: assembly
+PSLT092	conjugative transfer: assembly
+PSLT093	conjugative transfer protein
+PSLT094	conjugative transfer: assembly
+PSLT095	conjugative transfer: aggregate stability
+PSLT096	conjugative transfer
+PSLT097	conjugative transfer: assembly
+PSLT098	conjugative transfer: fimbrial synthesis
+PSLT099	conjugative transfer
+PSLT100	conjugative transfer: assembly
+PSLT101	conjugative transfer: assembly abd aggregate stability
+PSLT102	conjugative transfer: surface exclusion
+PSLT103	conjugative transfer: surface exclusion
+PSLT104	conjugative transfer: DNA transport
+PSLT105	conjugative transfer
+PSLT106	homologue of mvpA, Shigella flexneri
+PSLT107	putative cytoplasmic protein
+PSLT108	conjugative transfer: oriT nicking-unwinding
+PSLT110	conjugative transfer: fimbrial acetylation
+PSLT111	conjugative transfer: regulation

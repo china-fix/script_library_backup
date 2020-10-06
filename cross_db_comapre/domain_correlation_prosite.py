@@ -238,5 +238,11 @@ def main():
 
     print("****\nhi xiao, the correlation analysis was done! Enjoy!\n****")
 
+
+    ### backup the input query_proteins and reference_proteins
+    subprocess.run(["mkdir", "./"+args.OUTPUT+"/INPUT_BACKUP"], check=True)
+    subprocess.run(["cp", args.R_PROTEINS, args.Q_PROTEINS, "./"+args.OUTPUT+"/INPUT_BACKUP/"], check=True)
+    print("****\nhi xiao, I aslo backup the input files in INPUT_BACUP folder, enjoy!\n****")
+
 if __name__ == '__main__':
     sys.exit(main())

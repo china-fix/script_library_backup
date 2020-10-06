@@ -54,6 +54,7 @@ def scan_to_pandatab(input):
     # temp.csv:  ACC   DB   DESCRIPTION   HIT_PROTEINS   HIT_PROTEINS_SIMPLE   HIT_PROTEINS_NUM
     # read the temp.csv and out put the panda object
     pandatab = pd.read_csv("temp.csv", sep='\t')
+    #hitproteins_list= pandatab['HIT_PROTEINS']
     subprocess.run(["rm", "temp.csv"], check=True)
     return pandatab
 
@@ -109,16 +110,46 @@ def Q_R_cross_analysis(dic_Q, dic_R, out_diretory):
         else:
             pass
 
+### subset pd into subset pd according pd['DB']
+def subset (pdobject):
+    DBs=['CDD','COILS','GENE3D','HAMAP','MOBIDB_LITE','PFAM','PIRSF','PRINTS','PROSITE_PATTERNS','PROSITE_PROFILES','SFLD','SMART','SUPERFAMILY','TIGRFAM']
+    pds=[]
+    for DB in DBs:
+        subset_pd = pdobject[pdobject['DB'] == DB]
+        subset_pd_record = [DB,subset_pd]
+        pds.append(subset_pd_record)
+    return pds
+
+
+
+### extract pd['HIT_PROTEINS'] column to list according proteins no duplicate
+def hit_proteins_sum(pdobject, column_name, proteins_txt):
+    protein_list=[]
+    column_list=pdobject[column_name].tolist()
+    for proteins in column_list:
+        for protein in proteins.split(';'):
+            if protein in protein_list:
+                pass
+            else:
+                protein_list.append(protein)
+    with open(proteins_txt, "w") as f:
+        for s in protein_list:
+            f.write(str(s) +"\n")
+
+    
+
+
 
 def main():
     args=parse_args()
     subprocess.run(["mkdir", "./"+args.OUTPUT], check=True)
 
+
     ### /home/fix/export_bin/InterProScan/interproscan-5.46-81.0/interproscan.sh -b ./interpro/test -i protein.fasta -iprlookup -pa ###
-    subprocess.run([args.INTERPROSCAN_BIN, "-b", "./"+args.OUTPUT+"/R_scan", "-i", args.R_PROTEINS, "-iprlookup", "-pa"], check=True)
+    subprocess.run([args.INTERPROSCAN_BIN, "-b", "./"+args.OUTPUT+"/R_scan", "-i", args.R_PROTEINS, "-iprlookup", "-pa", "-goterms"], check=True)
     print("----\n" "hi xiao, InterProScan R_PROTEINS command passed\n" "----")
 
-    subprocess.run([args.INTERPROSCAN_BIN, "-b", "./"+args.OUTPUT+"/Q_scan", "-i", args.Q_PROTEINS, "-iprlookup", "-pa"], check=True)
+    subprocess.run([args.INTERPROSCAN_BIN, "-b", "./"+args.OUTPUT+"/Q_scan", "-i", args.Q_PROTEINS, "-iprlookup", "-pa", "-goterms"], check=True)
     print("----\n" "hi xiao, InterProScan Q_PROTEINS command passed\n" "----")
 
     ### get the pandatabs ###
@@ -131,7 +162,15 @@ def main():
     pandatab_RQ.to_csv("./"+args.OUTPUT+"/domain_correlation.csv", sep='\t') 
     pandatab_RQ_inner.to_csv("./"+args.OUTPUT+"/domain_correlation_inner.csv", sep='\t') 
     
-
+    ### get the inner sum protein list and output
+    subprocess.run(["mkdir", "./"+args.OUTPUT+"/HITPROTEINS"], check=True)
+    pandatab_RQ_inner_subsets=subset(pandatab_RQ_inner)
+    for pandatab_RQ_inner_subset in pandatab_RQ_inner_subsets:
+        hit_proteins_sum(pandatab_RQ_inner_subset[1],'HIT_PROTEINS_R', "./"+args.OUTPUT+"/HITPROTEINS"+"/"+pandatab_RQ_inner_subset[0]+"_HITPROTEINS_R")
+        hit_proteins_sum(pandatab_RQ_inner_subset[1],'HIT_PROTEINS_Q', "./"+args.OUTPUT+"/HITPROTEINS"+"/"+pandatab_RQ_inner_subset[0]+"_HITPROTEINS_Q")
+    
+    
+    
     ### get the dictornary ###
     dic_R = scan_to_dictornary(args.OUTPUT+"/R_scan.xml")
     dic_Q = scan_to_dictornary(args.OUTPUT+"/Q_scan.xml")
@@ -140,6 +179,12 @@ def main():
     Q_R_cross_analysis(dic_Q, dic_R, out_diretory=args.OUTPUT)
     #subprocess.run(["mv", "temp_cross_result.csv","./"+args.OUTPUT+"/cross_result.csv"], check=True)
     print("****\nhi xiao, the correlation analysis was done! Enjoy!\n****")
+
+    ### backup the input query_proteins and reference_proteins
+    subprocess.run(["mkdir", "./"+args.OUTPUT+"/INPUT_BACKUP"], check=True)
+    subprocess.run(["cp", args.R_PROTEINS, args.Q_PROTEINS, "./"+args.OUTPUT+"/INPUT_BACKUP/"], check=True)
+    print("****\nhi xiao, I aslo backup the input files in INPUT_BACUP folder, enjoy!\n****")
+
 
 if __name__ == '__main__':
     sys.exit(main())
