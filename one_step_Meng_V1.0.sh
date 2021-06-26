@@ -1,0 +1,80 @@
+#this is a main one step script combined with different steps
+
+
+start_dir=$(pwd)
+cp -r ./input ./input_assemblys
+mkdir temp_gffs
+
+###using the filter_short_contigs.py
+dir=$(ls ./input)
+for folder in $dir
+do
+	cd $start_dir/input_assemblys/$folder
+	mkdir temp_drop
+	for j in *
+	do
+		python /home/fix/Desktop/pipeline/filter_short_contigs.py --original_fasta $j --output $j.clean --length 500  ##here we set to 500bp to drop
+		mv $j.clean.drop ./temp_drop/$j.drop
+	done
+
+### rename contigs to avoiding prokka annotation errors
+	mkdir temp_rename_save
+	for i in *.clean
+	do
+		python3 /home/fix/Desktop/pipeline/rename_contigs.py --original_fasta $i --output $i.rename
+		cp $i.rename ./temp_rename_save/.
+	done
+
+### annotation with prokka
+	mkdir $folder.gffs
+	for i in *.rename
+	do
+		prokka  --outdir temp_fix --prefix mygenome  --force $i
+		cp temp_fix/mygenome.gff $folder.gffs/$i.gff
+		cp temp_fix/mygenome.gff $start_dir/temp_gffs/$i.gff
+		rm -r temp_fix
+	done
+	cp -r ./$folder.gffs $start_dir/temp_gffs/.
+done
+
+
+
+###runing roary
+#conda activate Bio
+cd $start_dir
+roary -f ./roary_output -e -s -n -cd 95 -p 4 -g 100000 ./temp_gffs/*.gff
+
+###prepare the trait table
+mkdir temp_traits
+dir=$(ls ./input)
+for folder in $dir
+do
+        ls ./input_assemblys/$folder/temp_rename_save > ./temp_traits/$folder.list
+	ls ./input_assemblys/$folder/temp_rename_save > ./temp_traits/$folder.csv
+done
+
+echo > ./temp_traits/traits.header
+dir_1=$(ls ./input)
+for folder_1 in $dir_1
+do
+	sed -i "s/$/,$folder_1/" ./temp_traits/traits.header
+	dir_2=$(ls ./input)
+	for folder_2 in $dir_2
+	do
+		if [ "$folder_2" == "$folder_1" ]; then
+			sed -i "s/$/,1/" ./temp_traits/$folder_2.csv
+		else
+			sed -i "s/$/,0/" ./temp_traits/$folder_2.csv
+		fi
+	done
+done
+cat ./temp_traits/*.csv > ./temp_traits/temp_all_csv
+cat ./temp_traits/traits.header ./temp_traits/temp_all_csv > ./temp_traits/final_traits
+
+
+
+###runing scoary
+#conda activate Bio-scoary
+scoary -o ./scoary_output -u --threads 8 -t ./temp_traits/final_traits  -g ./roary_output/gene_presence_absence.csv
+
+                                                 
