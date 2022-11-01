@@ -75,7 +75,7 @@ def extract_matched_seq(query, reference,tabname, blastcmd, cutoff, seq_descript
     return seqs, seqs_fname
 
 def analysis_seq_types(file_name,group_name):
-    cmd = 'seqkit fx2tab '+file_name+'.f_name'+' > '+file_name+'.f_lename.tab'
+    cmd = 'seqkit fx2tab '+file_name+'.f_name'+' > '+file_name+'.f_name.tab'
     os.system(cmd)
 
     TAB_DF=pd.read_csv(file_name+'.f_name.tab', sep='\t', names=['assembly_name','seq'], index_col=False)
