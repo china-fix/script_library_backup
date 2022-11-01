@@ -78,7 +78,7 @@ def analysis_seq_types(file_name,group_name):
     cmd = 'seqkit fx2tab '+file_name+'.f_name'+' > '+file_name+'.f_lename.tab'
     os.system(cmd)
 
-    TAB_DF=pd.read_csv(file_name+'f_name.tab', sep='\t', names=['assembly_name','seq'], index_col=False)
+    TAB_DF=pd.read_csv(file_name+'.f_name.tab', sep='\t', names=['assembly_name','seq'], index_col=False)
     df=TAB_DF.groupby('seq').count().sort_values(by='assembly_name', ascending=0)
     # df['seq-type'] = [i+1 for i in range(len(df))]
     df.reset_index(inplace=True)
